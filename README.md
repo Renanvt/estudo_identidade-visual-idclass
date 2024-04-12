@@ -1,6 +1,11 @@
 # Tópicos
 
-[O que é a ID Class](#oque-é-a-id-class)
+[ O que é a ID Class](#oque-é-a-id-class)
+[ Oque um bom design precisa](#oque-um-bom-design-precisa)
+[ 3 Habilidades para o sucesso](#3-habilidades-para-o-sucesso)
+[ O fluxo de um projeto](#o-fluxo-de-um-projeto)
+[ O Primeiro contato com o cliente](#o-primeiro-contato-com-o-cliente)
+[ Como conduzir uma reunião (Bré-briefing)](#como-conduzir-uma-reunião-pré-briefing)
 
 # Oque é a ID Class
 
@@ -84,13 +89,20 @@ Beneficios da reunião -> Humanizar o atendimento, entender o cliente, os client
 # O primeiro contato com o cliente
 
 Marcar reunião é um processo de aprendizagem
-Crie um relacionamento com o cliente na reunião
+Crie um **relacionamento** com o cliente na reunião
+
 As pessoas preferem comprar de quem elas conhecem, ou de quem elas tiveram algum contato
+
 Por mais que você cobre mais caro, o cliente dará mais preferência pra você que fez uma reunião do que outros profissionais que não fizeram
-Passar a confiança na reunião, disponibilizar um espaço na sua agenda para atende-lo
+
+Disponibilizar um espaço na sua agenda para atende-lo, passa a confiança
+
 Seja persuasivo para vender o seu projeto
+
 Antes de fazer uma reunião, faça uma análise no CNPJ do cliente para saber qual é o capital social, validação. Estude a empresa buscando suas redes sociais, sites, etc
+
 O cliente gosta quando você estuda sobre a empresa antes, e te coloca a frente em relação a outros designers
+
 Nessa reunião você vai filtrar se esse cliente é ideal pra você ou não, se ele vai te dar trabalho ou não. Você vai deixar o cliente ciente do seu processo
 
 ## Tipos de reuniões
@@ -103,7 +115,7 @@ Evite falar "Vamos marcar uma reunião?"
 
 Reunião está relacionado a procedimentos que pessoas fazem pra perder tempo e que poderiam ser resolvidos de forma muito mais rápida por um email por exemplo
 
-## Como conduzir uma reunião (Pré-briefing)
+# Como conduzir uma reunião (Pré-briefing)
 
 " Quem conduze a reunião é quem ouve "
 Consultar o PDF **O Primeiro contato com o cliente**
@@ -183,8 +195,6 @@ trazer um faturamento de 20% nos três primeiros meses = Cliente egocêntrico = 
 
 - Sua marca já é registrada no INPI?
 Não. Não pretendo registrar = Cliente não demostra ter muita resposabilidade na sua marca = ficar atento. Talvez o cliente queira criar algo mais livre e não queira participar de processos. Importante ter essa questão no briefing.
-
-
 
 
 Marque uma reunião. Se você não se sente preparado para uma reunião, siga esses passos.
