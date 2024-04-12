@@ -12,6 +12,8 @@
 
 [ Como conduzir uma reunião (Bré-briefing)](#como-conduzir-uma-reunião-pré-briefing)
 
+[ Como avaliar um bom cliente](#como-avaliar-um-bom-cliente)
+
 # Oque é a ID Class
 
 - Método para criar um metolodia de identidade visual, abordando todos os passos de forma de detalhada
@@ -151,7 +153,9 @@ Consultar o PDF **O Primeiro contato com o cliente**
 
 6. Explique sobre a sua **metodologia** de forma simples e resumida
 
-7. Proponha soluções baseado no que que você recolheu nessa reunião para que a percepção de valor do seu cliente fique mais acima da percepção de valor que ele vai ter em relação a outras empresas que ele vai analisar
+7. Explique a importancia de um projeto de identidade visual
+
+8. Proponha soluções baseado no que que você recolheu nessa reunião para que a percepção de valor do seu cliente fique mais acima da percepção de valor que ele vai ter em relação a outras empresas que ele vai analisar
 
 - O investimento que o cliente tem no seu projeto pode ser imcompatível com a qualidade do projeto que você entrega. Você cobra 10 mil e ele só tem 5 mil pra investir por exemplo, então não temos um acordo. 
 
@@ -203,3 +207,52 @@ Não. Não pretendo registrar = Cliente não demostra ter muita resposabilidade 
 
 
 Marque uma reunião. Se você não se sente preparado para uma reunião, mande um formulário para o cliente (google forms) 
+
+# Proposta
+
+## Uma boa proposta apresenta os seguintes itens:
+- Nome do cliente
+
+- Nome da empresa
+
+- Data pois depois de um período seus valores podem ter reajustes
+
+- Apresentação
+
+- A importancia de um projeto de identidade visual, deixar mais claro e eviente
+
+- Algumas considerações sobre o projeto que fora relatadas na reunião
+
+- È importante detalhar para o cliente tudo que ele vai receber, logo, manual, aplicações
+
+- Prazos estabelecidos
+
+- Valores e formas de pagamento
+
+# Como avaliar um bom cliente
+
+A forma que o cliente te aborda em primeiro momento, deixa muitas pistas do quão adequado é esse cliente pra você em função no momento que você ta vivendo na sua carreira.
+
+A medida que você vai evoluindo, vocÊ vai identificando alguns pontos de atenção que identifique que o cliente não é ideal pra você
+
+Talvez o cliente te de trabalho demais em relação ao valor que 
+voce está cobrando
+
+A empresa que ja tem um negócio validado e já está no mercado alguns anos, ela ja vai ter um nível de conciencia muito maior. Dê preferência aos negócios que já estão rodando e já estão validados
+
+Estude o cliente, capital social, redes sociais, sites, etc
+
+Quando o capital social do cliente é alto, logo, se identica que esse vai ser o cliente ideal para orçamento de projetos mais robustos
+
+Verificar a quantidade de funcionários que a empresa possui. Uma empresa com 10 funcionários pra cima, significa que ela terá um bom orçamento para investir em design
+
+Avaliar através do ticker médio da empresa o poder de investimento que essa empresa vai ter, e se ela terá orçamento para bancar a sua proposta
+
+Ticket médio = faturamento total de vendas / numero de vendas * tempo
+
+### Avaliar a forma como o cliente escreveu o email
+" Quanto custa para desenvolve uma logo pra minha empresa?
+- Cliente ta buscando preço, então da mesma forma que ele mandou essa mensagem pra você, ele também mandou pra diversos outros designers e está buscado o mais barato, logo, não é o cliente ideal, somente para quem ta começando
+
+" Email mais robusto e detalhado, Olá Jonatan, tenho uma empresa de tal segmento, atuo a tantos anos, etc "
+Esse tipo de ciente é muito mais conciencia do trabalho que você ofereçe e porque ele esta te procurando, logo, é um cliente mais adequado
