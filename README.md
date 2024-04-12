@@ -180,12 +180,12 @@ Consultar o PDF **O Primeiro contato com o cliente**
 
 Uma empresa com faturamento de x, possui x funcionarios, onde cada funcionário recebe um salário mínimo *2 (juntando as margens de lucro do funcionario) = Lucro real da empresa
 
-L = Lucro, receita
-F = Funcionários
-(S*2) = Salário mínimo * Margens de lucro do funcionário
-FM = Faturamento mensal
+**L** = Lucro, receita
+**F** = Funcionários
+**(S*2)** = Salário mínimo * Margens de lucro do funcionário
+**FM** = Faturamento mensal
 
-L = ((S*2) * F ) - FM
+**L = ((S*2) * F ) - FM**
 
 
 ### Nível de conciencia do cliente
@@ -202,6 +202,4 @@ trazer um faturamento de 20% nos três primeiros meses = Cliente egocêntrico = 
 Não. Não pretendo registrar = Cliente não demostra ter muita resposabilidade na sua marca = ficar atento. Talvez o cliente queira criar algo mais livre e não queira participar de processos. Importante ter essa questão no briefing.
 
 
-Marque uma reunião. Se você não se sente preparado para uma reunião, siga esses passos.
-
-Mande um formulário para o cliente (google forms) -> 
+Marque uma reunião. Se você não se sente preparado para uma reunião, mande um formulário para o cliente (google forms) 
