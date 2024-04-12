@@ -1,10 +1,15 @@
 # Tópicos
 
 [ O que é a ID Class](#oque-é-a-id-class)
+
 [ Oque um bom design precisa](#oque-um-bom-design-precisa)
+
 [ 3 Habilidades para o sucesso](#3-habilidades-para-o-sucesso)
+
 [ O fluxo de um projeto](#o-fluxo-de-um-projeto)
+
 [ O Primeiro contato com o cliente](#o-primeiro-contato-com-o-cliente)
+
 [ Como conduzir uma reunião (Bré-briefing)](#como-conduzir-uma-reunião-pré-briefing)
 
 # Oque é a ID Class
