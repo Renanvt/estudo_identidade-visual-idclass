@@ -224,6 +224,13 @@ Marque uma reunião. Se você não se sente preparado para uma reunião, mande u
 
 # Proposta
 
+[Modelo de proposta](/ferramentas/Impulso/05.%20Modelo%20de%20proposta.idml)
+
+[Modelo de proposta](/ferramentas/Impulso/05.%20Modelo%20de%20proposta.indd)
+
+[Modelo de proposta](/ferramentas/Impulso/05.2%20Modelo%20de%20proposta.pdf)
+
+
 ## Uma boa proposta apresenta os seguintes itens:
 - Nome do cliente
 
@@ -317,6 +324,8 @@ Como eu estou começando eu vou cobrar um valor baixo, porém, eu gostaria de qu
 O meu projeto custa x reais, porém eu faço um desconto de 50% pra você porque eu estou 
 
 # Modelo de contrato
+
+[Modelo de contrato](/ferramentas/Impulso/10.2%20Modelo%20de%20contrato.docx)
 
 ## Importancia de um contrato
 
