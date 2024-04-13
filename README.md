@@ -1,4 +1,4 @@
-# IMPULSO
+# Impulso
 
 [ O que é a ID Class](#oque-é-a-id-class)
 
@@ -12,7 +12,19 @@
 
 [ Como conduzir uma reunião (Bré-briefing)](#como-conduzir-uma-reunião-pré-briefing)
 
+[ Proposta](#proposta)
+
 [ Como avaliar um bom cliente](#como-avaliar-um-bom-cliente)
+
+[ Negociação](#negociação)
+
+[ Metodologias](#metodologias)
+
+[ Portfólio](#portfólio)
+
+[ Modelo de contrato ](#modelo-de-contrato)
+
+[ Estratégias de prospecção](#estratc3a9gias-de-prospecc3a7c3a3o-1)
 
 # Oque é a ID Class
 
@@ -196,6 +208,8 @@ Uma empresa com faturamento de x, possui x funcionarios, onde cada funcionário 
 
 - Missão = Ganhar dinheiro = Propósito fraco = Cliente ruim
 
+- Cliente não gosta de contrato ou não quer assinar = cliente ruim
+
 - Empresa de saúde. Cliente diz que consome marcas como Coca-cola, Mac Donalds = Cliente confuso em relação ao seu propósito, e uma certa hipocrisia.
 
 - O oque é o sucesso pra ele em relação a esse projeto? 
@@ -256,3 +270,79 @@ Ticket médio = faturamento total de vendas / numero de vendas * tempo
 
 " Email mais robusto e detalhado, Olá Jonatan, tenho uma empresa de tal segmento, atuo a tantos anos, etc "
 Esse tipo de ciente é muito mais conciencia do trabalho que você ofereçe e porque ele esta te procurando, logo, é um cliente mais adequado
+
+# Negociação
+
+Cliente pergunta se você teria a disponibilidade de negociar, pois viu que o valor passou do orçamento. Vale a pena negociar?
+
+A negociação precisa ser benéfica para ambos os lados
+
+Se você vai abaixar o preço porque o cliente ta pedindo, vai gerar um efeito negativo se você não tirar nenhuma parte no projeto.
+
+Se você resolver abaixar o preço, você terá que mexer em alguma coisa no projeto. Por exemplo. Eu faço mais barato se você pagar tudo agora, os 100% a vista, ao inves dos 50%
+
+Se você resolver abaixar o preço, negocie com o cliente o seguinte: eu faço mais barato se eu fizer um projeto com menas complexibilidade e menos materiais
+
+Considerar o parcelamento. 
+
+Quando o cliente acha caro pode ser pois dos motivos: porque ele não entendeu no que o seu trabalho pode agregar na empresa dele ou porque ele não tem investimento no momento para arcar. Nesse caso, considere o parcelamento
+
+# Metodologias
+
+È imporante agrupar seu processo de trabalho em metodologias, como
+
+- Metodologia rápida (express) = mais barata
+- Metodologia 2 mais aprofundada
+- Metodologia 3 mais aprofundada entrando na parte de brading, pacotes, etc
+
+# Portfólio
+
+É a vitrine do design
+Permite com que você pratique valores maiores
+Quando um portfólio é fraco, a percepção de valor do cliente sobre seu trabalho vai ser baixa e ele vai pedir desconto e isso vai ser um argumento a favor dele. E infelizmente você vai ter que ceder
+
+Crie projetos fictícios, pois gera conhecimento, experiencia
+Antes de pegar um cliente ideal, faça 3 ou 4 projetos fictícios, ajudando a exercitar
+
+## Onde estaram os primeiros cliente?
+
+- No seu circulo de amizade, parentes, etc
+- Cobre de graça para eles
+  
+## Dicas para iniciantes  
+
+Caso seja iniciante diga para o cliente:
+Como eu estou começando eu vou cobrar um valor baixo, porém, eu gostaria de que você caso me indique para algum outro cliente no futuro, não revele o valor do projeto porque eu to começando. Caso você revele o valor do projeto para um cliente que é baixo, você diz que esse valor é baixo porque são meus primeiros projeto, no próximo o valor vai aumentar
+
+O meu projeto custa x reais, porém eu faço um desconto de 50% pra você porque eu estou 
+
+# Modelo de contrato
+
+## Importancia de um contrato
+
+O contrato é uma ferramenta que diz que tanto você quanto o seu cliente se entenderam sobre aqueles termos e sobre oque vai ser criado. Oque um vai ofereçer e oque o outro vai receber
+
+O contrato é bom quando nunca precisa ser usado para uma discusão. O contrato só precisa existir para manter o cliente protegido e para você se sentir protegido
+
+Em alguns momento você pode abrir mão do contrato quando você ve que não é necessário, por sua conta e risco
+
+Um contrato para o mercado criativo é diferente do que um contrato de compra e venda de aluguel por exemplo
+
+O contrato disponibilizado foi feito por *Moisés* que é especialista em leis voltadas para o mercado criativo
+
+- Proteje voce de calote
+
+- Proteje o seu cliente
+
+- Quando o cliente começar a te pedir coisas que não fazem sentido, você pode a qualquer momento invocar o contrato e avalar. Isso foi o nosso combinado, você lembra? ta assinado aqui?
+
+- Mesmo que você esteja utilizando um contrato, o consenso deve prevalecer, e você deve ponderar oque é simples e oque não é para ser adicionado como cortesia
+Por exemplo:
+o cliente deseja uma assinatura de email que não esta no contrato.
+Olha, isso não ta no contrato, a gente vai fazer assim mesmo, como uma cortesia
+
+# Estratégias de prospecção
+
+Consulte o material **Estratégias de prospecção**
+
+![Estratégia de Prospecção](/ferramentas/Impulso/11.2%20Estratégias%20de%20prospecção.docx)
