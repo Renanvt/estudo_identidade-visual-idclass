@@ -345,4 +345,4 @@ Olha, isso não ta no contrato, a gente vai fazer assim mesmo, como uma cortesia
 
 Consulte o material **Estratégias de prospecção**
 
-![Estratégia de Prospecção](/ferramentas/Impulso/11.2%20Estratégias%20de%20prospecção.docx)
+[Estratégia de Prospecção](/ferramentas/Impulso/11.2%20Estratégias%20de%20prospecção.docx)
