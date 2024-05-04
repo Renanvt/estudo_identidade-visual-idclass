@@ -17,7 +17,7 @@ Tipografia é **arte**+**técnica**+**tecnologia**
 
 Quem tinha acesso aos livros antes de 1500 era os nobres, igreja e muitas pessoas não sabiam ler e não tinham acesso a informações. A partir dos tipos móveis,tipografia e Gutenberg que os livros começaram a ser impressos por escala, gerando a democratização do conhecimento
 
-[Tipo1](/src/img/tipo1.PNG)
+![Tipo1](/src/img/tipo1.PNG)
 
 
 # Tipografia na identidade visual
@@ -27,17 +27,17 @@ O papel da tipografia em um projeto de identidade visual é muito importante, po
 O papel da tipografia em um projeto de identidade visual é trazer personalidade, a mensagem que ela quer transmitir pro mundo, a identificação para o seu público alvo e a diferenciação para que a marca não fique igual a todas as outras
 
 ## A Tipografia é presente no logotipo
-[Tipo2](/src/img/tipo2.PNG)
+![Tipo2](/src/img/tipo2.PNG)
 
 ## A Tipografia é presente como apoio
-[Tipo3](/src/img/tipo3.PNG)
-[Tipo4](/src/img/tipo4.PNG)
+![Tipo3](/src/img/tipo3.PNG)
+![Tipo4](/src/img/tipo4.PNG)
 
 ## A Tipografia é presente na embalagem
-[Tipo5](/src/img/tipo5.PNG)
+![Tipo5](/src/img/tipo5.PNG)
 
 ## Nos pontos de contato
-[Tipo6](/src/img/tipo6.PNG)
+![Tipo6](/src/img/tipo6.PNG)
 
 A tipografia **carrega a mensagem da marca**
 
@@ -47,7 +47,7 @@ A tipografia **carrega a mensagem da marca**
 ## Tipografia
 
 - Tipografia pode ser utilizada em logos
-[Tipo7](/src/img/tipo7.PNG)
+![Tipo7](/src/img/tipo7.PNG)
 
 ### Característica da tipografia 
 **Alta legibilidade**
@@ -59,7 +59,7 @@ Você pode agregar na tipografia tanto caligrafia quanto leterering
 ## Caligrafia
 
 É a arte de escrever de forma fluída, padronizada, utilizada uma caneta, pinçel, pena ou qualquer tipo de artefato para esse fim.
-[cali1](/src/img/cali1.PNG)
+![cali1](/src/img/cali1.PNG)
 
 Antigamente caligrafia era somente de forma manual.
 
@@ -68,7 +68,7 @@ Antigamente era caro se contratar um profissional de tipografia, então se fizer
 Caligrafia é tipografia de modo caligráfico
 
 - Caligrafia pode ser utilizado em logos
-[cali2](/src/img/cali2.PNG)
+![cali2](/src/img/cali2.PNG)
 
 ### Características da caligrafia
 **Baixa legibilidade**
@@ -81,12 +81,12 @@ Muito utilizado em logotipos de assinaturas, como se fosse o Dono da empresa que
 
 É a arte de desenhar letras de forma livre, sem necessidade de adotar um padrão ou um estilo específico. Não precisa ser fluído ou padronizado.
 
-[letter1](/src/img/letter1.PNG)
+![letter1](/src/img/letter1.PNG)
 
 Você pode misturar estilo tipografáfico tanto como escrito a mão quanto a estilo tipográfico grotesco, serifa, etc.
 
 - Letering pode ser aplicado aos logotipos
-[letter2](/src/img/letter2.PNG)
+![letter2](/src/img/letter2.PNG)
 
 Sensação de que foi feito a mão, porém, não é fluído como a caligrafia
 
@@ -100,25 +100,25 @@ Sensação de que foi feito a mão, porém, não é fluído como a caligrafia
 # Indicação de Livros
 
 ### Ajuda a escolher a tipografia correta de acordo com a mensagem que você quer passar no seu projeto
-[Livro1](/src/img/livro1.PNG)
+![Livro1](/src/img/livro1.PNG)
 > A linguagem visível da tipografia, ErikSpiekermann
 
 ### Introdução a tipografia, conceitos básicos, etc
-[Livro2](/src/img/livro2.PNG)
-[Livro2-2](/src/img/livro2-2.PNG)
+![Livro2](/src/img/livro2.PNG)
+![Livro2-2](/src/img/livro2-2.PNG)
 > Pensar tom tipos Ellen Lupton, Edita GG
 
 ### Muita história sobre tipografia e dicas essenciais
-[Livro3](/src/img/livro3.PNG)
+![Livro3](/src/img/livro3.PNG)
 > Manual de Tipografia, a história, a técnica e a arte. Kate Clair, Cynthia Busic-Snyder
 
 ### Livro pra quem quer criar e desenhar tipos
-[Livro4](/src/img/livro4.PNG)
+![Livro4](/src/img/livro4.PNG)
 > Como criar tipo do esboço a tela. Cristobal Henestrosa, Laura Messeguer, José Scaglione
 
 
 ### Livro para construir tipo de maneira mais avançada
-[Livro5](/src/img/livro5.PNG)
+![Livro5](/src/img/livro5.PNG)
 > MECOTipo, Buggy
 
 
