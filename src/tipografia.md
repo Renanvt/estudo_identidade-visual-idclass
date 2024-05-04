@@ -47,6 +47,7 @@ A tipografia **carrega a mensagem da marca**
 ## Tipografia
 
 - Tipografia pode ser utilizada em logos
+  
 ![Tipo7](/src/img/tipo7.PNG)
 
 ### Característica da tipografia 
@@ -59,6 +60,7 @@ Você pode agregar na tipografia tanto caligrafia quanto leterering
 ## Caligrafia
 
 É a arte de escrever de forma fluída, padronizada, utilizada uma caneta, pinçel, pena ou qualquer tipo de artefato para esse fim.
+
 ![cali1](/src/img/cali1.PNG)
 
 Antigamente caligrafia era somente de forma manual.
@@ -68,6 +70,7 @@ Antigamente era caro se contratar um profissional de tipografia, então se fizer
 Caligrafia é tipografia de modo caligráfico
 
 - Caligrafia pode ser utilizado em logos
+
 ![cali2](/src/img/cali2.PNG)
 
 ### Características da caligrafia
@@ -86,6 +89,7 @@ Muito utilizado em logotipos de assinaturas, como se fosse o Dono da empresa que
 Você pode misturar estilo tipografáfico tanto como escrito a mão quanto a estilo tipográfico grotesco, serifa, etc.
 
 - Letering pode ser aplicado aos logotipos
+
 ![letter2](/src/img/letter2.PNG)
 
 Sensação de que foi feito a mão, porém, não é fluído como a caligrafia
