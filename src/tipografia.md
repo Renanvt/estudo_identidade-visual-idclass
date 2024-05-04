@@ -51,8 +51,11 @@ A tipografia **carrega a mensagem da marca**
 ![Tipo7](/src/img/tipo7.PNG)
 
 ### Característica da tipografia 
+
 **Alta legibilidade**
+
 **Aplicabilidade**
+
 **Personalidade de acordo com o estilo**
 
 Você pode agregar na tipografia tanto caligrafia quanto leterering
@@ -74,8 +77,11 @@ Caligrafia é tipografia de modo caligráfico
 ![cali2](/src/img/cali2.PNG)
 
 ### Características da caligrafia
+
 **Baixa legibilidade**
+
 **Elegante**
+
 **Pessoal**
 
 Muito utilizado em logotipos de assinaturas, como se fosse o Dono da empresa que assinou. Exemplo: Disney, Fender, etc
@@ -96,8 +102,11 @@ Sensação de que foi feito a mão, porém, não é fluído como a caligrafia
 
 ### Características do Lettering
 **Legibilidade média**
+
 **Irreverente**
+
 **Simpático**
+
 **Acolhedor**
 
 
