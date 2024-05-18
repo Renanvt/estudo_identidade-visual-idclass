@@ -423,7 +423,11 @@ Fontes com fator Iktrap faz mais sentido quando utilizada em impressos com papé
 
 Se for utilizada no digital, não precisa ter essas variações. Somente utilize quando for imprimir ou em projetos específicos que tem muita aplicação editorial
 
+# Open Type
 
+É um formato de fonte OTS mais moderno que a true type. Permite multiplos caracteres dentro de um mesmo espaço enquanto a true type apresenta apenas 1 carctere por espaço.
+
+Permite trabalhar com variable, weight, mono e slant
 # Indicação de Livros
 
 ### Ajuda a escolher a tipografia correta de acordo com a mensagem que você quer passar no seu projeto
