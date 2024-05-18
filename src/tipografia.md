@@ -332,7 +332,7 @@ Fonte de apoio é a fonte que vai dar suporte a todas as manifestações da marc
 Fonte de apoio é diferente da tipografia do logotipo
 A fonte de apoior será enviado em arquivo instalável e a tipografia do logotipo será enviado em curvas
 
-{c:red}A fonte de apoio não precisa ser a mesma do logotipo{/c}
+teste {c:red}A fonte de apoio não precisa ser a mesma do logotipo{/c}
 
 # Indicação de Livros
 
