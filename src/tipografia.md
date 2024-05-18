@@ -323,6 +323,8 @@ https://www.typewolf.com
 
 ## Aluguel de fonte
 
+Você aluga a fonte, testa instalando no seu computador por um determinado período de teste, após o periodo de teste terminar, a fonte será excluída do seu computador
+
 https://fontstand.com/fonts
 
 # Escolhendo a fonte de apoio
@@ -332,7 +334,95 @@ Fonte de apoio é a fonte que vai dar suporte a todas as manifestações da marc
 Fonte de apoio é diferente da tipografia do logotipo
 A fonte de apoior será enviado em arquivo instalável e a tipografia do logotipo será enviado em curvas
 
-teste <span style="color:red">A fonte de apoio </span> não precisa ser a mesma do logotipo
+A fonte de apoio não precisa ser a mesma do logotipo. Se você utiliza a fonte de apoio como a mesma do logotipo, você tem uma certa sincroniza visual, tudo fica muito homogêneio, entretanto, isso pode ser ruim, pois o logotipo pode não ganhar muito destaque em uma peça, principalmente se tiver a tipografia de apoio junto. Por isso é preferível que a fonte de apoio seja diferente do logo, porém, depende do projeto.
+
+## Quantas fontes de apoio um projeto de identidade visual precisa ter
+
+Não existe um número certo, mais é preciso entender que nas composições do texto precisa existir uma certa hierarquia. Uma fonte pra título, subtítulo e texto. Duas fontes pesadas como bold, extrabold e 1 fonte para texto que seja regular e que crie uma mancha de texto agradável.
+
+Quanto mais fontes você escolher em um projeto, mais difícil fica para o seu cliente e sua equipe dar manutenção. Ficar entre 1 e duas fontes é o caminho seguro, porém, depente do projeto.
+
+Uma fonte pesada nunca pode ser usado para construir textos longos pois pode gerar problemas na hora da impressão como entupimento de caracteres
+
+Use uma fonte regular para texto ou no máximo, use semibold
+
+Você pode usar essas combinações: Uma serifa pra título e uma sans-serif para texto ou o contrário. Isso gera um bom contraste
+
+## Pesos e estilos de fonte
+
+È importante verificar se a fonte escolhida possui opções para criar-se uma hierarquia. Deve possuir pelo menos dois pesos, uma pra título e outro pra texto para que o cliente tenha mais flexibilidade.
+
+Se você encontrar uma fonte que tenha apenas 1 peso bold, utilize-a para título
+
+É importante que a fonte escolhida para texto tenha outras pesos além de regular. Semibold, bold, bolder, medium, etc.
+
+Se você tiver uma marca com uma pegada editorial, nesse caso, você precisa de uma fonte completa pra suportar todas as aplicações
+
+## Legibilidade
+
+Existem fontes que são feitas para ler e fontes que são feitas para ver
+
+Fonte pra texto precisa ser legível. 
+
+Fonte pra título não precisa ser necessariamente legível, entretanto, pode trazer uma certa personalidade trazendo destaque.
+
+Quando utiliza uma fonte em um corpo de texto pequeno, você precisa aumentar o quernin, pois quernin menor prejudica bastante a legibilidade.
+
+Fonte display não serve pra ser utilizado em corpo de texto
+
+## Recursos da fonte
+
+**Fontes Opentype** - Fontes com recursos a mais
+
+Se a fonte tiver recursos é importante você ver todas as suas alternativas
+
+A maioria das fontes de qualidade tem suporte ao idioma latino 
+
+È importante verificar o suporte da fonte ao idioma latino (Portugues-Brasil) como caracteres acentuados, pontuações e çedilhas
+
+
+# Diferenças entre fontes desenhadas para títulos, para textos e para legendas
+
+Algumas diferenças são imperceptíveis ao olho humano, mais tem uma certa diferenciação para um uso específico, por isso, deve ter um destino correto.
+
+## GARAMONT PREMIERE, PESO MÉDIO, SERIFADA
+
+![FonteDiferenças](/src/img/fonte-diferencas.png)
+
+**Display** -> Traços mais detalhados. Mais elegante
+
+**SubHead** -> Traços detalhados. Haste mais grossa e altura de x-maior. Utilizado em subtítulo em tamanho menor.
+
+**Normal** -> Perde alguns detalhes. Terminação da ponta mais reta e sem conado. Haste mais grossa e diferença menor entre traços grossos e finos. Utilizado para corpo de texto em tamanhos de 10 a 12pt. 
+
+**Caption** -> Perde muitos detalhes. Terminação mais arredondada. Utilizado em tamanho bem pequeno, menor de 10pt. Ideal para impressão
+
+![FonteDiferenças2](/src/img/fonte-diferencas2.png)
+
+![FonteDiferenças3](/src/img/fonte-diferencas3.png)
+
+
+![FonteHierarquia](/src/img/fonte-hierarquia.png)
+> Hierarquia. Título, subtítulo, texto e legenda
+
+## HALYARD, PESO MÉDIO, SANS-SERIF
+
+![FonteDiferenças4](/src/img/fonte-diferencas4.png)
+
+**Display** -> Altura de x do O menor. Quernin (distancia entre o H e o O) menor
+
+![FonteDiferenças5](/src/img/fonte-diferencas5.png)
+> Inktrap -> Ou armadilha de tinta. O X da caption possui entradas no seu eixo. O Papel tem fator de absorção sobre a tinta, criando uma mancha, por isso é feito essas entradas no seu eixo
+
+Fontes com fator Iktrap faz mais sentido quando utilizada em impressos com papés de má qualidade.
+
+![FonteDiferenças7](/src/img/fonte-diferencas7.png)
+
+![FonteHierarquia2](/src/img/fonte-hierarquia2.png)
+> Hierarquia. Título, subtítulo, texto e legenda
+
+Se for utilizada no digital, não precisa ter essas variações. Somente utilize quando for imprimir ou em projetos específicos que tem muita aplicação editorial
+
 
 # Indicação de Livros
 
