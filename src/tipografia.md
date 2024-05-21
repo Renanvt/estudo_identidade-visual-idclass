@@ -10,7 +10,7 @@
 
 [Por que as marcas estão criando suas próprias fontes](#por-que-as-marcas-estão-criando-suas-próprias-fontes)
 
-[Direitos de uso da fônte](#direitos-de-uso-da-fonte)
+[Direitos de uso da fonte](#direitos-de-uso-da-fonte)
 
 [Enviar os arquivos de fonte para o cliente utilizar](#enviar-os-arquivos-de-fonte-para-o-cliente-utilizar)
 
