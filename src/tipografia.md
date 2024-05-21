@@ -1,3 +1,36 @@
+# Tópicos
+
+[Conceito](#conceito)
+
+[Tipografia na identidade visual](#tipografia-na-identidade-visual)
+
+[Diferença entre Tipografia, Caligrafia e Lettering](#diferença-entre-tipografia-caligrafia-e-lettering)
+
+[Fonte x Tipografia](#fonte-x-tipografia)
+
+[Por que as marcas estão criando suas próprias fontes](#por-que-as-marcas-estão-criando-suas-próprias-fontes)
+
+[Direitos de uso da fonte](#direitos-de-uso-da-fonte)
+
+[Enviar os arquivos de fonte para o cliente utilizar](#enviar-os-arquivos-de-fonte-para-o-cliente-utilizar)
+
+[Cuidados com o Adobe Fonts](#cuidados-com-o-adobe-fonts)
+
+[Onde adquirir fontes type funders](#onde-adquirir-fontes-type-funders)
+
+[Escolhendo a fonte de apoio](#escolhendo-a-fonte-de-apoio)
+
+[Diferenças entre fontes desenhadas para títulos, para textos e para legendas](#diferenças-entre-fontes-desenhadas-para-títulos-para-textos-e-para-legendas)
+
+[Open Type](#open-type)
+
+[Diferença entre usar letras maiúsculas e minúsculas no logotipo](#diferença-entre-usar-letras-maiúsculas-e-minúsculas-no-logotipo)
+
+[Indicação de Livros](#indicação-de-livros)
+
+
+
+
 # Conceito
 
 - Tipografia é a voz gráfica da marca, a forma que a mensagem vai ser percebida de forma visual.
@@ -19,6 +52,7 @@ Quem tinha acesso aos livros antes de 1500 era os nobres, igreja e muitas pessoa
 
 ![Tipo1](/src/img/tipo1.PNG)
 
+# [👆 TÓPICOS](#tópicos)
 
 # Tipografia na identidade visual
 
@@ -41,6 +75,7 @@ O papel da tipografia em um projeto de identidade visual é trazer personalidade
 
 A tipografia **carrega a mensagem da marca**
 
+# [👆 TÓPICOS](#tópicos)
 
 # Diferença entre Tipografia, Caligrafia e Lettering
 
@@ -109,6 +144,8 @@ Sensação de que foi feito a mão, porém, não é fluído como a caligrafia
 
 **Acolhedor**
 
+# [👆 TÓPICOS](#tópicos)
+
 # Fonte x Tipografia
 
 Fonte é um arquivo instalavel com instrução para o seu sistema operacional para mostrar letras no seu software gráfico ou não.
@@ -154,6 +191,7 @@ A vantagem de uma marca ter uma fonte própria, é que só ela no mundo irá pod
 
 Existem empresas que desenvolvem a fonte própria com domínio público, como por exemplo a **IBM**. Eles fazem isso por conta de várias pessoalidades, como por exemplo projetos de open-source.
 
+# [👆 TÓPICOS](#tópicos)
 
 # Por que as marcas estão criando suas próprias fontes
 
@@ -184,6 +222,7 @@ As marcas desenvolvem suas próprias fontes pelos seguintes motivoss:
 
 ![FontexTipografia8](/src/img/fontextipografia8.PNG)
 
+# [👆 TÓPICOS](#tópicos)
 
 # Direitos de uso da fonte
 
@@ -232,6 +271,8 @@ Existem sites em que você irá encontrar **fontes piratas** em que eles pegaram
 
 Se eu utilizar uma fonte de uso pessoal no projeto de um cliente eu vou ser pego? Díficil você ser pego, geralmente acontece esses problemas quando são empresas grandes e estão super exposta. Então a limitação é sua conciência.
 
+# [👆 TÓPICOS](#tópicos)
+
 # Enviar os arquivos de fonte para o cliente utilizar
 
 A fonte é uma obra como outra qualquer, e ela pertence a pessoa que ela criou. Quando você compra uma fonte, você não se torna dono dela, apenas adquire os direitos de uso dela.
@@ -257,6 +298,8 @@ O uso da fonte pode variar de acordo com os termos que o autor daquela obra ofer
 
 O uso da fonte pode ser retrito de acordo com a quantidade de computadores. Existe limite de computadores em que a fonte pode ser instalada, para saber isso, você irá precisar ler a **EULA**
 
+# [👆 TÓPICOS](#tópicos)
+
 # Cuidados com o Adobe Fonts
 
 O adobe fonts são fontes ótimas de extrema qualidade e disponibilizados de forma gratuita para assinantes do Adobe
@@ -280,6 +323,8 @@ Quando posso utilizar uma fonte do adobe fonts como padrão nos projetos de iden
 Você pode utilizar o adobe fonts tranquilamente em seus logotipo, porque você irá converter em curvas no final. Então não importa se o estúdio vai retirar a fonte depois. Quando você converte a fonte em curvas, ela deixa de ser uma fonte e passa a ser um objeto vetorial como outro qualquer, logo, você não precisa do arquivo fonte instalável
 
 Você pode utilizar o adobe fonts em projetos específicos que você vai utilizar a fonte, vai dar saída e não vai precisar ficar reutilizando ela depois
+
+# [👆 TÓPICOS](#tópicos)
 
 # Onde adquirir fontes type funders
 
@@ -326,6 +371,8 @@ https://www.typewolf.com
 Você aluga a fonte, testa instalando no seu computador por um determinado período de teste, após o periodo de teste terminar, a fonte será excluída do seu computador
 
 https://fontstand.com/fonts
+
+# [👆 TÓPICOS](#tópicos)
 
 # Escolhendo a fonte de apoio
 
@@ -380,6 +427,7 @@ A maioria das fontes de qualidade tem suporte ao idioma latino
 
 È importante verificar o suporte da fonte ao idioma latino (Portugues-Brasil) como caracteres acentuados, pontuações e çedilhas
 
+# [👆 TÓPICOS](#tópicos)
 
 # Diferenças entre fontes desenhadas para títulos, para textos e para legendas
 
@@ -423,6 +471,8 @@ Fontes com fator Iktrap faz mais sentido quando utilizada em impressos com papé
 
 Se for utilizada no digital, não precisa ter essas variações. Somente utilize quando for imprimir ou em projetos específicos que tem muita aplicação editorial
 
+# [👆 TÓPICOS](#tópicos)
+
 # Open Type
 
 É um formato de fonte OTS mais moderno que a true type. Permite multiplos caracteres dentro de um mesmo espaço enquanto a true type apresenta apenas 1 carctere por espaço.
@@ -435,6 +485,7 @@ Inclinado é diferente de itálico. O Itálico inclina os caracteres individualm
 
 ![ItalicoxInclinado](/src/img/italicoxinclinado.png)
 
+# [👆 TÓPICOS](#tópicos)
 
 # Diferença entre usar letras maiúsculas e minúsculas no logotipo
 
@@ -534,11 +585,7 @@ Além do mais, esse bloco que as maiúsculas formam permite um encaixe melhor na
 
 ![Netflix2](/src/img/netflix3.png)
 
-
-
-## Percepção
-
-
+# [👆 TÓPICOS](#tópicos)
 
 # Indicação de Livros
 
@@ -564,6 +611,7 @@ Além do mais, esse bloco que as maiúsculas formam permite um encaixe melhor na
 ![Livro5](/src/img/livro5.PNG)
 > MECOTipo, Buggy
 
+# [👆 TÓPICOS](#tópicos)
 
 
 
