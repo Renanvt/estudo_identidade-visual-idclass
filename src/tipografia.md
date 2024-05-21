@@ -427,7 +427,119 @@ Se for utilizada no digital, não precisa ter essas variações. Somente utilize
 
 É um formato de fonte OTS mais moderno que a true type. Permite multiplos caracteres dentro de um mesmo espaço enquanto a true type apresenta apenas 1 carctere por espaço.
 
-Permite trabalhar com variable, weight, mono e slant
+Permite trabalhar com variable, weight, mono e slant e Stylistic set
+
+Para habilitar no ilustrator você deve ir no painel OpenType e Glifos
+
+Inclinado é diferente de itálico. O Itálico inclina os caracteres individualmente e são definidas pelo Type Designer
+
+![ItalicoxInclinado](/src/img/italicoxinclinado.png)
+
+
+# Diferença entre usar letras maiúsculas e minúsculas no logotipo
+
+![MinúsculaXMaiúscula](/src/img/minusculaemaiuscula.png.png)
+
+![MinúsculaXMaiúscula2](/src/img/minusculaemaiuscula2.png)
+
+![MinúsculaXMaiúscula3](/src/img/minusculaemaiuscula3.png)
+
+
+
+AS Maiúsculas também são bastante utilizadas quando a marca deseja transmitir a sensação de algo **robusto**, **durável**, **desenvolido**, **resistente**, **forte** Como pode exemplo a *Toyota*, a *Sony*
+
+![MinúsculaXMaiúscula4](/src/img/minusculaemaiuscula4.png)
+
+
+![MinúsculaXMaiúscula5](/src/img/minusculaemaiuscula5.png)
+
+![MinúsculaXMaiúscula6](/src/img/minusculaemaiuscula6.png)
+
+![MinúsculaXMaiúscula7](/src/img/minusculaemaiuscula7.png)
+
+## Estética
+
+![Estética](/src/img/Estetica.png)
+
+### Estética com minúsculas
+
+![Estética](/src/img/Estetica2.png)
+
+![Estética](/src/img/Estetica3.png)
+
+**Silueta** bem quebrada por conta das ascendentes e descendentes
+
+![Estética](/src/img/Estetica4.png)
+
+![Estética](/src/img/Estetica5.png)
+
+![Estética](/src/img/Estetica6.png)
+
+Logotipos com tagline tem a linha de base que precisa estar considerávelmente distante da tagline justamente por conta das descendentes.
+
+### Estética com maiúsculas
+
+![Estética](/src/img/Estetica7.png)
+
+Forma um bloco bem geométrico
+
+![Estética](/src/img/Estetica8.png)
+
+![Estética](/src/img/Estetica9.png)
+
+
+O Espaço entre a tagline é mais reduzido
+
+O Espaço entre a linha de cima e a linha de baixo é mais reduzido
+
+### Comparação Maiúsculas e Minúsculas
+
+![Estética](/src/img/Estetica10.png)
+
+![Estética](/src/img/Estetica11.png)
+
+## Legibilidade
+
+![Legibilidade](/src/img/Legibilidade.png)
+
+![Legibilidade](/src/img/Legibilidade2.png)
+
+Evite no máximo letras maiúsculas para texto
+
+![Legibilidade](/src/img/Legibilidade3.png)
+
+![Legibilidade](/src/img/Legibilidade4.png)
+
+O desenho de uma letra maíuscula é totalmente diferente de uma letra minúscula, facilitando a leitura. O Fato de criar quebras de linha por conta das ascedentes e descendentes facilita o reconhecimento de cada caracter de forma individual, facilitando uma maior facilitação de leitura
+
+![Legibilidade](/src/img/Legibilidade5.png)
+
+## Estudo de caso NETFLIX
+
+![Legibilidade](/src/img/Legibilidade6.png)
+
+![Legibilidade](/src/img/Legibilidade7.png)
+
+Forma um pequeno arco embaixo, mais ainda sim é um bloco.
+
+O logo da Netflix tem como inspiração o cinema dos anos 50 e 60.
+
+O arco encontrado no logotipo faz referência ao CinemaScope - uma tecnologia de filmagem e projeção que utilizava lentes anamórficas, com estilo vintage que remete à época.
+
+Além do mais, esse bloco que as maiúsculas formam permite um encaixe melhor nas intefarces da plataforma.
+
+![Netflix](/src/img/netflix.png)
+
+![Netflix2](/src/img/netflix2.png)
+
+![Netflix2](/src/img/netflix3.png)
+
+
+
+## Percepção
+
+
+
 # Indicação de Livros
 
 ### Ajuda a escolher a tipografia correta de acordo com a mensagem que você quer passar no seu projeto
