@@ -789,19 +789,19 @@ Exemplos de Serifa Humanista
 
 Sugestões de uso:
 
-- Conhecimento
+- **Conhecimento**
 
-- Autoridade
+- **Autoridade**
 
-- Tradição
+- **Tradição**
 
-- Sabedoria
+- **Sabedoria**
 
-- Sobriedade
+- **Sobriedade**
 
-- Poder
+- **Poder**
 
-- Liderança
+- **Liderança**
 
 ![Serifa-transicional](/src/img/serifa-transicional8.png)
 
@@ -811,7 +811,253 @@ Exemplos de marca que utilizam esses estilos
 
 ### Serifa Moderna (Badoni / Didot)
 
-## Sans-serif
+Em algumas décadas, os tipos transicionais foram ganhando cada vez mais aceitação, principalmente na Franca e na Itálica. Os tipógrafos continuaram a refinar as formas das letras.
+
+O objetivo deles era alcançar a perfeição. Eles foram aprimorando a tecnologia de desenho de tipos, testando novos materiais, com a pena metálica, que possibilitava um desenho mais limpo e preciso, com serifas mais finas e sem junções
+
+![Serifa-Moderna](/src/img/serifa-moderna.PNG)
+
+![Serifa-Moderna](/src/img/serifa-moderna2.PNG)
+
+![Serifa-Moderna](/src/img/serifa-moderna3.PNG)
+> Pode prejudicar a redução no logo
+
+Sugestões de uso:
+
+- **Sofisticação**
+
+- **Luxo**
+
+- **Requinte**
+
+- **Fragilidade**
+
+- **Desejo**
+
+- **Paixão**
+
+Muito utilizado em marcas femininas, mercado da moda, mercado do luxo, produto caro
+
+![Serifa-Moderna](/src/img/serifa-moderna4.PNG)
+
+![Serifa-Moderna](/src/img/serifa-moderna-marca.PNG)
+
+![Serifa-Moderna](/src/img/serifa-moderna-aplicacao.PNG)
+
+
+### Serifa Slab / Egípcia / Quadrada
+
+Desde que a tipografia surgiu, durante mais de 3 séculos, a tipografia foi usada exclusivamente na impressão de livros. No início dos anos 1.800, o impacto da Revolução Industrial impulsionou a indúsria da impressão numa nova direção.
+
+Com a chegada da manufatura industrial, os empresários começaram a sentir a necessidade de promover a venda dos seus produtos. E foi aí que nasceu a publicidade, ou seja, começaram a aparecer pessoas especializadas em comerciais.
+
+Porém, eles começaram a sentir falta de uma tipografia difernte, que realmente chamasse a atenção. As pessoas já estavam meio que cansadas das serifas tradicionais.
+
+Elas já passavam despercebidas, ninguém as via.
+
+Havia necessidade de uma tipografia de impacto para ter uma diferenciação em anúncios e publicidade
+
+Foi aí que apareceu um cara chamado Robert Besley com uma tipografia chamada Clarendon, que era uma tipografia reta, com serifas quadradas.
+
+No início, muita gente gostou, mais muita gente achou esquisito também.
+
+O fato é que a **Clarendon** foi o pontapé inicial das slabs e serviu de inspiração para as próximas slabs que viriam a seguir.
+
+**É um estilo criado para títulos de personalidade forte**. Dependendo do desenho, dificilmente fica bem em textos grandes.
+
+É uma tipografia mais pra ser vista do que ser lida, entretanto, possui uma legibilidade interessante.
+
+![SLAB](/src/img/slab.PNG)
+
+![SLAB](/src/img/slab2.PNG)
+
+![SLAB](/src/img/slab3.PNG)
+
+![SLAB](/src/img/slab4.PNG)
+
+![SLAB](/src/img/slab5.PNG)
+
+![SLAB](/src/img/slab6.PNG)
+
+Algumas pessoas comentaram, na época em que a Clarendon foi lançada, que era uma invenção gráfica cheia de vitalidade, típico da era industrial
+
+Sugestões de uso:
+
+- Força
+
+- Robustez
+
+- Rusticidade
+
+- Potência
+
+- Resistência
+
+- Peso
+
+![SLAB](/src/img/slab7.PNG)
+
+![SLAB](/src/img/slab8.PNG)
+
+![SLAB](/src/img/slab-marcas.PNG)
+
+
+### Serifa Lapidar
+
+Uma serifa quase sem serifa.
+
+São tipos que imitam as inscrições dos monumentos da Roma Antiga.
+
+![LAPIDAR](/src/img/Lapidar2.PNG)
+
+![LAPIDAR](/src/img/Lapidar.PNG)
+
+![LAPIDAR](/src/img/Lapidar-marcas.PNG)
+
+
+## Sem Serifa (Sans-Serif)
+
+Até o início dos anos 1.800, todos os tipos impressos tinha sido com serifas.
+
+Um dos primeiros tipos sem serifa foi a Caslon e causou bastante estranheza nas pessoas. Na Europa foram denominados Grotescos e na América ficaram conhecidas como Góticas pois muitos achavam que as letras tinham uma aparência bárbara.
+
+![Sem-Serifa](/src/img/sem-serifa.PNG)
+
+![Sem-Serifa](/src/img/sem-serifa2.PNG)
+
+![Sem-Serifa](/src/img/sem-serifa3.PNG)
+
+![Sem-Serifa](/src/img/sem-serifa4.PNG)
+
+![Sem-Serifa](/src/img/sem-serifa5.PNG)
+
+As fontes sem serifas abandonaram não somente a serifa, mais também a grande variação na espessura e no peso dos traços. A gente pode classificar as fontes em 3 categorias:
+
+- **Humanistas**
+
+- **Transicionais**
+
+- **Geométricas**
+
+### Sem Serifas Humanistas
+
+As humanistas apresentam curvas suaves, um contraste delicade, levemente acentuado.
+
+É como se esse estilo tentasse imitar o estilo caligráfico desenhado manualmente por uma pena.
+
+Ela pode ser usada quando você quer utilizar algo mais moderno que as serifas, mais que carregue ainda alguns traços caligráficos herdados dos estilos antigos. Tem um ar **amigável** e **natural**.
+
+![Sem-Serifa-Humanista](/src/img/sem-serifa-humanista.PNG)
+
+![Sem-Serifa-Humanista](/src/img/sem-serifa-humanista2.PNG)
+
+Sugestões de uso:
+
+- **Amigável**
+
+- **Natural**
+
+- **Versátil**
+
+- **Amistosa**
+
+- **Comum**
+
+- **Sutil**
+
+- **Humano**
+
+- **Acessível**
+
+![Sem-Serifa-Humanista](/src/img/sem-serifa-humanista3.PNG)
+
+![Sem-Serifa-Humanista](/src/img/sem-serifa-humanista4.PNG)
+
+### Sem Serifas Transicionais
+
+Possuem um estilo reto e uniforme, sem contraste. Trás uma sensação de **seriedade**, **formalidade**.
+
+Muito interessante para ser usado em sinalizações, mapas, materiais corporativos.
+
+![Sem-Serifa-Transicional](/src/img/sem-serifa-transicional.PNG)
+
+![Sem-Serifa-Transicional](/src/img/sem-serifa-transicional2.PNG)
+
+Sugestões de uso:
+
+- **Confiável**
+
+- **Séria**
+
+- **Executiva**
+
+- **Técnica**
+
+- **Precisa**
+
+- **Moderna**
+
+- **Sóbria**
+
+- **Eficiente**
+
+![Sem-Serifa-Transicional](/src/img/sem-serifa-transicional3.PNG)
+
+![Sem-Serifa-Transicional](/src/img/sem-serifa-transicional4.PNG)
+
+### Geométricas
+
+Utilizam formas geométricas como linha de composição das letras. **Círculo**, **quadrado**, **triângulo**. Foi um estilo muito influenciado pela Bauhas, onde eles tinham como filosofia o "menos é mais".
+
+![Sem-serifa-geometrica](/src/img/sem-serifa-geometrica.PNG)
+
+![Sem-serifa-geometrica](/src/img/sem-serifa-geometrica2.PNG)
+
+![Sem-serifa-geometrica](/src/img/sem-serifa-geometrica3.PNG)
+
+Em 1925, um aluno da Bauhaus chamado Hebert Bayer apresentou uma família tipográfica chamada Sturm Blond, onde ele simplificou as letras em formas simples.
+
+![Sem-serifa-geometrica](/src/img/sem-serifa-geometrica4.PNG)
+
+Em 1927, Paul Renner, professor da Bauhaus, apresentou a **Futura**, que segue esse mesmo estilo geométrico.
+
+![Sem-serifa-geometrica](/src/img/sem-serifa-geometrica5.PNG)
+
+É um estilo **moderno**, tem uma atmosfera mais **leve** e **informal** que a humanista e a transicional
+
+Para textos, pode não ter a melhor legibilidade de todas, mais dá pra ser usado como corpos de textos em alguns casos sim, desde que não seja muito longo.
+
+Pra logotipo, ta liberado.
+
+![Sem-serifa-geometrica](/src/img/sem-serifa-geometrica6.PNG)
+
+Sugestões de uso:
+
+- **Moderna**
+
+- **Minimalista**
+
+- **Simples**
+
+- **Criativa**
+
+- **Irreverente**
+
+- **Acessível**
+
+- **Básica**
+  
+- **Casual**
+
+![Sem-serifa-geometrica](/src/img/sem-serifa-geometrica7.PNG)
+
+![Sem-serifa-geometrica](/src/img/sem-serifa-geometrica8.PNG)
+
+
+### Humanista X Transicional x Geométrica
+
+![Comparação-sem-serifa](/src/img/comparacao-sem-serifa.PNG)
+
 
 ## Script
 
