@@ -26,6 +26,10 @@
 
 [Diferença entre usar letras maiúsculas e minúsculas no logotipo](#diferença-entre-usar-letras-maiúsculas-e-minúsculas-no-logotipo)
 
+[A tipografia perfeita para o seu projeto](#a-tipografia-perfeita-para-o-seu-projeto)
+
+[Classificação Tipográfica](#classificação-tipográfica)
+
 [Indicação de Livros](#indicação-de-livros)
 
 
@@ -595,6 +599,8 @@ A tipografia perfeita é aquela que se encaixa dentro do projeto de acordo com o
 
 A tipografia deve estar alinhado com a mensagem da marca.
 
+# [👆 TÓPICOS](#tópicos)
+
 # Classificação tipográfica
 
 A  tipografia  é  a  voz  da  marca,  portanto  ela  precisa  carregar  sua  personalidade  pra dizer o que ela tem pra dizer. Dominar esse elemento vai fazer toda a diferença em qualquer projeto de design.
@@ -877,7 +883,7 @@ O fato é que a **Clarendon** foi o pontapé inicial das slabs e serviu de inspi
 
 ![SLAB](/src/img/slab5.PNG)
 
-![SLAB](/src/img/slab6.PNG)
+![SLAB](/src/img/slab6.png)
 
 Algumas pessoas comentaram, na época em que a Clarendon foi lançada, que era uma invenção gráfica cheia de vitalidade, típico da era industrial
 
@@ -1071,7 +1077,7 @@ A gótica esta super relacionada a períodos históricos, foram utilizadas nos p
 
 Esse logotipo foi utilizado de uma forma jovial, passando um ar de rebeldia, fugindo um pouco das regras.
 
-![Logotipo-Gótica2](/src/img/logotipo-gotica2.png)
+![Logotipo-Gótica2](/src/img/logotipo-gotico2.png)
 
 ![Serifa](/src/img/serifa1.png)
 
@@ -1092,6 +1098,8 @@ Eles combinam o gótico com a serifa para dar um certo contraste do que é moder
 ## Typewriter ou monoespaçada
 
 ## Handletering
+
+# [👆 TÓPICOS](#tópicos)
 
 # Indicação de Livros
 
