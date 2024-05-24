@@ -587,6 +587,266 @@ Além do mais, esse bloco que as maiúsculas formam permite um encaixe melhor na
 
 # [👆 TÓPICOS](#tópicos)
 
+# A tipografia perfeita para o seu projeto
+
+A tipografia perfeita é aquela que se encaixa dentro do projeto de acordo com os atributos, estratégias e percepções
+
+È precico primeiramente identificar os atributos da marca, analisar a percepção que ela quer transmitir para o seu público, olhando para o mercado como um todo. O ideal é escolher a tipografia que não esteja muito saturado para aquele segmento encontrando soluções diferentes
+
+A tipografia deve estar alinhado com a mensagem da marca.
+
+# Classificação tipográfica
+
+A  tipografia  é  a  voz  da  marca,  portanto  ela  precisa  carregar  sua  personalidade  pra dizer o que ela tem pra dizer. Dominar esse elemento vai fazer toda a diferença em qualquer projeto de design.
+
+Escolher  uma  tipografia  adequada,  com  **sabedoria**  e  **estratégia**, vai permitir à marca transmitir os atributos necessários  para  que  ela  seja  quem  realmente  pretende ser. Assim ela conseguirá falar a mesma língua do seu público alvo e se comunicar com muito mais eficência.
+
+As primeiras classificação de tipo se datam no começo do século XX. Hoje em dia com o avanço da tecnologia é muito mais fácil desenvolver um desenho tipográfico.
+
+No decorrer da história existiram varias tentativas de classificar a tipografia e nenhuma delas é o método correto. Existem algumas convenções que foram adotadas pelos designer.
+
+Essas convenções são apenas sugestões e não valem como regras.
+
+
+## Uma breve história
+
+A tipografia teve início em **1.438**, quando um artesão chamado **Gutenberg** começou a trabalhar no desenvolvimento de uma técnica de imprimir textos para livros através de uma **prensa**, que original-mente era usada pra esmagar uvas.
+
+![Guttenber](/src/img/guttenberg.png)
+
+> Johannes Gutenberg, o criador da impressão por tipos móveis.
+
+Ele fez vários experimentos até que conseguiu chegar a uma técnica que consistia na utilização de uma peça de chumbo com um relevo no formato da letra. Ele criou várias peças, com várias letras e liga-turas, totalizando 270 pares. Essas peças eram organizadas dentro de uma estrutura, formando os textos. 
+
+A tinta passava por essas peças que por sua vez eram prensadas contra uma folha de papel, dando origem à uma página impressa. A vantagem disso era que com esse molde ele poderia imprirmir um grande número de páginas de forma extremamente rápida.
+
+Eu falo extremamente rápida porque até então, os livros eram todos escritos à mão. Sim, isso mesmo, letra por letra, página por página. Era um trabalho imenso, demorado e por isso os livros eram caros a ponto de só a elite da época ter condições de comprá-los.
+
+**Por isso a invenção de Gutenberg foi tão importante.**
+
+![Tipos](/src/img/tipos.png)
+> Os tipos eram agrupados um a um, dando origem ao texto a ser transferido para o papel.
+
+Automatizando o processo de impressão foi possível baixar os custos e comercializar livros a preços extremamente abaixos em comparação aos livros escritos de forma manual
+
+E por que eu tô te contando isso? Porquê a tipografia em si é um processo concebido e influenciado pela evolução industrial e tecnológica. Ela se inicia em Gutenberg e à partir daí, criou-se todo um mercado de **fundidoras de tipos** (aliás, esse nome é usado até hoje, mesmo o processo sendo 100% digital na maioria das vezes). A tipografia era comercializada em **famílias de tipos**, que a gente chama de fontes e que hoje é digital
+
+5A tipografia tem, pelo menos, uns 500 anos. Imagine quanta família tipográfica não surgiu de lá pra cá? Dá pra ficar perdido no meio de tantas opções. Certo dia alguém pensou que precisaríamos agrupar as tipografias e classificá-las com o objetivo de manter uma organização que facilitasse a sua  compreensão e o seu uso. 
+
+**Porém, essas classificações nunca deram muito certo**
+
+![Familias-Tipográficas](/src/img/familias-tipograficas.png)
+> No decorrer de 500 anos, várias famílias tipográficas surgiram
+
+As primeiras tentativas de classificar os tipos datam no início do século século XX. De lá pra cá muita coisa mudou. Vários estilos de tipos foram criados, principalmente depois da popularização dos computadores. Então toda vez que alguém tentava classificar os tipos, essa classificação ficava ultrapassada em alguns anos, fora que nunca entraram em um consenso.
+
+Toda classificação tem seus problemas. A classificação que eu vou utilizar nesse e-book é apenas para fins de estudos
+
+É baseada em alguns conceitos clássicos em conjunto com alguns critérios mais recentes, mas ainda assim não é uma classificação oficial.
+
+Eu sei que tem seus problemas, mas toda classificação vai ter, então...  Eu também levei consideração apenas estilos que realmente possa fazer diferença pra quem vai projetar um logotipo ou uma identidade visual
+
+## Alguns sistemas de classificação mais conhecidos
+
+![Método Classificação](/src/img/metodo-classificacao.png)
+
+## Categorias
+
+- Serifa
+
+- Sem Serifa
+
+- Script
+
+- Hand Lettering
+
+- Blackletter
+
+- Typewriter
+
+Eu vou falar das características de cada um e também de alguns aspectos históricos. Isso é importante pois a história por trás de cada estilo pode nos auxiliar na escolha da tipografia ideal para um projeto. Outra coisa que eu vou abordar aqui nesse e-book são as sensações que cada estilo consegue transmitir. 
+
+Lembrando que não é uma fórmula, mas acredito que vai ajudar muito na hora de escolher uma tipografia adequada
+
+## Serifa
+
+Serifa são terminações prolongadas nas letras.
+
+Originalmente, essas letras foram desenhadas no período em que todos os tipos eram cortados a mão e fundidos em chumbo.
+
+Serifas são essas terminações/prolongamentos quando acaba a letra
+
+![Serifa-Humanista](/src/img/serifa-humanista.png)
+
+![Serifa-Humanista2](/src/img/serifa-humanista2.png)
+
+A junção da haste com a serifa precisava ser forte o bastante para suportar a pressão do preto sem quebrar ou formar rebarbas, por isso eles faziam uma junção bem pesada.
+
+No design, algumas características estéticas podem ser consequências da necessidade prática.
+
+Existe uma variação estética considerável entre as serifas. Os estilos mais conhecidos são:
+
+- **Humanista**
+
+- **Transicional**
+
+- **Moderna**
+
+- **Egípcia**
+
+- **Lapidar**
+
+Cada um desses estilos transmite uma precepção diferente
+
+
+### Serifa Humanista
+
+Conhecida também pelo nome Veneziana, pois o estilo surgiu em Veneza entre os anos 1465 e 1500.
+
+Veneza era uma cidade muito importante pois tinha uma atividade impressora muito intensa.
+
+è chamada de humanista devido o fato de seu desenho ser inspirado na caligrafia.
+
+![Serifa-Humanista3](/src/img/serifa-humanista3.png)
+
+![Serifa-Humanista4](/src/img/serifa-humanista4.png)
+
+
+**Eixo diagonal nos traços redondos**, uma característica herdada da caligrafia que simula o ângulo no qual os escribas seguravam suas penas.
+
+![Serifa-Humanista5](/src/img/serifa-humanista5.png)
+
+![Serifa-Humanista6](/src/img/serifa-humanista6.png)
+
+![Serifa-Humanista7](/src/img/serifa-humanista7.png)
+
+![Serifa-Humanista8](/src/img/serifa-humanista8.png)
+
+Os primeiros tipos utilizados no sistema impresso eram humanistas.
+
+A ivenção de Gutenberg coincide com o período Renascentista.
+
+Esse período foi marcado por 3 fatores que são importantes pra gente nesse momento:
+
+1. Humanismo estava no auge.
+   
+2. Interesse pela cultura antiga grega e romana.
+
+3. Busca por conhecimento
+
+Foi um período onde, por conta dos sistemas de impressão que baratearam os custos dos livros, o conhecimento enfim pôde ser amplamente difundido.
+
+![Letras-Romanas](/src/img/letras-romanas.png)
+> Letras romanas, por volta do ano 100 d.C
+
+A serifa já existia por conta de fatores funcionais,necessidades, limitações de tecnologia na época. O pedrero utilizava uma ferramenta chamada pinçel de junco pra talhar o mármote fazendo as terminações para guiar na hora de fazer a letra.
+
+Muita gente chama a serifa de estilo romano antigo. As romanas são muito associadas a letras regulares e não itálicas
+
+Por todos esses fatores, o estilo de serifa humanista é muito utilizado em livros, instituições de ensino, entre outras coisas ligadas ao aprendizado e tradição.
+
+Sugestões de uso:
+
+- **Conhecimento**
+
+- **Autoridade**
+
+- **Tradição**
+
+- **Sabedoria**
+
+- **Sobriedade**
+
+- **Poder**
+
+- **Liderança**
+
+Exemplos de Serifa Humanista
+
+![Serifa-Humanista9](/src/img/serifa-humanista9.png)
+
+### Serifa Transicional
+
+È uma ponte entre as serifas humanistas e as serifas modernas.
+
+É marcada por algumas inovações tecnológicas que permitiram criar um desenho mais preciso.
+
+É como se fosse uma Humanista 2.0
+
+![Serifa-transicional](/src/img/serifa-transicional.png)
+
+![Serifa-transicional](/src/img/serifa-transicional2.png)
+
+![Serifa-transicional](/src/img/serifa-transicional3.png)
+
+![Serifa-transicional](/src/img/serifa-transicional4.png)
+
+![Serifa-transicional](/src/img/serifa-transicional5.png)
+
+![Serifa-transicional](/src/img/serifa-transicional6.png)
+
+![Serifa-transicional](/src/img/serifa-transicional7.png)
+
+Sugestões de uso:
+
+- Conhecimento
+
+- Autoridade
+
+- Tradição
+
+- Sabedoria
+
+- Sobriedade
+
+- Poder
+
+- Liderança
+
+![Serifa-transicional](/src/img/serifa-transicional8.png)
+
+Exemplos de marca que utilizam esses estilos
+
+![Serifa-Humanista-Marca](/src/img/serifa-humanistas-marca.png)
+
+### Serifa Moderna (Badoni / Didot)
+
+## Sans-serif
+
+## Script
+
+## Gótica
+
+A gótica esta super relacionada a períodos históricos, foram utilizadas nos primeiros livros de Guttenberg (A Bíblia de Guttenberg)
+
+## Marcas que fogem das convenções e atributos sociais
+
+![Logotipo-Gótica](/src/img/logotipo-gotica.png)
+
+Esse logotipo foi utilizado de uma forma jovial, passando um ar de rebeldia, fugindo um pouco das regras.
+
+![Logotipo-Gótica2](/src/img/logotipo-gotica2.png)
+
+![Serifa](/src/img/serifa1.png)
+
+![Serifa2](/src/img/serifa2.png)
+
+![Serifa3](/src/img/serifa3.png)
+
+![Serifa4](/src/img/serifa4.png)
+
+![Serifa5](/src/img/serifa5.png)
+
+
+
+
+
+Eles combinam o gótico com a serifa para dar um certo contraste do que é moderno e de algo histórico
+
+## Typewriter ou monoespaçada
+
+## Handletering
+
 # Indicação de Livros
 
 ### Ajuda a escolher a tipografia correta de acordo com a mensagem que você quer passar no seu projeto
