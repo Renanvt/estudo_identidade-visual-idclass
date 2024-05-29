@@ -1156,7 +1156,116 @@ Sugestões de uso:
 
 ## Gótica
 
+Conhecida também como Blackletter, esse estilo foi uma evolução dos documentos manuscritos da Alemanha do século XV.
+
+As letras "Góticas" tem uma forte relação com o pensamento medieval europeu, com a religião e com o estilo artístico e arquitetônico - sobreduto das catedrais - surgido no norte da França.
+
 A gótica esta super relacionada a períodos históricos, foram utilizadas nos primeiros livros de Guttenberg (A Bíblia de Guttenberg)
+
+![Gótico](/src/img/Gotico.PNG)
+
+![Gótico](/src/img/Gotico2.PNG)
+
+![Gótico](/src/img/Gotico3.PNG)
+
+![Gótico](/src/img/Gotico4.PNG)
+
+A Bíblia de Guttenber, por exemplo, foi impressa utilizando esse estilo.
+
+![Gótico](/src/img/Gotico5.PNG)
+
+Por se tratar de uma escrita rápida, a escrita gótica atendeu à quantidade crescente de textos e à aceleração do ritmo da escrita em grande parte causadas pelo desenvolvimento das universidades.
+
+É um estilo difícil de ler em corpo de texto, mais curiosamente, no século XV era considerada legível.
+
+Suas proporções mais verticais permitiam a econonomia de pergaminho, um suporte de alto custo para a época. Teve um papel fundamental na difusão do conhecimento da época.
+
+É uma fonte datada que marcou toda uma era, mas pode ser usada até hoje em aplicações mais específicas quando você quer transmitir a sensação de **tradição** ou dar um ar **vintage** mesmo.
+
+É muito usado em **diplomas**, **certificados**, **materiais litúrgicos** e **logotipos de jornal** e **cerveja**.
+
+![Gótico](/src/img/Gotico6.PNG)
+
+![Gótico](/src/img/Gotico7.PNG)
+
+Sugestões de uso:
+
+- **Tradicional**
+
+- **Antiga**
+
+- **Conservadora**
+
+- **Formal**
+
+- **Pesada**
+
+- **Grosseira**
+
+- **Imponente**
+
+- **Rebelde**
+
+![Gótico](/src/img/Gotico8.PNG)
+
+## Typewriter ou monoespaçada
+
+Tipografias que são inspiradas na maquina de escrever.
+
+A principal característica desse estilo é que o espaçamento entre os caracteres é o mesmo para todas as letras e, por isso, também é conhecida como monoespaçada.
+
+![Typewriter](/src/img/Typewriter.PNG)
+> Base semelhante e com prolongações
+
+![Typewriter](/src/img/Typewriter2.PNG)
+> Essas letras precisavam estar dentro do mesmo espaço por conta das limitações tecnológicas da época
+
+Lá pelos anos 1700 surgiu a máquina de escrever - embora a primeira máquina panteada data 1829
+
+![Typewriter](/src/img/Typewriter3.PNG)
+
+Por serem acionados de forma mecânica, os tipos deveriam ter o mmesmo espacejamento, já que as peças que os abrigavam eram do mesmo tamanho.
+
+Para compesar a dificuldade de leitura que esse tipo podia causar, as serifas de algumas letras - como o I - fora estendidaas para preencher todo o espaço horizontal.
+
+Oque era uma limitação técnica acabou virando um estilo.
+
+![Typewriter](/src/img/Typewriter4.PNG)
+
+
+Esse estilo também foi muito utilizado no início da computação, já que se adaptou muito bem às limitações dos monitores da época, fato esse que fez a monoespaçada ter uma forte relação com as máquinas.
+
+Vários softwares de programação utilizam esas fontes como default. AS primeiras impressoras matriciais também eram monoespacejadas.
+
+![Typewriter](/src/img/Typewriter5.PNG)
+
+É muito utilizada quando se quer passar uma **atmosfera retrô** - já que ela remete ao início da era da computação nos anos 70/80 e à **datilografia**.
+
+Ou mesmo um **aspecto urbano**, já que as máquinas estão fortemente ligadas com a **cidade**, o **ambiente industrial**, etc
+
+Sugestões de uso:
+
+- **Retrô**
+  
+- **Urbana**
+
+- **Industrial**
+
+- **Formal**
+
+- **Rústica**
+
+- **Intimista**
+
+- **Cotidiana**
+
+- **Acadêmica**
+
+
+![Typewriter](/src/img/Typewriter6.PNG)
+
+![Typewriter](/src/img/Typewriter7.PNG)
+
 
 ## Marcas que fogem das convenções e atributos sociais
 
@@ -1177,14 +1286,10 @@ Esse logotipo foi utilizado de uma forma jovial, passando um ar de rebeldia, fug
 ![Serifa5](/src/img/serifa5.png)
 
 
-
-
-
 Eles combinam o gótico com a serifa para dar um certo contraste do que é moderno e de algo histórico
 
-## Typewriter ou monoespaçada
 
-## Handletering
+
 
 # [👆 TÓPICOS](#tópicos)
 
