@@ -1065,7 +1065,94 @@ Sugestões de uso:
 ![Comparação-sem-serifa](/src/img/comparacao-sem-serifa.PNG)
 
 
-## Script
+## Script e Lettering
+
+São aquelas que representam, literalmente, os estilos de escrita caligráfica ou de letras feitas manualmente. Simula de forma literal a escrita a mão.
+
+**Estilos mais conhecidos:**
+
+- Script
+
+- Cursivo
+  
+- Hand Lettering
+
+### Script & Cursiva
+
+AS fontes Script e Cursiva começaram a aparecer no final do sécula XIX. A maioria delas foram criadas nos anos 30, quando sua popularidade era muito grande.
+
+A partir da década de 50, letras imitando pena e pincel foram usados de forma intensa pela publicidade e impressão comercial, especialmente quando o orçamento para as peças era baixo e não havia como contratar um letrista.
+
+Script e Cursiva costumam ser muito parecidas, mais como distinção geral, **Scripts** têm letras em caixa-baixa ligadas ou em junção, similares à caligrafia, enquanto as **Cursivas** parecem letras feitas à mão, mas sem ligações umas com as outras.
+
+![ScriptXCursiva](/src/img/ScriptXCursiva.PNG)
+
+![ScriptXCursiva](/src/img/ScriptXCursiva2.PNG)
+> Uma caracteristica desse tipo é a baixa legibilidade
+
+Esse tipo é muito utilizado quando se quer transmitir uma mensagem de **bem-estar**, **alegria**, **simpatia** e **aconchego**, mas dependendo do estilo também pode transmitir **requinte** e **sofisticação**, como um convite de casamento por exemplo.
+
+Sugestões de uso:
+
+- **Bem-Estar**
+
+- **Alegria**
+
+- **Cuidado**
+
+- **Feito-à-mão**
+
+- **Humanização**
+
+- **Proximidade**
+
+![ScriptXCursiva](/src/img/ScriptXCursiva3.PNG)
+
+![ScriptXCursiva](/src/img/ScriptXCursiva4.PNG)
+
+
+### Hand Lettering
+
+É considerada Hand Lettering qualquer escrita criada a mão, o que nos leva a crer que esse estilo existe desde sempre.
+
+Muitos type designers não a consideram uma tipografia por estar mais próxima à um desenho de letras do que da tipografia propriamente dita, e isso faz todo o sentido, já que a tipografia esta relacionada ao processo industrial e o Hand Lettering é o oposto disso.
+
+É muito comum a confusão entre o Hand Lettering e o Script, já que são estilos bastante idênticos, mais a principal diferênça entre eles é que o Hand Lettering tem a aparência de uma letra feita a mão - muitas vezes sem muito compromisso com as **proporções** ou a **uniformalidade** - Enquanto a Script pode combinar elementos orgânicos com formas **mecânicas** e na maioria das vezes tem **consistência bem definida**, mas não se prenda à definições.
+
+![HandLettering](/src/img/HandLettering.PNG)
+> HandLettering - Maior liberdade para criar e ousar
+
+![HandLettering](/src/img/HandLettering2.PNG)
+> Script - Tem uma consistência e idéia de feita a mão
+
+Um Script pode ser considerado um Hand Lettering e um Hand Lettering pode ser composto por Script.
+
+O Hand Lettering é muito usado em histórias em quadrinhos, desenhos animados e qualquer outro uso que necessite uma aparência mais humana e orgânica.
+
+![HandLettering](/src/img/HandLettering3.PNG)
+
+Sugestões de uso:
+
+- **Irreverente**
+
+- **Amigável**
+
+- **Livre**
+
+- **Extrovertida**
+
+- **Irregular**
+
+- **Divertida**
+
+- **Vibrante**
+
+- **Orgânica**
+
+![HandLettering](/src/img/HandLettering4.PNG)
+
+![HandLettering](/src/img/HandLettering5.PNG)
+> Muito usado em logotipos que querem transmitir uma certa proximidade e cuidado como produtos pra saúde, beleza, higiene pessoal, etc
 
 ## Gótica
 
