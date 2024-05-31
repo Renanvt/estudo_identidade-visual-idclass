@@ -1290,6 +1290,10 @@ Eles combinam o gótico com a serifa para dar um certo contraste do que é moder
 
 # [👆 TÓPICOS](#tópicos)
 
+# Conteúdos sobre tipografia
+
+Blog da plau
+
 # Indicação de Livros
 
 ### Ajuda a escolher a tipografia correta de acordo com a mensagem que você quer passar no seu projeto
