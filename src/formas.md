@@ -87,3 +87,183 @@ Algumas experiências ficam mais agradáveis quando utilizamos o formato e a for
 
 ![Forma](/src/img/formas/forma16.PNG)
 > Scar tem formas bem pontiagudas e proeminentes do que o Mufasa que é ligeramente mais fofinho
+
+# Quadrado, círculo e triângulo
+
+## Quadrado
+
+Nos remete a sensações e atributos bem particulares
+
+- **Estabilidade**
+
+- **Peso**
+
+- **Força**
+
+- **Dureza**
+
+- **Masculinidade**
+
+- **Seriedade**
+
+- **Confiança**
+
+- **Solidez**
+
+- **Racionalidade**
+
+- **Artificial** (Natureza não produz quadrados perfeitas)
+
+## Círculo
+
+Nos remete a imaginar algo que tem algo dentro
+
+- **Naturalidade** (Encontra bastante na natureza)
+
+- **Movimento** (Fluído)
+
+- **Continuidade** (Não tem começo, meio e fim)
+
+- **Feminilidade** 
+
+- **Amistosidade**
+
+- **Leveza**
+
+- **Maciez**
+
+- **Humanismo**
+
+- **Fluidez**
+
+- **Emoção** (Difícil criar um logotipo que tem a sinueta de um círculo e não gostar)
+
+## Estudo de caso
+
+![Heredrograma](/src/img/formas/Heredrograma.PNG)
+> Ferramenta da biologia para identificar padrões de hereditariedade
+
+![Formas](/src/img/formas/forma17.PNG)
+
+![Formas](/src/img/formas/forma18.PNG)
+> Personagem masculino é mais quadrado transmitindo a personalidade dele, fechado, ranzinza, sério
+
+![Formas](/src/img/formas/forma19.PNG)
+> Personagem feminina é mais redonda transmitindo a personalidade oposto do personagem masculino
+
+![Formas](/src/img/formas/forma20.PNG)
+
+![Formas](/src/img/formas/forma21.PNG)
+> Quadrado transmitindo força, só que também é um personagem muito amável, carismático, herói
+
+![Formas](/src/img/formas/forma22.PNG)
+> Corpo com contornos mais definidos e retos (Quick) e um rosto mais arredondado (Boba)
+
+## Triângulo
+
+![Triangulo](/src/img/formas/Triangulo.PNG)
+
+![Triangulo](/src/img/formas/Triangulo2.PNG)
+> Base grande, e se pareçe com uma seta
+
+![Triangulo](/src/img/formas/Triangulo3.PNG)
+> Pirâmides de giséc, estão a mais de 2.000 anos A/C de pé. Somente pelo fato delas serem desses formatos é que elas conseguiram resistir tanto ao tempo
+
+![Triangulo](/src/img/formas/Triangulo4.PNG)
+> Só é possivel criar essa estrutura quando se criar uma base grande para dar suporte para as outras frutas que vem a seguir
+
+![Triangulo](/src/img/formas/Triangulo5.PNG)
+> Triângulo sem a base colada no chão
+
+![Triangulo](/src/img/formas/Triangulo6.PNG)
+> Idéia de direção
+
+![Triangulo](/src/img/formas/Triangulo7.PNG)
+> Triângulo apontado para baixo
+
+![Triangulo](/src/img/formas/Triangulo8.PNG)
+> Idéia de equilíbrio
+
+![Triangulo](/src/img/formas/Triangulo9.PNG)
+> Triângulo com a ponta colocada para lados opostos
+
+![Triangulo](/src/img/formas/Triangulo10.PNG)
+> Idéia de expansão e direção
+
+![Triangulo](/src/img/formas/Triangulo11.PNG)
+> O carro ta descendo ou ta subindo?
+
+![Triangulo](/src/img/formas/Triangulo12.PNG)
+> O carro ta descendo ou ta subindo?
+
+![Triangulo](/src/img/formas/Triangulo13.PNG)
+> A maioria das pessoas vão dizer que esse caro está subindo, por que?
+
+![Triangulo](/src/img/formas/Triangulo14.PNG)
+> Porque nossa leitura é da esquerda pra direita. Quando temos uma diagonal no sentido da nossa leitura, teremos uma diagonal que sobe
+
+![Triangulo](/src/img/formas/Triangulo15.PNG)
+> Quando temos uma diagonal no sentido contrário da nossa leitura, teremos uma diagonal que desce
+
+![Triangulo](/src/img/formas/Triangulo16.PNG)
+> E agora, você tem uma sensação maior de que ele está subindo? SIM
+
+![Triangulo](/src/img/formas/Triangulo16.PNG)
+> E agora, você tem uma sensação maior de que ele está descendo? SIM
+
+# Analisando alguns símbolos
+
+## Quadrado
+
+![Simbolo](/src/img/formas/Simbolo1.PNG)
+> Instituição financeira
+
+![Simbolo](/src/img/formas/Simbolo2.PNG)
+> Segurança, seriedade, confiança
+
+![Simbolo](/src/img/formas/Simbolo3.PNG)
+
+![Simbolo](/src/img/formas/Simbolo4.PNG)
+> Instituição financeira
+
+![Simbolo](/src/img/formas/Simbolo5.PNG)
+> Angulos retos formando um octógono
+
+![Simbolo](/src/img/formas/Simbolo6.PNG)
+> No meio um quadrado, transmitindo, segurança, seriedade, confiança
+
+## Triângulo
+
+![Simbolo](/src/img/formas/Simbolo7.PNG)
+
+![Simbolo](/src/img/formas/Simbolo8.PNG)
+> Vários triângulos. Idéia forte de direção
+
+![Simbolo](/src/img/formas/Simbolo9.PNG)
+> No meio um quadrado
+
+![Simbolo](/src/img/formas/Simbolo11.PNG)
+> Diagonais que dão sentido de direção. Forma em si da idéia de solidez, confiança e conformidade. Consigo enxergar duas chapas dobrada ao meio, dando idéia de amortecimento, dando sentido a marca
+
+![Simbolo](/src/img/formas/Simbolo13.PNG)
+> Idéia de movimento
+
+![Simbolo](/src/img/formas/Simbolo12.PNG)
+
+![Simbolo](/src/img/formas/Simbolo14.PNG)
+> Tipografia oblíquia nos reforça ainda mais a idéia de movimento
+
+## Cores aplicadas a uma determinada forma
+
+![Simbolo](/src/img/formas/Simbolo10.PNG)
+> Eles utilizam quadrado mais não transmite muita seriedade, confiança, por causa das cores. As cores conseguem mudar nossa percepção em relação a uma determinada forma
+
+## Redondo
+
+![Redondo](/src/img/formas/Redondo.PNG)
+> Traz emoção, conforto, simpatia, amigável
+
+## Misturando formas
+
+![MisturandoFormas](/src/img/formas/MisturandoFormas.PNG)
+> Faz com que o símbolo seja ainda mais proprietário, estiloso
