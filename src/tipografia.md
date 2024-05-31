@@ -30,9 +30,9 @@
 
 [Classificação Tipográfica](#classificação-tipográfica)
 
+[Marcas que fogem das convenções e atributos sociai](#marcas-que-fogem-das-convenções-e-atributos-sociais)
+
 [Indicação de Livros](#indicação-de-livros)
-
-
 
 
 # Conceito
@@ -1261,13 +1261,13 @@ Sugestões de uso:
 
 - **Acadêmica**
 
-
 ![Typewriter](/src/img/Typewriter6.PNG)
 
 ![Typewriter](/src/img/Typewriter7.PNG)
 
+# [👆 TÓPICOS](#tópicos)
 
-## Marcas que fogem das convenções e atributos sociais
+# Marcas que fogem das convenções e atributos sociais
 
 ![Logotipo-Gótica](/src/img/logotipo-gotica.png)
 
@@ -1287,9 +1287,6 @@ Esse logotipo foi utilizado de uma forma jovial, passando um ar de rebeldia, fug
 
 
 Eles combinam o gótico com a serifa para dar um certo contraste do que é moderno e de algo histórico
-
-
-
 
 # [👆 TÓPICOS](#tópicos)
 
@@ -1318,9 +1315,4 @@ Eles combinam o gótico com a serifa para dar um certo contraste do que é moder
 > MECOTipo, Buggy
 
 # [👆 TÓPICOS](#tópicos)
-
-
-
-
-
 
