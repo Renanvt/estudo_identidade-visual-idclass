@@ -267,3 +267,58 @@ Nos remete a imaginar algo que tem algo dentro
 
 ![MisturandoFormas](/src/img/formas/MisturandoFormas.PNG)
 > Faz com que o símbolo seja ainda mais proprietário, estiloso
+
+
+# Figurativo vs Abstrato
+
+## Arte figurativa
+
+Arte figurativa é um tipo de arte moderna caracterizada pela criação e expressão de obras que podem ser facilmente identificadas por seus observadores
+
+Ou seja, seus espectadores não precisam utilizar metáforas ou símbolos para compreendê-la.
+
+È aquilo que representa algo de forma uma clara e objetiva sem entrelinhas
+
+![Arte1](/src/img/figurativovsabstrato/arte1.PNG)
+> Monalisa Leonardo Da Vinci
+
+## Arte abstrata
+
+A arte abstrata contém um caráter subjetivo muito mais forte do que o figurativismo. Isso porque o abstracionismo não é expresso de modo objetivo.
+
+Dessa forma, na maioria das vezes, precisa de referências para ser compreendido por sua audiência e também usa associações para indicar o seu significado
+
+![Arte2](/src/img/figurativovsabstrato/arte2.PNG)
+> Black Spot Wassily Kandinsky
+
+## Símbolo figurativo
+
+- **Denuncia o tipo de negócio**
+
+- **Limita a empresa**
+
+- **Pouco original**
+
+![SimboloFigurativo](/src/img/figurativovsabstrato/simbolofigurativo.PNG)
+
+![SimboloFigurativo](/src/img/figurativovsabstrato/simbolofigurativo2.PNG)
+
+### Quando usar um símbolo figurativo?
+
+- Localização do estabelecimento físico
+
+- Redesign
+
+- Se tiver que usar, estilize
+
+![SimboloFigurativo](/src/img/figurativovsabstrato/simbolofigurativo3.PNG)
+> Símbolo figurativo estilizado
+
+![SimboloFigurativo](/src/img/figurativovsabstrato/simbolofigurativo4.PNG)
+> Símbolo figurativo para um Campeonato de tênnis
+
+## <p style="color:yellow;">Figurativo símbólico</p>
+
+É quando o elemento representa um objeto de forma objetiva, mas que não possui qualquer relação com a área de atuação da empresa.
+
+![FigurativoSimbolico](/src/img/figurativovsabstrato/figurativosimbolico.PNG)
