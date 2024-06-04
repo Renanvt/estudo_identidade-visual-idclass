@@ -322,3 +322,106 @@ Dessa forma, na maioria das vezes, precisa de referências para ser compreendido
 É quando o elemento representa um objeto de forma objetiva, mas que não possui qualquer relação com a área de atuação da empresa.
 
 ![FigurativoSimbolico](/src/img/figurativovsabstrato/figurativosimbolico.PNG)
+> Aple
+
+![FigurativoSimbolico](/src/img/figurativovsabstrato/figurativosimbolico2.PNG)
+> Puma
+
+## Símbolo abstrato
+
+- **Originalidade**
+
+- **Abre espaço para múltiplas interpretações**
+
+- **Não limita a área de atuação**
+
+![FigurativoSimbolico](/src/img/figurativovsabstrato/simboloabstrato.PNG)
+
+Cuidado com os símbolos abstratos negativos e de duplo sentido
+
+
+"O signo de uma indústria não deve se comprometer com um só produto, pois pode, mais tarde, se diversificar e o signo torna-se obsoleto, pois a todo o momento a tecnologia está mudando e, por exemplo, o perfil de um parafuso antigo usado num logotipo pode induzir a pensar que é uma firma antiquada"
+> Alexandre Wallner
+
+"È melhor ter um símbolo que não signifique nada do que um símbolo figurativo que pode limitar a área de atuação da empresa e coloca-lá no mesmo grau de outras empresas do segmento."
+> Marcelo Kimura
+
+Sempre que possível tente trabalhar na área da subjetividade, abstração e simbólico.
+
+
+# Oque é um bom logo
+
+Com o passar do tempo percebemos algumas caracteristicas que perduram os logos das marcas que a gente conheçe
+
+## Simples e memorável
+
+Um bom logotipo é aqueilo que sobra quando não se pode tirar mais nada.
+
+A simplicidade faz com que a gente memorize algo muito mais rápido.
+
+Memorização é importante e quanto mais elementos você tem, maior o tempo de memorização.
+
+**Caso Branded in Memory**
+
+Uma empresa chamada Signs fez um experimento curioso. Eles pegaram 150 norte americanos e pediram para eles desenharem 10 logotipos famosos com a maior precisão que conseguissem sem nenhuma referência visual para seguir.
+
+Ou seja, eles teriam que desenhar os logotipos de acordo com sua memória.
+
+O resultado é bem interessante.
+
+![Bom Logo](/src/img/bomlogo/bomlogo.PNG)
+> Pediram para as pessoas desenharem sem copiar, de acordo com oque tinha na memória
+
+**Resultado**
+
+![Bom Logo](/src/img/bomlogo/bomlogo2.PNG)
+> Eles não tinham tanta certeza naquilo que estavam desenhando, ainda assim tee um indice de acerto muito grande
+
+![Bom Logo](/src/img/bomlogo/bomlogo3.PNG)
+> As pessoas tinham certeza que  aquiloo que elas estavam desenhando correspondia a marca
+
+![Bom Logo](/src/img/bomlogo/bomlogo4.PNG)
+> As pessoas tinham certeza que  aquiloo que elas estavam desenhando correspondia a marca
+
+Oque esses três logos tem em comum? **Simplicidade**
+
+![Bom Logo](/src/img/bomlogo/bomlogo5.PNG)
+> Logos ilustrativos ficam dificeis de memorizar
+
+Oque esses dois logos tem em comum? **Eles são bem ilustrativos**
+
+
+Um bom logotipo é aquele que ao mostrar duas vezes para alguem, ela consegue descrever e até mesmo desenhar.
+
+Opte sempre pela simplicidade, retire elementos em exesso. A simplicidade é mais impactante
+
+**Simplicidade não é mediocridade**
+
+Trabalhar com formas comuns pode fazer você criar, sem querer, logos iguais à centenas que já existem por aí.
+
+Marcas que não tem nenhum tipo de exclusividade pode se tornar obsoleto, clichê e ter problemas no registro INPI
+
+Para fazer um registro no INPI onde consta a assinatura visual fica complicado proteger a marca cuja a representação é um círculo por exemplo.
+
+Criar algo **simples**, **unico** e com **personalidade** é muito mais difícil do que criar algo unico e cheio de elementos
+
+## Poucas cores
+
+![Bom Logo](/src/img/bomlogo/bomlogo6.PNG)
+> Resultado do teste da marca Ster Bucks, grande parte acertaram as cores, mais nem tanto assim em relação as formas
+
+Não coloque muitas cores em um logo, no máximo 3 cores, entretanto, não existe uma regra de quantas cores usar, por exemplo:
+
+![Bom Logo](/src/img/bomlogo/bomlogo7.PNG)
+> Ter mais cores pode abrir mais possibilidade para trabalhar
+
+**Crie uma paleta de apoio**
+
+Você pode utilizar duas cores no logo e ter uma palea de cores mais ampla que dará suporte a marca. 
+Você tem as cores principais e as cores de apoio que irão aparecer em alguns momentos a depender da necessidade da marca
+
+## Versátil
+
+Um bom símbolo deve ser versártil, ou seja, deve ser criado visando a possibilidade de ser aplicado de diversas maneiras, em diversas superfícies sem que seu sentido seja prejudicado.
+
+Não adianta nada você criar um símbolo sofisticado, cheio de sombras, brilhos e gradientes e aí, quando for utilizar em uma cor, um carimbo por exemplo, ele perde o sentido e/ou legibilidade.
