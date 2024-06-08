@@ -1285,6 +1285,39 @@ Esse logotipo foi utilizado de uma forma jovial, passando um ar de rebeldia, fug
 
 ![Serifa5](/src/img/serifa5.png)
 
+# Fontes que ativam gatilhos mentais de curiosidade
+
+**Bungee**: Uma fonte com um design moderno e versátil que pode ser usada para criar um logotipo chamativo e interessante.
+
+**Rift**: Uma fonte futurista e geométrica que pode instigar curiosidade devido ao seu visual único e contemporâneo.
+
+**Vermillion**: Uma fonte elegante e sofisticada que possui detalhes interessantes, incentivando o espectador a olhar mais de perto.
+
+**Quantum**: Com um design futurista e formas não convencionais, essa fonte pode despertar a curiosidade através de sua aparência inovadora.
+
+**Arkhip**: Uma fonte cibernética e tecnológica, que sugere inovação e avanço, capturando a atenção de quem a vê.
+
+**Glitch**: Essa fonte utiliza efeitos de distorção que podem criar uma sensação de mistério e complexidade, incitando curiosidade.
+
+**Akzidenz-Grotesk**: Uma fonte clássica, mas que com as devidas alterações pode se tornar interessante e provocar a curiosidade pelo seu design simples, porém eficaz.
+
+**Futura**: Um clássico atemporal que, dependendo do contexto de uso e da combinação com elementos visuais, pode criar um logotipo intrigante.
+
+**Neon**: Uma fonte que remete a luzes de neon, proporcionando uma estética vibrante e interessante.
+
+**Blanka**: Uma fonte minimalista e ao mesmo tempo peculiar, com cortes nas letras que despertam a curiosidade sobre sua completude.
+
+Para aumentar ainda mais o efeito de curiosidade, considere os seguintes aspectos ao criar o logotipo:
+
+**Espaço Negativo**: Utilize o espaço negativo de maneira inteligente para esconder elementos ou criar formas adicionais que não são imediatamente óbvias.
+
+**Combinações de Cores**: Use cores contrastantes e incomuns que se destaquem e atraiam o olhar.
+
+**Elementos Gráficos**: Adicione elementos gráficos que complementem a fonte e contribuam para a narrativa visual do logotipo.
+
+**Animação**: Se for para uso digital, uma animação sutil pode ser eficaz em criar curiosidade, como um logotipo que revele seus elementos aos poucos.
+
+Essas fontes e estratégias podem ajudar a criar um logotipo que não apenas atraia a atenção, mas também desperte a curiosidade do público.
 
 Eles combinam o gótico com a serifa para dar um certo contraste do que é moderno e de algo histórico
 
