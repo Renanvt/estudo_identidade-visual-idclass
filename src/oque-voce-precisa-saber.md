@@ -265,3 +265,137 @@ Eu até aconselho vocês a estudar, de repente fazer um curso de branding em alg
 É importante que vocês entendam a diferença, mas saibam que vocês vão trabalhar muito nessa intersecção ali, vocês vão ter um **pezinho no branding sempre quando a gente está falando de identidade visual** porque como eu falei marca é estratégia e identidade visual é design mais estratégia então é importante que vocês tenham essa noção.
 
 # Porque Identidade Visual é importante para as empresas
+
+É importante que você saiba porque, primeiro, você vai entender a importância do seu trabalho para uma empresa e isso vai fazer com que você automaticamente aumente sua percepção de valor sobre o seu próprio trabalho. 
+
+Então tem muita gente que fica insegura em aumentar o preço que cobra simplesmente porque não entende a **importância**, a **magnitude** e o **impacto** que o seu trabalho tem para a empresa e também para a sociedade. 
+
+Entendendo isso, você vai começar a se **valorizar muito mais**. E isso obviamente vai impactar diretamente no preço que você cobra dos seus clientes.
+
+E o segundo motivo para você saber por que a identidade visual é importante é para **conscientizar o seu cliente**. Porque não adianta você saber a importância do seu trabalho e o seu cliente não. Aí você não consegue transmitir isso para ele. 
+
+## Por que a identidade visual é importante?
+
+Ela é a tangibilização dos valores de uma marca. Ela vai ajudar a formar uma **percepção em relação àquela marca através do design**. 
+
+O seu papel como designer de identidade visual é saber usar elementos para manipular essa percepção. E assim, transmitir a mensagem desejada pela marca e atrair o público certo, o público que vai comprar e se identificar com aquela marca.
+
+Aristóteles acreditava que a percepção começava pelo olho, e ele está certo. A nossa visão é em grande parte responsável pela nossa percepção. Isso em relação a uma marca ou qualquer outra coisa. 
+
+Tem uma frase do próprio **Mark Neumeier**, que está naquele livro Brand Gap que eu já mostrei para vocês, que diz o seguinte:
+
+*Marca não é o que você diz que ela é, mas o que os outros dizem que ela é*
+
+É muito fácil você criar uma marca e dizer a sua percepção sobre a marca que você criou, certo? Afinal, você a criou.
+
+
+Mas isso não é o importante. Na verdade, não importa o que você pensa sobre sua marca. O que importa é **o que os outros vão dizer sobre ela**.
+
+**O designer atua justamente nessa camada, ele ajuda a criar essa percepção**. Como eu disse, a marca acontece a partir do momento em que uma empresa foi fundada, a percepção começa a existir. Isso não é opcional. Nenhuma empresa tem esse controle, tipo, "eu quero construir uma percepção, ou eu não quero". 
+
+A percepção vai ser construída, querendo ou não. 
+
+Essa percepção pode estar **alinhada com os valores da empresa**, ou **não estar alinhada com os valores da empresa**,
+
+A empresa não tem exatamente o controle sobre isso, ela não tem escolha. Mas pode **influenciar essa percepção**. Uma empresa não pode deixar essa percepção ser construída por acaso. Ela precisa interferir e influenciar. E é aí que entra o design.
+
+O design não é o único elemento a criar essa percepção, mas é o elemento que tange a parte visual. 
+
+**A estratégia de marca, a construção e gestão dessa marca, a linguagem, o verbal**, enfim, ela ajuda muito a construir essa percepção, mas é o design que vai **levar a mensagem visualmente**. Então por que não adianta a marca ser. As pessoas precisam saber o que é.
+
+Então digamos que você abra um bar no seu bairro que proporcione um ambiente familiar, um lugar aconchegante para levar famílias e crianças. Ele atende o melhor da cidade. Mas se eles não sabem comunicar isso, qual o sentido? Se só os funcionários e os donos sabem disso, sabem que esse estabelecimento oferece isso, não vale nada. Essa mensagem precisa chegar nas pessoas. Elas precisam ser impactadas por isso. 
+
+A Apple, quando surgiu nos anos 70, veio com a ideia, o propósito, de mudar a percepção que as pessoas tinham sobre computadores. Então, naquela época, quem tinha computador eram engenheiros, programadores, entusiastas dessa nova tecnologia, naquela época era complicado ter um computador, né? Não era o público, as pessoas comuns ali, que não faziam parte desse nicho, eles não estavam interessados ​​em ter um computador porque achavam que era pesado, complicado, enfim. Ninguém via muita utilidade nele para o dia a dia. E aí a Apple veio para mudar essa forma de pensar. Então como a Apple passou essa mensagem? Primeiro pelo slogan, né? **Pense diferente**.
+
+![Logo-Aple](/src/img/o%20que%20voce%20precisa%20saber/logo-apple.PNG)
+
+Então aí você já tem algo que tem a intenção de mudar a percepção das pessoas, né? Poxa, você vai em qualquer empresa, elas estão pensando diferente, mas por quê? Já causa um pouco de curiosidade ali também. 
+
+![Logo-Aple](/src/img/o%20que%20voce%20precisa%20saber/identidade-apple.PNG)
+
+E pela identidade dos anúncios, que eram, na maioria das vezes, né? Um fundo branco, o produto e algum texto ali, né? Um título, um texto super simples, título super minimalista
+
+![Logo-Aple](/src/img/o%20que%20voce%20precisa%20saber/identidade-apple2.PNG)
+
+para realmente passar a mensagem de que os computadores eram um produto simples de usar e qualquer um podia operar. Então ao longo dos anos, e até hoje a Apple usa essa linguagem, essa ideia foi fixada na nossa mente, na nossa memória.
+
+Associamos a Aplle a produtos simples com essas identidades simples
+
+Se eu quero que minha marca transmita algo inovador, tecnologógico e simples eu não posso usar elementos que vão transmitir a idéia de algo retrógado, ultrapassado, complicado. Nosso papel como designer é **transmitir a mensagem certa para as pessoas certas**
+
+**Muitas empresas fecham as portas porque não contrataram um bom designer** para desenvolver uma identidade visual que acaba não transmitindo a mensagem correta e não vendendo como gostaria.
+
+O caso muito interessante é da Camila Farani. Por muito tempo ela foi um dos principais investidores do programa da Sony. Elas sendo muito experiente nos negócios pois investe em varias empresas, em determinado momento ela compartilhou um post no instagram
+
+![Post-instagram](/src/img/o%20que%20voce%20precisa%20saber/post-instagram.PNG)
+
+" Aos 26 anos, com 4 restaurantes faturando bem, tive uma nova idéia que seria o negócio do século! Na época muitas pessoas que iam na minha cafeteria e charutaria perguntavam se tínhamos alimentação saudável, então eu pensei: 'Vamos criar um modelo de cafeteria com uma salada pronta, sanduíches em formato italiano, expostos prontos na vitrine e vamos criar a Farani DeliCaffe'. E eu tinha certeza que aquele seria meu pulo do gasto, loja branca e lilás, em um shopping com 140mil pessoas, investimento inicial de 280mil, expectativa de faturamento na casa dos R$ 200.000 mensais. Minha vida ia dar uma volta! E eu finalmente seria reconhecida como empresária.
+
+Faturamento do 1º mês: R$1.500.
+Faturamento do 1º mês: R$1.800.
+Faturamento do 1º mês: R$1.500.
+
+Esse foi o resultado do meu primeiro investimento sozinha! Primeira coisa que eu aprendi com isso? Expectavivas são diferentes da realidade, eu na minha inocência de iniciante achei que iria faturar R$200.000 reais mensais e a realidade se mostrou bem diferente disso, decidi então que precisava fazer algo, mas não tinha mais dinheiro! Foi então que eu criei um conselho com os poucos clientes que eu tinha e perguntei: Gente, oque está acontecendo?
+Eu olhava para os lados e os concorrentes cheios, lotados, estou num shopping com um movimento enorme e meu restaurante vazio?
+E foi ai que eles me disseram uma das maiores lições da minha vida:
+'Camila, você criou um negócio para você! Você precisa pensar no que o seu cliente quer!'
+
+Para vocês terem uma idéia, as pessoas entravam na loja e perguntavam:
+'Oi, vocês vendem sorvete?'
+Ninguém reconhecia o estabelecimento como um restaurante, pensavam que era sorveteria, a comunicação estética estava como eu achava bonito, não como seria eficiente. Decidi que precisava mudar, com um pouco recurso que tinha: ouvi os clientes, reformulei a marca, peguei a lasca da madeira(porque não tinha como investir na madeira toda) revesti o ambiente, tirei o branco, deixei mais aquecido (...)"
+
+> Camila Farani, em um posto do instagram de 22/07/19
+
+
+Ela soube reconheçer a tempo que havia um problema no design, ela não tinha como investir, então ela deu um jeito, sendo uma pessoa experiente e soube identificar, porque ela foi na raiz do problema, conversando com o cliente.
+
+Quantas empresas fecham no brasil porque não tiveram sabedoria e o tempo hábil para fazer essa análise e identificar que o problema estava no design.
+
+Então eu chuto que muitas delas fecham por conta de um design ruim, ou um design que não transmiti a idéia que a marca quer passar.
+
+Esse caso da Camila Farani é bem conhecido porque a Camila decidiu expor. Mais quantos estabelecimentos fecham e ninguem fica sabendo de nada.
+
+Então se faz necessário saber transmitir a idéia da marca através do design de maneira assertiva.
+
+## Marca e os sentidos
+
+A marca nos afetam através dos sentidos
+
+- Tato
+- Paladar
+- Olfato
+- Audição
+- Visão
+
+O design atua na parte da visão.
+
+As marcas tentam atingir a gente através dessas experiências sensoriais
+
+![Tabela dos Sentidos](/src/img/o%20que%20voce%20precisa%20saber/tabela-dos-sentidos.PNG)
+> Todas elas atuam no campo visual. Cientistas cognitivos afirmam que mais ta metade do nosso cérebro trabalham em prol do nosso sistema visual. Como é importante uma empresa se preocupar com o visual
+
+![Tabela dos Sentidos](/src/img/o%20que%20voce%20precisa%20saber/audicao-coca.PNG)
+
+
+Há quem dizem que os produtos da Apple tem cheiro, então, eu não sei. Então vou deixar meio termo. Não sei se é algo nítido assim
+
+As marcas que as vezes não conseguem proporcionar certas experiências sensoriais, elas fazem parcerias com marcas que conseguem proporcionar isso.
+
+![Cacau-Show-Netflix](/src/img/o%20que%20voce%20precisa%20saber/cacau-show-netflix.PNG)
+
+Netflix não tem gosto e cheiro mais fizeram parceria com a Cacau-Show para trazer essa experiência através das trufas personalizadas
+
+![Cacau-Show-Netflix](/src/img/o%20que%20voce%20precisa%20saber/cacau-show-netflix2.PNG)
+
+![Netflix-Imaginari](/src/img/o%20que%20voce%20precisa%20saber/netflix-parceria.PNG)
+
+
+apesar da netflix não ser um produto físico eles fizeram parceria com a imaginari, que trouxeram produtos licenciados da netflix
+
+![Netflix-Imaginari](/src/img/o%20que%20voce%20precisa%20saber/parceria-coca.PNG)
+
+![Netflix-Imaginari](/src/img/o%20que%20voce%20precisa%20saber/parceria-coca2.PNG)
+
+Então isso é muito legal, quando a marca ela tem consciência de até aonde ela pode ir e aonde ela não consegue ir, para pensar em estratégias.
+
+# Benefícios do Design
