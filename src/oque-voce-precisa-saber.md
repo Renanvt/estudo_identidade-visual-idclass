@@ -12,6 +12,8 @@
 
 [Breve história da Identidade Visual](#breve-história-da-identidade-visual)
 
+[Recomendações de livros](#recomendações-de-livros)
+
 
 # Marca
 
@@ -594,14 +596,14 @@ Então assim, a primeira coisa é que a identidade visual é importante em negó
 Usar elementos visuais como forma de identificação não é nem de longe algo novo. É algo que o homem já usa desde a antiguidade. Desde o momento que ele entendeu que ele conseguiria se comunicar através de sinais visuais, através de símbolos, ele passou a utilizar esse recurso pra marcar um animal, um determinado artefato, seja para identificar alguma coisa, seja para indicar posse, seja para indicar autoria ou as três coisas juntas
 
 ![Antiguidade](/src/img/o%20que%20voce%20precisa%20saber/antiguidade.PNG)
-0:18
 
-Na Mesopotâmia, por exemplo, quem possuía gado usava ferro quente para marcar o animal, para indicar que, primeiro, ele tinha dono e quem era o dono, porque ferro quente.
+
+Na Mesopotâmia, por exemplo, quem possuía gado usava ferro quente para **marcar o animal**, para indicar que, primeiro, ele tinha dono e quem era o dono, porque ferro quente.
 
 ![Antiguidade2](/src/img/o%20que%20voce%20precisa%20saber/antiguidade2.PNG)
 
 
-Os artesãos também usavam símbolos, marcas que eles criavam para identificar o produto deles. Muitas pessoas procuravam por aquela assinatura justamente porque gostavam daquele determinado artesão e aí acaba nascendo a **identificação de marca**, não exatamente como a gente conhece hoje, mas era meio que uma assinatura de qualidade. 
+Os artesãos também usavam **símbolos**, marcas que eles criavam para identificar o produto deles. Muitas pessoas procuravam por aquela assinatura justamente porque gostavam daquele determinado artesão e aí acaba nascendo a **identificação de marca**, não exatamente como a gente conhece hoje, mas era meio que uma assinatura de qualidade. 
 
 ![Antiguidade3](/src/img/o%20que%20voce%20precisa%20saber/antiguidade3.PNG)
 
@@ -610,7 +612,7 @@ E aí que começam também as **piratarias**. As pessoas viam que determinados a
 
 ## Idade Média 400d.C - 1.500d.C
 
-Já no período medieval, os brasões serviam para identificar não só as casas, as famílias, mas também para identificar aquele estabelecimento e também de mostrar para as pessoas que houve uma inspeção ali e esse estabelecimento tem uma **certificação de qualidade** e nesse período que começam a se estabelecer padrões de cores, texturas, elementos elementos visuais, uso do espaço.
+Já no período medieval, os brasões serviam para identificar não só as casas, as famílias, mas também para identificar aquele estabelecimento e também de mostrar para as pessoas que houve uma inspeção ali e esse estabelecimento tem uma **certificação de qualidade** e nesse período que começam a se estabelecer **padrões de cores**, **texturas**, **elementos visuais**, **uso do espaço**.
 
 ![Brasoes](/src/img/o%20que%20voce%20precisa%20saber/brasoes.PNG)
 
@@ -640,7 +642,9 @@ E a gente sabe que Game of Thrones foi inspirado no período medieval, então tu
 
 Esse guia de marca se chamava na época **guia de heráldica** e ele tinha essas instruções de como os artesãos deveriam manipular os elementos as cores para que tudo saísse conforme o desejado e olha que interessante que tinha algumas leis para isso né nesse manual eu vou citar duas delas aqui pra vocês
 
-- primeira lei: não se deve colocar metal sobre metal nem cor sobre cor.- E a nona lei: era a figura não deve tocar a ponta do escudo, nem o teto e nos limites laterais, deve estar isolada no campo. 
+- **primeira lei**: não se deve colocar metal sobre metal nem cor sobre cor.
+
+- **E a nona lei**: era a figura não deve tocar a ponta do escudo, nem o teto e nos limites laterais, deve estar isolada no campo. 
   
 Então tinha um espaço determinado onde o animal, enfim, o elemento visual que ia identificar aquela empresa ou uma família, enfim, tinha essas regrinhas, né? Então funcionava meio que como guia de marca mesmo. 
 
@@ -676,15 +680,16 @@ Então logo ali no começo de 1900 talvez foi a primeira empresa que viu necessi
 
 E por último o quarto grande marco foi a escola de design alemã, a Bauhaus.
 
-A Bauhaus veio com toda uma ideia de menos é mais, o design não é só estético, ele também é funcional. Isso impactou muito no desenvolvimento de símbolos, logotipos, marcas, enfim. 
+A Bauhaus veio com toda uma ideia de menos é mais, o design não é só estético, **ele também é funcional**. Isso impactou muito no desenvolvimento de símbolos, logotipos, marcas, enfim. 
 
 ![Adidas](/src/img/o%20que%20voce%20precisa%20saber/adidas-redesign.PNG)
 
 
-Então, por exemplo, Adidas, olha como era o logo deles em 1924. É complicado você reproduzir isso em escala, aplicar isso nos produtos, fica realmente meio complicado pelo tanto de detalhes que tem, é praticamente uma ilustração, um brasão na verdade. E olha ali já em 1971, muito mais minimalista, muito mais aplicável, muito mais fácil, e provavelmente os cursos para se aplicar também eram menores, então acabava gerando uma vantagem estética e funcional para a empresa.
+Então, por exemplo, Adidas, olha como era o logo deles em 1924. É complicado você reproduzir isso em escala, aplicar isso nos produtos, fica realmente meio complicado pelo tanto de detalhes que tem, é praticamente uma ilustração, um brasão na verdade. 
+
+E olha ali já em 1971, muito mais minimalista, muito mais aplicável, muito mais fácil, e provavelmente os cursos para se aplicar também eram menores, então acabava gerando uma vantagem estética e funcional para a empresa.
 
 ![Shell](/src/img/o%20que%20voce%20precisa%20saber/shell2.PNG)
-
 
 A gente tem a Shell também, que lá em 1909 era uma concha, literalmente uma concha, uma ilustração de uma concha, e aí virou esse símbolo que a gente conhece hoje. 
 
