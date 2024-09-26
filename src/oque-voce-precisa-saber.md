@@ -214,6 +214,8 @@ Então resumimos que a nike consegue através das imagens construir essa percep�
 
 Não só em fotografias, vimos também a tipografia, cores. Como eles vão trabalhando para criar essa percepção de acordo com oque eles querem transmitir naquele momento.
 
+[👆 TÓPICOS](#tópicos)
+
 # Marca X Identidade Visual
 
 Marca versus identidade visual, quais as diferenças claras e objetivas?
@@ -272,6 +274,8 @@ Então a gente deve muito da área do branding também para que a gente possa **
 Eu até aconselho vocês a estudar, de repente fazer um curso de branding em algum momento. 
 
 É importante que vocês entendam a diferença, mas saibam que vocês vão trabalhar muito nessa intersecção ali, vocês vão ter um **pezinho no branding sempre quando a gente está falando de identidade visual** porque como eu falei marca é estratégia e identidade visual é design mais estratégia então é importante que vocês tenham essa noção.
+
+ [👆 TÓPICOS](#tópicos)
 
 # Porque Identidade Visual é importante para as empresas
 
@@ -407,6 +411,8 @@ apesar da netflix não ser um produto físico eles fizeram parceria com a imagin
 
 Então isso é muito legal, quando a marca ela tem consciência de até aonde ela pode ir e aonde ela não consegue ir, para pensar em estratégias.
 
+ [👆 TÓPICOS](#tópicos)
+
 # Benefícios do Design
 
 ## 8 benefícios que uma empresa tem ao investir em design, em um bom design
@@ -457,6 +463,9 @@ Empresas que não tem uma identidade visual bem trabalhada com elementos pré-es
 Por exemplo a Netflix que até pouco tempo atraz era a melhor interface de streaming que tinha, hoje em dias as outras empresas estão quase no mesmo patamar da netflix, com esse poder que ela tem de proporcionar facilidade para os usuários. Mais no começo praticamente nenhum streaming tinha a qualidade de usabiliade que a netflix tinha e muitas pessoas utilizavam a netflix porque gostavam da experiência.
 
 Um design não é só oque a empresa tem a ganhar, mais também as oportunidades que ela deixa de perder, muitas vezes os empresários focam muito na idéia: Eu preciso de um design bonito para a minha empresa porque quero vender mais, e não é assim que funciona. Claro que a venda acaba sendo uma consequencia natural, mais a venda final é uma **soma de varios fatores**, e o design ajuda muito essa identificação ajudando a construir a imagem da marca ao longo dos anos, porém, sozinho ele não tem esse poder todo, porém, oque estamos falando aqui não é só de ganhos que a empresa vai ter, mais sim de oportunidades que ela deixa de aproveitar por conta de ter um design ruim.
+
+
+ [👆 TÓPICOS](#tópicos)
 
 # Quando uma empresa precisa de uma Identidade Visual
 
@@ -591,6 +600,9 @@ Outro tipo de negócio que não precisa de identidade visual **são aqueles neg�
 
 Então assim, a primeira coisa é que a identidade visual é importante em negócios que **precisam de uma marca**, **precisam construir uma marca no mercado**. Quando são negócios que não precisam por algum desses motivos, realmente não faz sentido nenhum a gente correr atrás desse tipo de cliente e não faz sentido nenhum esperar que esses clientes vão vir até a gente.
 
+
+ [👆 TÓPICOS](#tópicos)
+
 # Breve história da Identidade Visual
 
 ## Antiguidade 8.000a.C - 400d.C
@@ -698,6 +710,7 @@ A gente tem a Shell também, que lá em 1909 era uma concha, literalmente uma co
 Então Bauhaus veio aí com todo um conceito de funcionalidade e acabou
 impactando muito no design em geral. 
 
+ [👆 TÓPICOS](#tópicos)
 
 # Caso Burguer King
 
@@ -798,6 +811,8 @@ Mas em relação aos outros elementos que vem, o uso dentro do layout, junto com
 
 Então acho que ele traz toda essa nostalgia de uma forma diferente, de uma forma nova e trazendo todos os elementos que seriam desejados para fazer o Burger King ter essa percepção que eles desejariam transmitir dentro de um segmento de fast food que é tão concorrido e por um lado é um tanto mal visto pelas pessoas então acho que eles conseguiram criar um projeto que atende muito muito bem todas essas demandas, todas essas exigências que a marca tinha pra se destacar no mercado.
 
+
+ [👆 TÓPICOS](#tópicos)
 
 # Recomendações de livros
 
