@@ -6,9 +6,12 @@
 
 [Marca x Identidade Visual](#marca-x-identidade-visual)
 
+[Benefícios do Design](#benefícios-do-design)
+
 [Porque Identidade Visual é importante para as empresas](#porque-identidade-visual-é-importante-para-as-empresas)
 
-[Benefícios do Design](#benefícios-do-design)
+[Breve história da Identidade Visual](#breve-história-da-identidade-visual)
+
 
 # Marca
 
@@ -584,3 +587,126 @@ Outro tipo de negócio que não precisa de identidade visual **são aqueles neg�
 
 Então assim, a primeira coisa é que a identidade visual é importante em negócios que **precisam de uma marca**, **precisam construir uma marca no mercado**. Quando são negócios que não precisam por algum desses motivos, realmente não faz sentido nenhum a gente correr atrás desse tipo de cliente e não faz sentido nenhum esperar que esses clientes vão vir até a gente.
 
+# Breve história da Identidade Visual
+
+## Antiguidade 8.000a.C - 400d.C
+
+Usar elementos visuais como forma de identificação não é nem de longe algo novo. É algo que o homem já usa desde a antiguidade. Desde o momento que ele entendeu que ele conseguiria se comunicar através de sinais visuais, através de símbolos, ele passou a utilizar esse recurso pra marcar um animal, um determinado artefato, seja para identificar alguma coisa, seja para indicar posse, seja para indicar autoria ou as três coisas juntas
+
+![Antiguidade](/src/img/o%20que%20voce%20precisa%20saber/antiguidade.PNG)
+0:18
+
+Na Mesopotâmia, por exemplo, quem possuía gado usava ferro quente para marcar o animal, para indicar que, primeiro, ele tinha dono e quem era o dono, porque ferro quente.
+
+![Antiguidade2](/src/img/o%20que%20voce%20precisa%20saber/antiguidade2.PNG)
+
+
+Os artesãos também usavam símbolos, marcas que eles criavam para identificar o produto deles. Muitas pessoas procuravam por aquela assinatura justamente porque gostavam daquele determinado artesão e aí acaba nascendo a **identificação de marca**, não exatamente como a gente conhece hoje, mas era meio que uma assinatura de qualidade. 
+
+![Antiguidade3](/src/img/o%20que%20voce%20precisa%20saber/antiguidade3.PNG)
+
+
+E aí que começam também as **piratarias**. As pessoas viam que determinados artesãos tinham um produto mais valorizado no mercado, eles passaram a copiar esses produtos, inserindo esses elementos nos produtos deles também. 
+
+## Idade Média 400d.C - 1.500d.C
+
+Já no período medieval, os brasões serviam para identificar não só as casas, as famílias, mas também para identificar aquele estabelecimento e também de mostrar para as pessoas que houve uma inspeção ali e esse estabelecimento tem uma **certificação de qualidade** e nesse período que começam a se estabelecer padrões de cores, texturas, elementos elementos visuais, uso do espaço.
+
+![Brasoes](/src/img/o%20que%20voce%20precisa%20saber/brasoes.PNG)
+
+![Brasoes2](/src/img/o%20que%20voce%20precisa%20saber/brasoes2.PNG)
+
+![Brasoes3](/src/img/o%20que%20voce%20precisa%20saber/brasoes3.PNG)
+
+![Brasoes4](/src/img/o%20que%20voce%20precisa%20saber/brasoes4.PNG)
+
+
+Então foi praticamente aí nessa época que começou ali a nascer o **manual de marca**, entre aspas, porque não era exatamente um manual de marca mas existiam sim algumas regras pré-estabelecidas que os artesãos tinham que cumprir na hora de criar um, seja uma bandeira ou um escudo, para reproduzir essa marca.
+
+![ManualDeMarca](/src/img/o%20que%20voce%20precisa%20saber/manual-de-marca.PNG)
+
+![ManualDeMarca](/src/img/o%20que%20voce%20precisa%20saber/manual-de-marca2.PNG)
+
+
+
+Quem assistiu Game of Thrones aí sabe a importância de ter uma marca, um brasão, a importância de você saber reconhecer todos esses brasões. 
+
+O lobo é em relação a tal família, o leão é outra família, enfim.
+
+E a gente sabe que Game of Thrones foi inspirado no período medieval, então tudo isso faz bastante sentido. 
+
+
+![ManualDeMarca](/src/img/o%20que%20voce%20precisa%20saber/manual-de-marca3.PNG)
+
+Esse guia de marca se chamava na época **guia de heráldica** e ele tinha essas instruções de como os artesãos deveriam manipular os elementos as cores para que tudo saísse conforme o desejado e olha que interessante que tinha algumas leis para isso né nesse manual eu vou citar duas delas aqui pra vocês
+
+- primeira lei: não se deve colocar metal sobre metal nem cor sobre cor.- E a nona lei: era a figura não deve tocar a ponta do escudo, nem o teto e nos limites laterais, deve estar isolada no campo. 
+  
+Então tinha um espaço determinado onde o animal, enfim, o elemento visual que ia identificar aquela empresa ou uma família, enfim, tinha essas regrinhas, né? Então funcionava meio que como guia de marca mesmo. 
+
+
+Logo depois vem o período da revolução industrial e aí aumenta muito a produção dos produtos industrializados e consequentemente a quantidade de marcas no mercado e como eu falei, **quanto mais marcas você tem no mercado mais a necessidade de diferenciação** e aí que as empresas começaram a perceber isso, que eles precisavam de elementos visuais para diferenciar a marca de outras. 
+
+## 2º Revolução Industrial 1870 1969
+
+A AEG talvez seja a primeira empresa a ter utilizado um sistema de identidade visual sistematizado, com normas de uso do espaço, tipografia, cores, muito parecido com o que a gente usa hoje.
+
+![AEG](/src/img/o%20que%20voce%20precisa%20saber/aeg.PNG)
+
+![AEG](/src/img/o%20que%20voce%20precisa%20saber/aeg2.PNG)
+
+![AEG](/src/img/o%20que%20voce%20precisa%20saber/aeg3.PNG)
+
+![AEG](/src/img/o%20que%20voce%20precisa%20saber/aeg4.PNG)
+>Pitter Beatten - Arquiteto
+
+
+O nome do cara que fez esse projeto se chama Peter Berens, mas ele era arquiteto, ele não era designer, porém naquela época não existia designers, não existia esse termo ainda.
+ 
+Então provavelmente o que ele fez foi um projeto de designer, mas como não existia esse termo, talvez ele não ficou conhecido como um designer. Ele foi contratado como um consultor artístico, a empresa chamava ele de consultor artístico e provavelmente há alguns livros que consideram ele como o primeiro designer assim chamado da história.
+
+A intenção desse projeto era ganhar a **confiança do consumidor**, que na época tinha várias opções de marcas, **organizar a empresa** e **os seus produtos** e **também padronizar a comunicação**. 
+
+Então logo ali no começo de 1900 talvez foi a primeira empresa que viu necessidade de padronizar isso. 
+
+## Modernismo - Início do Século XX
+
+![Escola-Alemã](/src/img/o%20que%20voce%20precisa%20saber/escola-de-design.PNG)
+
+
+E por último o quarto grande marco foi a escola de design alemã, a Bauhaus.
+
+A Bauhaus veio com toda uma ideia de menos é mais, o design não é só estético, ele também é funcional. Isso impactou muito no desenvolvimento de símbolos, logotipos, marcas, enfim. 
+
+![Adidas](/src/img/o%20que%20voce%20precisa%20saber/adidas-redesign.PNG)
+
+
+Então, por exemplo, Adidas, olha como era o logo deles em 1924. É complicado você reproduzir isso em escala, aplicar isso nos produtos, fica realmente meio complicado pelo tanto de detalhes que tem, é praticamente uma ilustração, um brasão na verdade. E olha ali já em 1971, muito mais minimalista, muito mais aplicável, muito mais fácil, e provavelmente os cursos para se aplicar também eram menores, então acabava gerando uma vantagem estética e funcional para a empresa.
+
+![Shell](/src/img/o%20que%20voce%20precisa%20saber/shell2.PNG)
+
+
+A gente tem a Shell também, que lá em 1909 era uma concha, literalmente uma concha, uma ilustração de uma concha, e aí virou esse símbolo que a gente conhece hoje. 
+
+Então Bauhaus veio aí com todo um conceito de funcionalidade e acabou
+impactando muito no design em geral. 
+
+# Recomendações de livros
+
+Agora vou citar alguns livros que são interessantes que vocês leiam, falam sobre marcas também, mas é mais pra você que quer estudar história, a história do design, das marcas, enfim, todo esse universo. 
+
+
+![Livro-Design](/src/img/o%20que%20voce%20precisa%20saber/design-livro1.PNG)
+> Esse livro aqui da Cecília Consolo fala um pouco sobre isso, não só sobre isso, mas ele fala sobre a heráldica, os brasões, a história da marca, da identidade visual como marca e tal, e fala também sobre, enfim, manual de marca, como que ela pensa para criar uma identidade visual, então é bem interessante. 
+ 
+ 
+![Livro-Design2](/src/img/o%20que%20voce%20precisa%20saber/design-livro2.PNG)
+> Um outro livro que fala bastante sobre a história da tipografia principalmente esse aqui é o Manual da Tipografia a História a Técnica e a Arte esse livro é mais focado em tipografia tá mas obviamente não tem como você falar sobre tipografia sem falar da história do design em si então é bem interessante para quem gosta de estudar história 
+ 
+ 
+![Livro-Design3](/src/img/o%20que%20voce%20precisa%20saber/design-livro3.PNG)
+> Então, aqui também vai ter a história do design em si, desde a invenção da escrita até os dias atuais, passando por prensa móvel, revolução industrial, enfim, então é um livro que vai te ajudar a entender a história do design.
+
+
+
+Claro que você não precisa ler todos esses livros pra você se tornar um bom designer é legal ler pra conhecer a história porque isso ajuda a gente a aumentar o nosso repertório.
