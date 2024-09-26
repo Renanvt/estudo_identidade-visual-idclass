@@ -8,6 +8,8 @@
 
 [Porque Identidade Visual é importante para as empresas](#porque-identidade-visual-é-importante-para-as-empresas)
 
+[Benefícios do Design](#benefícios-do-design)
+
 # Marca
 
 Sempre costumo falar que um designer não trabalha para empresas, ele trabalha atendendo marcas.
@@ -399,3 +401,186 @@ apesar da netflix não ser um produto físico eles fizeram parceria com a imagin
 Então isso é muito legal, quando a marca ela tem consciência de até aonde ela pode ir e aonde ela não consegue ir, para pensar em estratégias.
 
 # Benefícios do Design
+
+## 8 benefícios que uma empresa tem ao investir em design, em um bom design
+
+Quando eu falo design, não estou falando só de identidade visual, estou falando de design em geral. Tanto identidade visual, mas também design de produto, usabilidade, interface, enfim.
+
+**O primeiro grande benefício**, que eu acho que importa, não é o mais importante, mas é o que as empresas e os empreendedores olham com bons olhos é o fato de que se você tem um **bom design**, você consegue trabalhar com **margens maiores**. Então, se a gente pegar dois produtos, que tem um custo de produção, de R$ 2,00 mas o primeiro produto tem um design melhor, é mais bonito por algum motivo; E o outro que tem o mesmo valor de produção, mas não é tão bonito esteticamente falando, não é legal e a empresa não investiu em design como deveria. O primeiro vai ser cobrrado mais caro, simplesmente porque tem um design mais interessante.
+
+Sabemos que isso acontece muito em supermercados, por exemplo quando a gente está na gôndola A gente prefere ter produtos mais bonitos, embalagens mais bonitas, ou até mesmo algum tipo de eletrodoméstico que tenha um design mais interessante, a gente acaba aceitando pagar mais por aquele produto só porque ele tem um design diferente um design que agradou mais os nossos olhos. 
+
+Temos como exemplo a Apple, que investe muito no design dos seus produtos e eles são uma das marcas que mais tem margens ou seja eles praticam margens muito altas e isso se deve ao design claro que tem outras questões envolvidas, como a marca e o produto em si, o desenvolvimento do produto mas o design ajuda muito a aumentar essa percepção de valor em relação aos produtos da marca.
+
+**O segundo benefício** é que ele aumenta a **visibilidade**. As pessoas procuram mais aquele produto, aquela embalagem, aquele serviço
+que tem um design mais interessante. Isso é meio óbvio, né? A gente vai acabar ignorando produtos que não têm um design bacana. Então é um benefício meio óbvio, mas eu acho que é sempre importante a gente lembrar. 
+
+**Facilita a compra**. Então quando uma marca tem uma identidade bem desenhada, por exemplo, quando você vai ao supermercado comprar, você consegue identificar facilmente de qual marca ela é. Se o produto tiver um bom design você vai acabar confiando mais nesse produto e vai acabar levando ele para casa comparado a um produto que não tem um design tão bacana. 
+
+![Heinz](/src/img/o%20que%20voce%20precisa%20saber/heinz.PNG)
+
+Eu acho que uma marca que faz muito bem essa parte de identificação de produto é a Heinz. A gente pega a linha de produtos deles, eles mantêm **a mesma essência visual**, eles têm uma identidade visual muito bem trabalhada e você olha para aquele produto você sabe que é um produto Heinz, então é muito fácil identificar o produto.
+
+E isso, claro, facilita a compra, e você pode ter certeza que é um fator que aumenta o lucro dessa empresa perceptivamente no final do mês. 
+
+
+**O quarto motivo** é que ele constrói identidade, Principalmente quando a gente está falando de identidade visual, ele ajuda a criar **uma personalidade** para aquela marca. E por que isso é tão importante? Primeiro, porque ele gera identificação, as pessoas conseguem reconhecer a marca mais facilmente. 
+
+E segundo, porque gera o próximo benefício que eu vou falar agora, que é o quinto, que é **atrair o público certo**. Eu acho que não tem nada pior para uma marca do que atrair um público que nunca vai comprar daquela marca. Então quando as pessoas olham para o design de um produto
+de uma marca, e se identificam com ela, isso acaba gerando uma empatia da pessoa em relação àquela empresa, e ela se sente mais propensa a comprar. 
+
+Quando a empresa não tem uma identidade adequada, como eu disse em aulas anteriores, quando você não tem a identidade certa, o público tem dificuldade de se reconhecer. Talvez essa marca tenha sido feita para aquele público, mas como o design e a identidade não dizem isso, então essa empresa provavelmente **perde oportunidades por causa disso**. 
+
+**O sexto motivo** é que um bom design acrescenta confiança à marca.
+
+A primeira coisa que cai no chão quando um produto tem um design ruim é a **confiança**. 
+
+Então quando o consumidor está ali olhando o site da empresa ou na própria gôndola do supermercado, quando tem um contato com uma marca e essa marca não é bem trabalhada, não tem um design bacana, a primeira coisa que a pessoa vai pensar é, **essa marca é confiável?**  Então as pessoas acabam associando um bom design com a **qualidade do produto**. 
+
+O **sétimo motivo** é que **economiza tempo e dinheiro**.
+
+Esse também é um ponto muito importante para as empresas. Por que você acha que é mais fácil? Quando você vai criar uma peça para uma empresa, seja um outdoor, um folder, uma peça para mídias sociais, comece do zero, estabelecendo uma **paleta de cores** toda vez que você cria uma peça você tem que pensar do zero ou você cria com ativos já pré-estabelecidos como uma paleta de cores, uma fonte que já foi escolhida, elementos visuais aprovados, ilustrações, gráficos. 
+
+Certamente, você irá escolher a segunda opção que é muito mais fácil pra trabalhar e muito mais rápido. Você vai conseguir criar uma peça com muita mais agilidade e isso acaba impactando na **economia** e no **tempo**.
+
+Empresas que não tem uma identidade visual bem trabalhada com elementos pré-estabelecidos fica muito desorganizada pois cada departamento pode fazer oque achar adequado, e como cada um tem sua visão da empresa, então acaba virando um carnaval, além disso se perde muito tempo na produção, gerando dúvidas e demora pra aprovação.
+
+**oitavo motivo** é que um bom design otimiza a **usabilidade** (interface, design de produtos) quando um produto/serviço é bem pensado na parte de design o seu uso fica **mais facilitado**, e a **curva de aprendizado** cai muito, conseguindo ter um aproveitamento melhor e a empresa acaba conseguindo **fidelizar melhor o cliente**.
+
+Por exemplo a Netflix que até pouco tempo atraz era a melhor interface de streaming que tinha, hoje em dias as outras empresas estão quase no mesmo patamar da netflix, com esse poder que ela tem de proporcionar facilidade para os usuários. Mais no começo praticamente nenhum streaming tinha a qualidade de usabiliade que a netflix tinha e muitas pessoas utilizavam a netflix porque gostavam da experiência.
+
+Um design não é só oque a empresa tem a ganhar, mais também as oportunidades que ela deixa de perder, muitas vezes os empresários focam muito na idéia: Eu preciso de um design bonito para a minha empresa porque quero vender mais, e não é assim que funciona. Claro que a venda acaba sendo uma consequencia natural, mais a venda final é uma **soma de varios fatores**, e o design ajuda muito essa identificação ajudando a construir a imagem da marca ao longo dos anos, porém, sozinho ele não tem esse poder todo, porém, oque estamos falando aqui não é só de ganhos que a empresa vai ter, mais sim de oportunidades que ela deixa de aproveitar por conta de ter um design ruim.
+
+# Quando uma empresa precisa de uma Identidade Visual
+
+Do meu ponto de vista, algumas empresas são mais adequadas, elas precisam realmente de uma identidade visual, e outras empresas, não vai fazer diferença se elas terem ou não uma identidade visual. Há alguns fatores envolvidos aí. 
+
+## fatores que eu acredito que levam uma empresa a precisar de uma identidade visual. 
+
+Primeiro, o setor de **commodity**. 
+
+As commodities são produtos com valores já pré-estabelecidos. Então, se essa empresa decide ir para o mercado, ela vai precisar de uma identidade visual para se diferenciar de outros produtores, de outras empresas que estão produzindo a mesma coisa. 
+
+Porque, senão, **o valor do produto dela vai ser atribuído ao seu valor de commodity**. 
+
+Porém, a coisa pode ficar muito diferente quando essa empresa investe em design ou em tecnologia. Um grande exemplo que eu posso citar aqui é a **Nespresso**. 
+
+![Nespresso](/src/img/o%20que%20voce%20precisa%20saber/nespresso.PNG)
+
+![Nespresso](/src/img/o%20que%20voce%20precisa%20saber/nespresso2.PNG)
+
+![Nespresso](/src/img/o%20que%20voce%20precisa%20saber/nespresso3.PNG)
+
+![Nespresso](/src/img/o%20que%20voce%20precisa%20saber/nespresso4.PNG)
+
+
+A Nespresso trabalhou muito bem a parte da tecnologia, desenvolvendo novos produtos, que é o café em cápsula, mas também trabalhou muito bem a sua marca. Então ao longo dos anos eles foram nichando o público deles e isso fez com que a marca se destacasse. Quando a gente pensa em café a gente pensa em Nespresso.
+
+Apesar de ser uma **commodity** e apesar de existirem outras opções de consumir o café que eu considero melhores, o Nespresso é praticamente top of mind quando a gente fala de café expresso, pelo fato dela fazer um trabalho excepcional de **branding** e o design é fantástico, desde o site até as cápsulas, as embalagens, os catálogos, tudo é muito bem trabalhado.
+
+Então hoje não dá pra enxergar a Nespresso como uma empresa que vende commodity. Ela realmente consegue valorizar muito bem o produto dela. 
+
+Mas claro que quando a gente tá falando em cafés especiais, tem gente que nem considera café especial uma commodity, mas o café em geral é sim uma commodity. Há outras marcas aí também se destacando hoje no Brasil, acho que o consumo de café especial, ele está bem em alta hoje, está vindo uma nova onda aí e tem sim outras marcas trabalhando muito bem, principalmente de pequenos produtores. 
+
+Mas quando a gente pensa numa marca de café global, com certeza o Nespresso é uma das primeiras que vem à nossa mente. 
+
+
+No **setor de combustível** a gente poderia citar, por exemplo, a **Shell** faz um trabalho excepcional de marca, né, 
+
+![Shell](/src/img/o%20que%20voce%20precisa%20saber/shell.PNG)
+
+
+
+o Ultragas também com redesign e com toda uma atmosfera de marca que é muito interessante
+
+![Ultragaz](/src/img/o%20que%20voce%20precisa%20saber/ultragaz.PNG)
+
+![Ultragaz](/src/img/o%20que%20voce%20precisa%20saber/ultragaz2.PNG)
+
+![Ultragaz](/src/img/o%20que%20voce%20precisa%20saber/ultragaz3.PNG)
+
+
+E Ipiranga também, acredito que faz um bom trabalho de marca, apesar de
+vender e trabalhar com commodity, eles conseguiram criar alguns subprodutos que acabam valorizando muito a marca que eles têm. 
+
+![Ipiranga](/src/img/o%20que%20voce%20precisa%20saber/Ipiranga.PNG)
+
+![Ipiranga2](/src/img/o%20que%20voce%20precisa%20saber/Ipiranga2.PNG)
+
+![Ipiranga3](/src/img/o%20que%20voce%20precisa%20saber/Ipiranga3.PNG)
+
+
+Outra commodity que se destacou bastante pelo seu excelente trabalho de marca é o **açúcar União**. Se eu não me engano, o logo original foi criado pelo Aloysio Magalhães, o grande designer brasileiro. E hoje quando a gente pensa em açúcar, com certeza a gente vai pensar em União pelo trabalho de marca que eles fizeram no decorrer desses anos. 
+
+![União](/src/img/o%20que%20voce%20precisa%20saber/uniao.PNG)
+
+![União](/src/img/o%20que%20voce%20precisa%20saber/uniao2.PNG)
+
+
+
+Temos também alguns cases interessantes de leite. A gente viu ali quem cresceu nos anos 2000, ou foi nos anos 90, não lembro, cresceu vendo o
+comercial da Parmalat, eles fizeram um trabalho muito legal de marca naquela época. 
+
+
+![Leite](/src/img/o%20que%20voce%20precisa%20saber/leite.PNG)
+
+![Leite](/src/img/o%20que%20voce%20precisa%20saber/leite2.PNG)
+
+
+
+E atualmente a gente tem algumas empresas trabalhando com o nicho de leite, né, mas sem ser exatamente leite. Tem uma empresa muito legal que chama **Notco** e eles fazem um leite que não é leite de vaca, um leite vegetal chamado Notmilk. Então, eles estão no setor de leite, num supermercado você vai encontrar ele provavelmente no setor de leite comum, de leite e isso traz toda uma imagem de marca contra-cultura, muito do arquétipo do rebelde e é super interessante analisar como eles estão construindo a marca deles hoje no mercado.
+
+![notCo](/src/img/o%20que%20voce%20precisa%20saber/notCo.PNG)
+
+![notCo](/src/img/o%20que%20voce%20precisa%20saber/notCo2.PNG)
+
+
+Um outro fator que leva uma empresa a precisar de uma identidade visual é a **alta concorrência**. Quando você está andando num shopping, por exemplo, parece um lugar muito tranquilo, muito pacífico, mas ali está acontecendo uma guerra uma **guerra pela sua atenção**, porque hoje existem várias marcas de diversos segmentos e as marcas elas trabalham para tentar captar a sua atenção, caso você se interesse no produto delas então uma loja de roupa, por exemplo, que em um shopping é possível encontrar várias, eles precisam ter um design impecável porque se eles não pensarem dessa forma, eles vão ficar pra trás porque num shopping a concorrência está literalmente do lado. Por isso que você vê no shopping ou até no supermercado produtos interessantes que as marcas fazem questão de destacar porque a concorrência é muito próxima. 
+
+E hoje em dia a gente é bombardeado por informações visuais, seja na TV, nas redes sociais, na internet em geral. É uma guerra de marcas tentando chamar a nossa atenção. 
+
+E as marcas que não são relevantes, diferentes, ousadas, enfim, elas vão acabar caindo no esquecimento. Então, porque a nossa cabeça não consegue processar tudo o que ela vê ao mesmo tempo, ela vai fazer essa seleção. 
+
+Uma vez eu vi uma entrevista com o Steve Jobs, que ele diz que **a alta concorrência acaba criando uma espécie de commodity**, então por exemplo, tênis, você tem tênis de várias marcas, então pelo fato de você ter uma ampla gama de empresas oferecendo o mesmo produto, acaba que ele se torna uma **commodity**, mas algumas marcas se destacam, por exemplo a **Nike**, **Adidas**, entre outras marcas aí, acabam se destacando nesse mercado que foi comoditizado através da concorrência. 
+
+Outra marca que se destaca nesse segmento é a Havaianas.
+
+![Havaianas](/src/img/o%20que%20voce%20precisa%20saber/havaianas.PNG)
+
+![Havaianas](/src/img/o%20que%20voce%20precisa%20saber/havaianas2.PNG)
+
+![Havaianas](/src/img/o%20que%20voce%20precisa%20saber/havaianas3.PNG)
+
+
+Várias e várias empresas oferecem chinelo, mas a Havaianas fez um trabalho de reposicionamento no mercado muito interessante e hoje você nem chama mais uma Havaiana de chinelo, é uma Havaiana, eles acabaram se apropriando do próprio produto, mesmo que seja de outra marca, você fala, vou comprar uma Havaiana de tal marca, e aí virou tipo o Bombril, Maisena, Helman, que acabaram se apropriando do próprio produto.
+
+Quando uma marca atinge esse patamar, é porque realmente eles conseguiram ter muito sucesso no seu trabalho de construção de marca.
+
+
+Um outro sinal de que uma empresa precisa de uma identidade visual é quando ela está tendo um **alto custo de produção e de aplicação**. Então a empresa está gastando muito tempo **criando peças novas**, **aplicando**, porque existe um **problema no design**, ela não tem um padrão, ela não tem um **manual**, por exemplo, de aplicação, então acaba ficando muito bagunçado ali e eles acabam **erdendo muito tempo** e **consequentemente dinheiro**. 
+
+Como eu já falei na aula passada, eu já trabalhei numa empresa grande que tinha essa confusão, cada setor chegava em uma empresa de uma forma, usava uma determinada fonte, uma determinada cor, não tinha manual, então acabava se perdendo muito tempo nesse processo. E em uma empresa assim, o maior problema nem é esse, o maior problema é que com essa fragmentação visual, **a marca acaba não conseguindo construir uma identificação, não consegue criar uma personalidade visual no mercado**. Isso pra mim eu acho que é muito pior do que perder o tempo e dinheiro na produção, porque isso realmente é um tipo de trabalho que você tem não tem mais volta, você vai ter que reconstruir novamente, então com certeza é um prejuízo duplo.
+
+
+## Fatores em que algumas empresas que não precisam de uma identidade visual. 
+
+É importante você saber disso para você não perder seu tempo oferecendo o seu trabalho para esse tipo de empresa que realmente não precisa.
+
+Eles vão continuar vendendo, vão continuar existindo, independente de ter uma boa identidade visual ou não. 
+
+E quais são essas empresas? **São negócios baseados em oportunidade ou falta de concorrência**. 
+
+**O que é oportunidade?** Digamos que você está lá com o seu carro na
+rodovia e pneu fura e, sei lá, a 50 metros tem uma borracharia. Você vai ter que levar seu carro lá, né? Então você vai ter que andar muitos quilômetros com o seu pneu furado para achar outra borracharia, simplesmente porque você não quer aquela. Provavelmente não é isso que você vai fazer, você vai parar naquela borracharia, então independente se você gosta ou não da marca, ela está ali e ela está gerando uma oportunidade, então não faria diferença ela ter uma identidade
+visual bem trabalhada ou não, você vai ser obrigado a consumir o produto dessa borracharia. 
+
+Uma empresa que vende cachorro-quente num estádio, geralmente como tem esse trâmite de autorização e tudo mais, de parceria geralmente quando nesse tipo de ambiente só é uma empresa vendendo aquele determinado produto. Então se você quiser comer o cachorro quente no estádio você vai ter que comprar somente daquela empresa. Independente se tem ali na região outra empresa que vende, o produto até melhor, você não vai sair do seu lugar pra comprar um cachorro quente dessa outra empresa.
+
+
+Então ali a gente vê um **negócio que não tem concorrência ali dentro daquele daquele momento, daquela oportunidade**. Então acaba que são negócios que realmente não faz sentido elas terem ou não uma identidade visual forte e marcante.
+
+
+Outro tipo de negócio que não precisa de identidade visual **são aqueles negócios baseados em preço** eles não querem ter uma diferenciação no mercado por qualidade ou por reconhecimento de marca e nada disso eles querem ser reconhecidos no mercado como o mais barato então se eles são os mais baratos é talvez não faça sentido eles trabalharem bem a marca deles embora eu acredito que todos os negócios que eu falei, tanto uma borracharia, quanto uma barriga de cachorro quente, quanto uma empresa que trabalha por preço, acho que eles vão ter alguns benefícios sim, se fizeram identidade visual, mas eu acredito que não são empresas que precisam se diferenciar, que estão muito preocupadas com concorrência, que eles já têm outros ativos ali que são mais importantes do que trabalhar a marca. 
+
+Então assim, a primeira coisa é que a identidade visual é importante em negócios que **precisam de uma marca**, **precisam construir uma marca no mercado**. Quando são negócios que não precisam por algum desses motivos, realmente não faz sentido nenhum a gente correr atrás desse tipo de cliente e não faz sentido nenhum esperar que esses clientes vão vir até a gente.
+
