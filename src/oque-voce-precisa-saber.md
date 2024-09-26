@@ -12,6 +12,8 @@
 
 [Breve história da Identidade Visual](#breve-história-da-identidade-visual)
 
+[Caso Burguer King](#caso-burguer-king)
+
 [Recomendações de livros](#recomendações-de-livros)
 
 
@@ -695,6 +697,107 @@ A gente tem a Shell também, que lá em 1909 era uma concha, literalmente uma co
 
 Então Bauhaus veio aí com todo um conceito de funcionalidade e acabou
 impactando muito no design em geral. 
+
+
+# Caso Burguer King
+
+Bom, até agora a gente viu muita teoria sobre identidade visual e eu não mostrei um exemplo na prática. Fui mostrando alguns exemplos durante as aulas, mas acho que eu vou mostrar aqui nessa aula, nesse estudo de caso, ele vai ser muito mais profundo. Eu escolhi essa marca porque, para mim, dos projetos de design dos últimos anos, esse é o projeto de identidade visual mais completo. Saem por aí muitos, mas eu gosto muito dessa marca. É uma marca que todo mundo conhece praticamente. O projeto está super redondinho, ganhou vários prêmios ao redor do mundo. É um baita de um projeto e ele é muito didático quando a gente está falando em explicar o que é uma identidade visual e os elementos que compõem uma identidade visual. 
+
+
+Então, eu pensei duas vezes em pegar esse projeto aqui para explicar os elementos que compõem uma identidade visual e como esse projeto se desenvolveu, qual que foi o objetivo dele no mercado.
+
+![Burguer King](/src/img/o%20que%20voce%20precisa%20saber/burguerking.PNG)
+
+
+Esse **redesign** foi feito por uma agência chamada JKR e na verdade ele, não sei se a gente consideraria um redesigning ou uma releitura, um resgate de elementos da marca na década de 70 eu imagino que é um pouco dos dois mas acredito que teve sim um grande trabalho de design em cima principalmente quando a gente considera o segmento desse cliente, que é o segmento de fast food que também tem aí um nível de concorrência bem considerável. 
+
+Quando a gente pensa em fast food hoje em dia, qual que é a primeira coisa que vem em nossa cabeça? Primeiro de produto sintético, produto artificial, corante, aromatizante, conservante. A última coisa que a gente vai pensar quando a gente tem fast food na nossa cabeça é que eles estão vendendo um produto artesanal, um produto natural. 
+
+Isso foi se criando ao longo dos anos, através da imprensa, dos documentários que a gente assiste, falando dos malefícios desse tipo de comida. Então **Burger King** enxergou isso, viu que as pessoas estavam procurando uma empresa de fast food que transmitisse uma ideia de produto mais orgânico, de produto natural. Eles estavam vendo que as pessoas estavam criando uma resistência contra esse modelo de fast food e eles viram, olharam por eles mesmos e perceberam que isso estava na marca deles. 
+
+![Burguer King](/src/img/o%20que%20voce%20precisa%20saber/burguerking2.PNG)
+
+
+O Burger King, primeiro, é uma rede de fast food tradicional, com todos os elementos de uma rede de fast food. Quando a gente olha para as cores do Burger King, a gente vê, por exemplo, o azul. O azul, quando a gente pensa em comida, ele é uma cor totalmente antinatural. É difícil você pensar uma comida que seja azul. É uma cor fria, é uma cor que não traz proximidade, não faz sentido nenhum uma empresa igual o Burger King, que estava querendo ir ao oposto desse modelo de negócio, utilizar o azul. Então provavelmente a cor azul foi uma das primeiras coisas que eles eliminaram ali nesse redesign. E a cor azul deu lugar para as cores que, segundo as pessoas que trabalharam no projeto remete a elementos naturais, ingredientes naturais que estão presentes ali nos produtos do Burger King. 
+
+Eu vou até ler aqui uma declaração da agência que fez o projeto, ele diz o seguinte: 
+
+> para a primeira mudança global do Burger King em mais de duas décadas nos propomos a fazer com que a marca se sinta menos sintético e artificial, mais real, desejada e saborosa. Fomos inspirados pelo logotipo original da marca e como ela cresceu e passou a ter um lugar icônico na cultura. 
+ 
+Então a principal ideia aqui com esse projeto é ir contra essa ideia que se criou de alimento industrializado e artificial, embora a gente saiba que o Burger King continua trabalhando da mesma forma com esses elementos artificiais, corantes, enfim, mas o que eles não queriam era transmitir essa mensagem, já que estão vendendo isso vamos transmitir uma ideia de comida artesanal, eles viram que eles estavam perdendo espaço para comida, para um hambúrguer artesanal, por hambúrguer feito na hora, com carne de qualidade, enfim, eles estavam perdendo o mercado para essas pequenas redes que estavam vendendo isso e isso ajudou também a fazer esse redesign. 
+
+![Burguer King](/src/img/o%20que%20voce%20precisa%20saber/burguerking3.PNG)
+
+Então vamos começar nossa análise aqui do Burger King. Primeiro vamos dar uma olhada no logo né que como eu já falei é um resgate do logo da década de 70 vou colocar os dois lado a lado aqui para vocês verem.
+
+![Burguer King](/src/img/o%20que%20voce%20precisa%20saber/burguerking.PNG)
+
+![Burguer King](/src/img/o%20que%20voce%20precisa%20saber/burguerking4.PNG)
+
+
+Então a gente tem um logo que é um resgate a gente tem uma sacada muito legal aqui que a versão reduzida que ele é um B que remete a um sanduíche né então achei isso aqui muito inteligente uma sacada muito legal e eu acho que isso traz muita charme pra marca.
+
+
+![Burguer King](/src/img/o%20que%20voce%20precisa%20saber/burguerking5.PNG)
+
+A paleta de cor como já falei ela é inspirada nos ingredientes então é muito mais orgânica a fonte foi criada sob demanda né então só o Burger King tem essa fonte específica. 
+ 
+![Burguer King](/src/img/o%20que%20voce%20precisa%20saber/burguerking6.PNG)
+ 
+![Burguer King](/src/img/o%20que%20voce%20precisa%20saber/burguerking7.PNG)
+
+
+E essa fonte transmite muito bem essa sensação de comida artesanal, ela parece que é uma tipografia realmente criada para esse propósito, para transmitir essa sensação. 
+
+![Burguer King](/src/img/o%20que%20voce%20precisa%20saber/burguerking8.PNG)
+
+
+Os ícones também são bem orgânicos, não são retinhos e geométricos. 
+
+
+![Burguer King](/src/img/o%20que%20voce%20precisa%20saber/burguerking9.PNG)
+
+![Burguer King](/src/img/o%20que%20voce%20precisa%20saber/burguerking10.PNG)
+
+
+Os grafismos também, composto por ilustrações, ícones também, uma meio que uma junção das ilustrações e dos ícones. 
+
+![Burguer King](/src/img/o%20que%20voce%20precisa%20saber/burguerking11.PNG)
+
+![Burguer King](/src/img/o%20que%20voce%20precisa%20saber/burguerking12.PNG)
+
+
+
+A gente tem a fotografia que ela tem personalidade, não são pessoas com padrão, eles não tentam parecer um banco de imagem como muitas marcas aí que acabam fazendo um ensaio fotográfico que fica parecendo um banco de imagem. O Burger King foi para um outro caminho. 
+
+![Burguer King](/src/img/o%20que%20voce%20precisa%20saber/burguerking13.PNG)
+
+![Burguer King](/src/img/o%20que%20voce%20precisa%20saber/burguerking14.PNG)
+
+
+
+As ilustrações são bem orgânicas também e tem um estilo de animação também que está presente no projeto, que tem um estilo próprio de movimento. Então olha só quantos elementos tem essa identidade visual, são nove elementos que a que compõe e uma coisa que eu quero deixar bem claro aqui que vocês tenham muito isso em mente **quanto mais elementos você tem para trabalhar mais trabalhar mas você consegue se diferenciar**. 
+
+Eu sempre faço uma análise com uma roupa, uma vestimenta. Digamos que alguém dá um desafio pra você. Tente criar um figurino super diferenciado usando apenas meia. Você só tem a meia, você só vai se limitar a uso de meia. Você pode variar as cores da meia, as texturas dessa meia, o comprimento dessa meia, mas vai continuar sendo só uma meia. Quando essa limitação se expande, ou seja, você pode usar além da meia, você pode usar calça, você pode usar chapéu, você pode usar saia,
+você pode usar jaqueta, você pode usar camisa, enfim. Você consegue criar várias combinações para criar um figurino mais autêntico.
+
+
+![Burguer King](/src/img/o%20que%20voce%20precisa%20saber/burguerking15.PNG)
+
+Então, quando a gente está falando em identidade visual, você tem vários elementos para trabalhar e isso acaba proporcionando uma grande **gama de possibilidades**. Então às vezes o teu logo não é o mais original, as cores que você está usando às vezes não está se diferenciando tanto do mercado.
+
+Mas em relação aos outros elementos que vem, o uso dentro do layout, junto com as cores, as texturas, os ícones, essa junção de elementos vai acabar **criando uma identificação**, como a gente viu ali no Burger King, que eu acabei nem colocando, o uso do espaço, o layout que eles utilizam, que eu acho que é bem legal e eu acho que todos esses **elementos juntos** eles acabam criando uma identificação e **transmitindo a mensagem da marca** que é o mais importante, que é de comida orgânica, comida natural nas lanchonetes mesmo, nos estabelecimentos físicos você percebe essa preocupação também de parecer uma cozinha lá dos anos 70, 80 tem uma coisa meio nostálgica ali também, então as cores também remetem a isso.
+
+![Burguer King](/src/img/o%20que%20voce%20precisa%20saber/burguerking16.PNG)
+
+![Burguer King](/src/img/o%20que%20voce%20precisa%20saber/burguerking17.PNG)
+
+![Burguer King](/src/img/o%20que%20voce%20precisa%20saber/burguerking18.PNG)
+
+
+
+Então acho que ele traz toda essa nostalgia de uma forma diferente, de uma forma nova e trazendo todos os elementos que seriam desejados para fazer o Burger King ter essa percepção que eles desejariam transmitir dentro de um segmento de fast food que é tão concorrido e por um lado é um tanto mal visto pelas pessoas então acho que eles conseguiram criar um projeto que atende muito muito bem todas essas demandas, todas essas exigências que a marca tinha pra se destacar no mercado.
+
 
 # Recomendações de livros
 
