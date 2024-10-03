@@ -1,3 +1,13 @@
+# Tópicos
+
+[Dicas de criação](#dicas-de-criação)
+
+[Comum VS Diferente](#comum-vs-diferente)
+
+[Entra Lixo Sai Lixo](#entra-lixo-sai-lixo)
+
+[Materiais de referência](#materiais-de-referência)
+
 # Dicas de criação
 
 Nessa aula aqui vou dar algumas dicas de criação. Não é nada muito aprofundado, porém eu quero desmistificar alguns mitos sobre a criatividade. O primeiro mito que eu quero desmistificar aqui e que muita gente acredita é que criatividade é dom. **Criatividade não é dom, todo mundo nasce criativo**. O que acontece é que no decorrer das nossas vidas a gente vai deixando essa essa criatividade morrer, essa criatividade artística. 
