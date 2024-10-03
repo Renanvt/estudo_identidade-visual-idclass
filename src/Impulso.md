@@ -24,7 +24,7 @@
 
 [ Modelo de contrato ](#modelo-de-contrato)
 
-[ Estratégias de prospecção](#estratc3a9gias-de-prospecc3a7c3a3o-1)
+[ Estratégias de prospecção](#estratégias-de-prospecção)
 
 # Oque é a ID Class
 
