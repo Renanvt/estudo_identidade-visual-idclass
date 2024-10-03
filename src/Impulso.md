@@ -40,6 +40,9 @@
 Não é um curso de ferramentas
 - Esse curso provoca o autoconhecimento, análise e desejo pelo conhecimento para criar uma bagagem pra identificar oque é melhor e oque não é
 
+# [👆 TÓPICOS](#tópicos)
+
+
 # Oque um bom design precisa
 
 - Técnica, metodologia, qualidade, confiança e valorização
@@ -51,6 +54,8 @@ Não é um curso de ferramentas
 - Metodologia (gera agilidade, clareza, valorização, segurança)
 - Qualidade (Junção dos três tópicos acima; Criar um projeto adequado ao público/empresa de acordo com os objetivos que ela tem a curto e a longo prazo; qualidade gráfica superior, atendimento, pensar no cliente e saber conversar sem muita pressão, saber tranquilizar o cliente)
 - Confiança e Valorização, consequencia de um bom entedimento do design, dominio do software, qualidade e metodologia, gerando uma boa segurança contra qualquer argumento do cliente
+
+# [👆 TÓPICOS](#tópicos)
 
 
 # 3 habilidades para o sucesso
@@ -94,6 +99,9 @@ Ninguem consegue se desenvolver sozinho, precisa de pessoas.
 - Sites
 - Redes Sociais
 
+
+# [👆 TÓPICOS](#tópicos)
+
 # O fluxo de um projeto
 
 Cliente entra em contato -> Marcar uma reunião (opcional) -> Entender a dimensão do projeto -> Entender a empresa -> Mandar uma proposta -> Proposta aprovada -> Depósito da primeira parte do pagamento -> Marcar a segunda reunião -> Começar o projeto
@@ -104,6 +112,9 @@ O projeto não inicia antes que o cliente entre com a primeira parte, aceite os 
 Existem projetos que não precisam necessariamente de um contrato, mais existem riscos de tomar calote, tenha flexibilidade
 O briefing ja é parte do trabalho, então faça o briefing após receber a primeira parte
 Beneficios da reunião -> Humanizar o atendimento, entender o cliente, os clientes que pagam mais geralmente gostam de ser atendido por pessoas
+
+# [👆 TÓPICOS](#tópicos)
+
 
 # O primeiro contato com o cliente
 
@@ -133,6 +144,9 @@ Use termos como "Vamos marcar uma conversa?" "Vamos marcar um encontro?"
 Evite falar "Vamos marcar uma reunião?"
 
 Reunião está relacionado a procedimentos que pessoas fazem pra perder tempo e que poderiam ser resolvidos de forma muito mais rápida por um email por exemplo
+
+# [👆 TÓPICOS](#tópicos)
+
 
 # Como conduzir uma reunião (Pré-briefing)
 
@@ -222,6 +236,8 @@ Não. Não pretendo registrar = Cliente não demostra ter muita resposabilidade 
 
 Marque uma reunião. Se você não se sente preparado para uma reunião, mande um formulário para o cliente (google forms) 
 
+# [👆 TÓPICOS](#tópicos)
+
 # Proposta
 
 [Modelo de proposta](/src/ferramentas/Impulso/05.%20Modelo%20de%20proposta.idml)
@@ -249,6 +265,10 @@ Marque uma reunião. Se você não se sente preparado para uma reunião, mande u
 - Prazos estabelecidos
 
 - Valores e formas de pagamento
+
+
+# [👆 TÓPICOS](#tópicos)
+
 
 # Como avaliar um bom cliente
 
@@ -278,6 +298,9 @@ Ticket médio = faturamento total de vendas / numero de vendas * tempo
 " Email mais robusto e detalhado, Olá Jonatan, tenho uma empresa de tal segmento, atuo a tantos anos, etc "
 Esse tipo de ciente é muito mais conciencia do trabalho que você ofereçe e porque ele esta te procurando, logo, é um cliente mais adequado
 
+# [👆 TÓPICOS](#tópicos)
+
+
 # Negociação
 
 Cliente pergunta se você teria a disponibilidade de negociar, pois viu que o valor passou do orçamento. Vale a pena negociar?
@@ -294,6 +317,9 @@ Considerar o parcelamento.
 
 Quando o cliente acha caro pode ser pois dos motivos: porque ele não entendeu no que o seu trabalho pode agregar na empresa dele ou porque ele não tem investimento no momento para arcar. Nesse caso, considere o parcelamento
 
+# [👆 TÓPICOS](#tópicos)
+
+
 # Metodologias
 
 È imporante agrupar seu processo de trabalho em metodologias, como
@@ -301,6 +327,10 @@ Quando o cliente acha caro pode ser pois dos motivos: porque ele não entendeu n
 - Metodologia rápida (express) = mais barata
 - Metodologia 2 mais aprofundada
 - Metodologia 3 mais aprofundada entrando na parte de brading, pacotes, etc
+
+
+# [👆 TÓPICOS](#tópicos)
+
 
 # Portfólio
 
@@ -322,6 +352,9 @@ Caso seja iniciante diga para o cliente:
 Como eu estou começando eu vou cobrar um valor baixo, porém, eu gostaria de que você caso me indique para algum outro cliente no futuro, não revele o valor do projeto porque eu to começando. Caso você revele o valor do projeto para um cliente que é baixo, você diz que esse valor é baixo porque são meus primeiros projeto, no próximo o valor vai aumentar
 
 O meu projeto custa x reais, porém eu faço um desconto de 50% pra você porque eu estou 
+
+
+# [👆 TÓPICOS](#tópicos)
 
 # Modelo de contrato
 
@@ -349,6 +382,9 @@ O contrato disponibilizado foi feito por *Moisés* que é especialista em leis v
 Por exemplo:
 o cliente deseja uma assinatura de email que não esta no contrato.
 Olha, isso não ta no contrato, a gente vai fazer assim mesmo, como uma cortesia
+
+# [👆 TÓPICOS](#tópicos)
+
 
 # Estratégias de prospecção
 

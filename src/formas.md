@@ -1,3 +1,18 @@
+# Tópicos
+
+[Forma e percepção](#forma-e-percepção)
+
+[Quadrado, círculo e triângulo](#quadrado-círculo-e-triângulo)
+
+[Analisando alguns símbolos](#analisando-alguns-símbolos)
+
+[Figurativo vs Abstrato](#figurativo-vs-abstrato)
+
+[Oque é um bom logo](#oque-é-um-bom-logo)
+
+
+
+
 AS formas enfuenciam a percepção do telespectador
 
 Uma determinada cor quando inserida em uma determinada forma, pode mudar a percepção daquela determinada cor
@@ -87,6 +102,10 @@ Algumas experiências ficam mais agradáveis quando utilizamos o formato e a for
 
 ![Forma](/src/img/formas/forma16.PNG)
 > Scar tem formas bem pontiagudas e proeminentes do que o Mufasa que é ligeramente mais fofinho
+
+# [👆 TÓPICOS](#tópicos)
+
+
 
 # Quadrado, círculo e triângulo
 
@@ -211,6 +230,9 @@ Nos remete a imaginar algo que tem algo dentro
 ![Triangulo](/src/img/formas/Triangulo16.PNG)
 > E agora, você tem uma sensação maior de que ele está descendo? SIM
 
+# [👆 TÓPICOS](#tópicos)
+
+
 # Analisando alguns símbolos
 
 ## Quadrado
@@ -267,6 +289,8 @@ Nos remete a imaginar algo que tem algo dentro
 
 ![MisturandoFormas](/src/img/formas/MisturandoFormas.PNG)
 > Faz com que o símbolo seja ainda mais proprietário, estiloso
+
+# [👆 TÓPICOS](#tópicos)
 
 
 # Figurativo vs Abstrato
@@ -348,6 +372,7 @@ Cuidado com os símbolos abstratos negativos e de duplo sentido
 
 Sempre que possível tente trabalhar na área da subjetividade, abstração e simbólico.
 
+# [👆 TÓPICOS](#tópicos)
 
 # Oque é um bom logo
 
@@ -425,3 +450,5 @@ Você tem as cores principais e as cores de apoio que irão aparecer em alguns m
 Um bom símbolo deve ser versártil, ou seja, deve ser criado visando a possibilidade de ser aplicado de diversas maneiras, em diversas superfícies sem que seu sentido seja prejudicado.
 
 Não adianta nada você criar um símbolo sofisticado, cheio de sombras, brilhos e gradientes e aí, quando for utilizar em uma cor, um carimbo por exemplo, ele perde o sentido e/ou legibilidade.
+
+# [👆 TÓPICOS](#tópicos)

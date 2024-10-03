@@ -6,6 +6,8 @@
 
 [Criação Incomum](/src/criacao-incomum.md)
 
+[Planejamento Estratégico](/src/planejamento-estrategico.md)
+
 [Tipografia](/src/tipografia.md)
 
 [Formas](/src/formas.md)

@@ -44,6 +44,9 @@ Uma outra questão que vai te ajudar muito a ter ideias é **buscar inspiração
 
 O mais que você me diga, eu criei um projeto sem olhar o trabalho de ninguém, eu não fiquei buscando inspiração na internet nem referências, mas **você já tem guardado na sua cabeça várias referências que você acumulou durante algum tempo**, então é muito importante que você entenda essas questões sobre criatividade.
 
+# [👆 TÓPICOS](#tópicos)
+
+
 # Comum vs Diferente
 
 ![Gráfico](/src/img/criacao-incomum/grafico.PNG)
@@ -140,6 +143,9 @@ Não é interessante **ficar preso a um elemento**, porque uma hambúrgueria que
 
 Será apenas mais um hambúrguer onde o logotipo, o símbolo é um hambúrguer, e não causará essa diferenciação, **não terá uma marca registrada interessante**. Será apenas mais um hambúrguer onde o logotipo, o símbolo é um hambúrguer, e não causará essa diferenciação, não terá uma marca registrada interessante.
 
+# [👆 TÓPICOS](#tópicos)
+
+
 # Entra Lixo Sai Lixo
 
 Assim como é improvável que alguém se torne um bom escritor sem ter lido vários livros, é pouco provável que alguém se torne um bom designer sem antes ter consumido muito design. E design de qualidade, obviamente. 
@@ -157,7 +163,7 @@ claro que até o final desse curso conforme você vai trabalhando assistindo às
 das pedras mas eu acredito que vocês tomando alguns cuidados, vocês vão conseguir facilmente ter contato com projetos de muita qualidade e de muita excelência. 
 
 
-Eu vou deixar esses links aqui embaixo:
+# Materiais de referência
 
 ​https://www.behance.net
 
@@ -184,103 +190,10 @@ https://www.fastcompany.com
 https://dribbble.com
 
 
-
-Bom, primeiro e mais conhecido repositório, a vitrine dos designers do mundo todo é o nosso querido Bihensi. E aqui é muito legal pra vocês acharem os projetos porque tem um espaço ali pra você
-
-2:34
-colocar as descrições do projeto, então é muito legal. Porém, qual que é o problema? Vou rolar aqui ó, e assim, pode aparecer projetos maravilhosos como pode aparecer projetos mais ou menos, né? Hoje em dia a curadoria está um pouco melhor, assim, na home você encontra projetos melhores, mas antigamente realmente era meio complicado. Então, como que vocês fazem para encontrar os melhores projetos aqui no Behance? Vocês usam as galerias
-
-3:04
-de curadoria, tá? Então, por exemplo, vocês vêm aqui em descobrir, quando vocês vêm em descobrir, vai abrir o link com o melhor do Behance. O que é o melhor do Behance? É o selo azul, né? Tá vendo essa linha azul aqui? Esse selo azul, ele é o selo mais, digamos... são projetos mais inovadores, diferentes, enfim, que é considerado o Behance em geral, né? Ele não está dentro de uma categoria apenas, mas sim o melhor
-
-3:32
-dentro da plataforma, o que é muito legal. Então você está aqui dentro, você já está vendo o melhor que tem no brinche hoje né ou de acordo com a última curadoria e se não pegar porque você pode clicar aqui ó e
-
-3:48
-e ver né a explicação do projeto então acho que isso ajuda vocês a criar um senso crítico bem interessante né olha que legal vai então quer dizer que tá na galeria do brinche aqui do melhor do brinche é um projeto bom a
-
-4:04
-maioria são na minha concepção tá isso é uma questão de gosto também às vezes aparece os projetos aqui que eu não gosto muito tá o projeto do rio aqui a data olha que legal já ganhou um selo do bianchi que maravilha ninguém duvidava
-
-4:19
-né projeto muito diferenciado muito legal a bom mas eu posso escolher por categorias, então eu posso vir aqui em design gráfico aí eu vou entrar em uma outra curadoria que é a curadoria de design gráfico vocês vão ver que até o selo muda né
-
-4:33
-enquanto o do Behance é o selo azul de design gráfico é um selinho dourado e aí é só em relação a design gráfico e eu posso ser mais específico ainda e clicar em marca que é o que nos interessa né, então aqui você vai ver design de marca, então
-
-4:48
-todos os projetos que estão aqui, eles são projetos de marca aí tem muita embalagem, tudo que envolve projetos de marca então você vai clicar e aí você vai ter acesso a informações sobre o projeto esse projeto que é maravilhoso, olha que legal, muito bonito, muito bem montado e também ter essa inspiração para suas apresentações, né? O que é muito show. Então, assim que vocês conseguem fazer essa curadoria dos melhores projetos,
-
-5:26
-através da curadoria do Behance. Então, já teve uma pessoa que veio aqui, pesquisou, fez a curadoria, para que vocês tivessem acesso aí já tudo prontinho aqui pra vocês consumirem o que há de melhor dentro da categoria que você escolheu. A plant aqui do nosso última aula. E aqui pessoal, vou voltar pra home, tem algumas coisas aqui, alguns recursos que vocês podem utilizar então procurar projeto por cor, por ferramentas, eu quero procurar projetos de photoshop, illustrator, campos de criação, então eu posso vir aqui direto e clicar em marca né
-
-6:04
-e aí já aparece. Eu acho que aqui já está com a curadoria né, aparentemente sim já está com curadoria também, todos tem selinhos embora nem todos tem o selinho do design gráfico e se pra ir especificamente você pode clicar até no selo direto aqui tá? Então você clica e ele já vai entrar em embalagens, ele já deixou selecionado aqui para mim, então o Bihinx tem uma certa inteligência o lance aqui pessoal é fuçar, é entrar e não ter medo de clicar
-
-6:34
-para que vocês possam dar uma navegada boa, então isso aqui é o mais legal, o mais interessante e para procurar ilustração, enfim, 3D, vocês podem, óbvio, clicar aqui na caixinha de busco aqui, já tem até algumas coisas aqui, se você quer protótipos para ver, vai aparecer bastante coisa de YOX Design, que tem bastante no Behance também. Então assim, eu costumo usar o Behance dessa forma, usando as curadorias, e é até legal vocês entenderem a importância da curadoria, quando alguém ganha um selo, não é só um artefato visual que está ali no projeto dele, passou por uma curadoria e foi para uma galeria, um lugar separado, que é onde geralmente os diretores de arte vão procurar esses projetos.
-
-7:20
-Então, estar dentro de uma galeria dessa, ganhar um selo do BGenci, é interessante por essa questão até de negócios, é um lance que pode fazer com que você consiga um cliente, é uma parada de prospecção mesmo então tá aí você que não tem conta do Behance você tem projetos mas ainda não tem conta do Behance, acho que seria interessante dar uma olhada aqui tá Logobook
-
-7:46
-é um site que eu gosto bastante também e aqui pessoal a gente já está mais focado no shape, no símbolo e nem tanto no projeto em si como é o Behance que mostra o projeto completo mas o legal é que você pode escolher os shapes os logos de acordo com elementos
-
-8:02
-letras enfim, então aqui, letras e números você pode escolher as letras, por exemplo, vai estar aqui em C então vai ter logos que tem o C como inicial aqui olha que interessante
-
-8:15
-aí tem também por shape, tem o 3D, tem o ângulo, setas, círculos então vamos entrar em círculos aqui olha que legal, como ele faz uma curadoria já de símbolos interessantes aqui pra gente ver nesse formato. Aí tem natureza, business, então é bem legal vocês darem uma explorada aqui nesse site aqui, tá?
-
-8:38
-Logo Book. Outro site que eu gosto bastante é o Fontes e News, que também tem uma curadoria, obviamente, mas eu vim falando as fontes que vem em determinado projeto. Por exemplo, esse projeto aqui, ó, Hector e Chap. Você pode entrar aqui e ver mais detalhes do projeto. E você pode também comprar a fonte, está em algum lugar aqui que você vai ter acesso.
-
-9:01
-Você clicando aqui no link da fonte, caso você tenha gostado da fonte, você pode ter acesso. Então isso aqui é muito legal para a gente pesquisar por tipografia e ver essas tipografias aplicadas, como o designer imaginou essa tipografia aplicada em um projeto seja de identidade visual ou de algumas coisas meio nada a ver assim como essa barraquinha aqui nada a ver não né, é que ela se destaca entre as outras projetos aqui mas imagina, deixa eu clicar aqui, só por curiosidade
-
-9:35
-Ah, tá falando, tá falando tipo, quem será que teve a ideia de utilizar uma fonte dessa aqui numa barraquinha de comida mexicana, né? Realmente, acho que deveria ter sido uma fonte mais legível, né? Eu costumo falar que tipografia, existem aquelas que são para ser lidas e as que são para ser vistas, ou seja, não tem compromisso com a legibilidade. Mas nesse caso, dessa aplicação em específico, o certo era ter escolhido uma tipografia para ser lida, por conta dessa função e pela natureza do tipo de negócio.
-
-10:23
-Talvez seja algum meme da internet, eu não sei mas tá vamos lá brand new é um site que eu gosto bastante também e tem os redesigns de marcas ao redor do mundo esse site aqui pessoal hoje em dia é pago tá não sei se está pago ainda tem um tempo atrás era deixa dar uma clicada aqui eles vão oferecer um plano pra você você resolve né ver se você quer ou não assinar aqui ó, pra acesso completo né, você pode fazer a sua inscrição
-
-10:55
-por dois dólares ao mês ou vinte dólares por ano, não acho um custo altíssimo, mas só se você quiser também tá e aí você tem acesso também às análises enfim, então tem bastante coisa aqui de antes e depois, de redesigns brand new
-
-11:13
-fica aí a dica pra vocês também essa aqui é um site bem legal que... enfim, tem vários insumos aqui de identidade visual, tanto inspiração para projetos, então você pode ver aqui, que tem um projeto, você pode clicar aqui ele vai te dar mais detalhes e tem templates também que você pode comprar, você pode adquirir
-
-11:35
-então é bem legal esse site aqui você pode clicar aqui no menu, no canto inferior esquerdo tem várias tags aqui, então, pô, quero filtrar por projetos clico aqui e vai aparecer um monte de projetos legais aqui com curadoria também, você pode ver que só tem projetos fantásticos aqui só coisas lindas mesmo, então vale a pena dar uma olhada
-
-12:01
-o Dailine que é um site muito conhecido já de inspiração, matéria, notícias, enfim fica a dica aí também pra vocês terem como referência Fonte Review Journal também sobre tipografia, então tem novidades aqui sobre o mundo
-
-12:21
-tipográfico, a gente trabalha com tipografia, a gente trabalha com marcas tem que trabalhar com tipografia então aqui tem um site com muitas referências que eu acho fantástico Save, que aqui é uma plataforma para você criar moodboards, enfim, eu não vou fazer login
-
-12:40
-eu tenho uma conta aqui que quase não uso, mas fica a dica para vocês também que é muito legal, vocês podem fazer login e fazer quadros de referência, enfim, é bem bacana. O Typewolf também, novidades, trending do mundo da tipografia, eu acho bem interessante também, então vocês podem, pode ser um site para consulta. É legal, vocês abram esses sites todos os dias, tirem uma hora por dia, principalmente
-
-13:10
-você que está começando para consumir design realmente. E aqui algumas dicas extras é o Pinterest e por que dicas extra? porque aqui não tem curadoria né então assim tem projeto bom projeto ruim enfim e aqui pessoal é um site muito usado para inspiração de moda então vocês vão achar muita coisa nesse sentido o pessoal da arquitetura também usa muito mas nada impede vocês virem aqui
-
-13:36
-fazer uma pesquisa né então sei lá eu já fiz algumas pesquisas aqui para mostrar para vocês então por exemplo, vamos sair um pouquinho dessas pesquisas que eu já fiz, vamos vir em logo peixe, você pode colocar em português, peixe então olha só que interessante, vai aparecer um monte de logotipo envolvendo peixe E é legal você olhar aqui também, para de repente você não fazer nada parecido com o que já existe.
-
-14:06
-Olha que parecido a gente vai acabar fazendo, porque não tem como. Olha o tanto de logo de peixe que existe hoje em dia. Mas dá para você ir viajando. Então você clica aqui e é legal que você vai entrando num ciclo aqui. Eu abri esse projeto, já abri milhares de outros projetos aqui. Então tu vai viajando de um jeito.
-
-14:24
-Olha que legal essas ondinhas aqui, referências de cores também é legal e aí vocês podem pesquisar também por atributos, então acolhedor vai ter ambientes acolhedores e você vai meio que ter aqui uma paleta de cor desses projetos você vê que tem marrom, tons amadeirados, nudes, aconchegante, de repente você está fazendo um projeto que tem essa característica, olha que legal vai aparecer meio que uma paleta de cor aqui, indo mais para o verde
-
-
-
-
-## Links
-
 https://cometasupermercados.com.br/
 
 https://www.behance.net/gallery/111958905/Plenty?tracking_source=search_projects
 
 https://www.behance.net/gallery/138775975/Amine-Mesnaoui-x-Labelle-African-Prayers
+
+# [👆 TÓPICOS](#tópicos)
