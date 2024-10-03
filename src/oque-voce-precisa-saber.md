@@ -808,8 +808,19 @@ Mas em relação aos outros elementos que vem, o uso dentro do layout, junto com
 ![Burguer King](/src/img/o%20que%20voce%20precisa%20saber/burguerking18.PNG)
 
 
-
 Então acho que ele traz toda essa nostalgia de uma forma diferente, de uma forma nova e trazendo todos os elementos que seriam desejados para fazer o Burger King ter essa percepção que eles desejariam transmitir dentro de um segmento de fast food que é tão concorrido e por um lado é um tanto mal visto pelas pessoas então acho que eles conseguiram criar um projeto que atende muito muito bem todas essas demandas, todas essas exigências que a marca tinha pra se destacar no mercado.
+
+# Exercício ID-Board
+
+Faça esses boards em outras marcas
+
+![IDBoard](/src/img/o%20que%20voce%20precisa%20saber/idboard.PNG)
+
+Esses IdBoard servem para entender melhor de como é composto a identidade visual e serve como guia para o próprio projeto que vocês irão criar
+
+Preencha com 3 marcas do seu gosto
+
+![IDBoard](/src/img/o%20que%20voce%20precisa%20saber/idboard2.PNG)
 
 
  [👆 TÓPICOS](#tópicos)
