@@ -44,7 +44,7 @@ Uma outra questão que vai te ajudar muito a ter ideias é **buscar inspiração
 
 O mais que você me diga, eu criei um projeto sem olhar o trabalho de ninguém, eu não fiquei buscando inspiração na internet nem referências, mas **você já tem guardado na sua cabeça várias referências que você acumulou durante algum tempo**, então é muito importante que você entenda essas questões sobre criatividade.
 
-# [👆 TÓPICOS](#tópicos)
+[👆 TÓPICOS](#tópicos)
 
 
 # Comum vs Diferente
@@ -143,7 +143,7 @@ Não é interessante **ficar preso a um elemento**, porque uma hambúrgueria que
 
 Será apenas mais um hambúrguer onde o logotipo, o símbolo é um hambúrguer, e não causará essa diferenciação, **não terá uma marca registrada interessante**. Será apenas mais um hambúrguer onde o logotipo, o símbolo é um hambúrguer, e não causará essa diferenciação, não terá uma marca registrada interessante.
 
-# [👆 TÓPICOS](#tópicos)
+[👆 TÓPICOS](#tópicos)
 
 
 # Entra Lixo Sai Lixo
@@ -196,4 +196,4 @@ https://www.behance.net/gallery/111958905/Plenty?tracking_source=search_projects
 
 https://www.behance.net/gallery/138775975/Amine-Mesnaoui-x-Labelle-African-Prayers
 
-# [👆 TÓPICOS](#tópicos)
+[👆 TÓPICOS](#tópicos)

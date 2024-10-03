@@ -40,7 +40,7 @@
 Não é um curso de ferramentas
 - Esse curso provoca o autoconhecimento, análise e desejo pelo conhecimento para criar uma bagagem pra identificar oque é melhor e oque não é
 
-# [👆 TÓPICOS](#tópicos)
+[👆 TÓPICOS](#tópicos)
 
 
 # Oque um bom design precisa
@@ -55,7 +55,7 @@ Não é um curso de ferramentas
 - Qualidade (Junção dos três tópicos acima; Criar um projeto adequado ao público/empresa de acordo com os objetivos que ela tem a curto e a longo prazo; qualidade gráfica superior, atendimento, pensar no cliente e saber conversar sem muita pressão, saber tranquilizar o cliente)
 - Confiança e Valorização, consequencia de um bom entedimento do design, dominio do software, qualidade e metodologia, gerando uma boa segurança contra qualquer argumento do cliente
 
-# [👆 TÓPICOS](#tópicos)
+[👆 TÓPICOS](#tópicos)
 
 
 # 3 habilidades para o sucesso
@@ -100,7 +100,7 @@ Ninguem consegue se desenvolver sozinho, precisa de pessoas.
 - Redes Sociais
 
 
-# [👆 TÓPICOS](#tópicos)
+[👆 TÓPICOS](#tópicos)
 
 # O fluxo de um projeto
 
@@ -113,7 +113,7 @@ Existem projetos que não precisam necessariamente de um contrato, mais existem 
 O briefing ja é parte do trabalho, então faça o briefing após receber a primeira parte
 Beneficios da reunião -> Humanizar o atendimento, entender o cliente, os clientes que pagam mais geralmente gostam de ser atendido por pessoas
 
-# [👆 TÓPICOS](#tópicos)
+[👆 TÓPICOS](#tópicos)
 
 
 # O primeiro contato com o cliente
@@ -145,7 +145,7 @@ Evite falar "Vamos marcar uma reunião?"
 
 Reunião está relacionado a procedimentos que pessoas fazem pra perder tempo e que poderiam ser resolvidos de forma muito mais rápida por um email por exemplo
 
-# [👆 TÓPICOS](#tópicos)
+[👆 TÓPICOS](#tópicos)
 
 
 # Como conduzir uma reunião (Pré-briefing)
@@ -236,7 +236,7 @@ Não. Não pretendo registrar = Cliente não demostra ter muita resposabilidade 
 
 Marque uma reunião. Se você não se sente preparado para uma reunião, mande um formulário para o cliente (google forms) 
 
-# [👆 TÓPICOS](#tópicos)
+[👆 TÓPICOS](#tópicos)
 
 # Proposta
 
@@ -267,7 +267,7 @@ Marque uma reunião. Se você não se sente preparado para uma reunião, mande u
 - Valores e formas de pagamento
 
 
-# [👆 TÓPICOS](#tópicos)
+[👆 TÓPICOS](#tópicos)
 
 
 # Como avaliar um bom cliente
@@ -298,7 +298,7 @@ Ticket médio = faturamento total de vendas / numero de vendas * tempo
 " Email mais robusto e detalhado, Olá Jonatan, tenho uma empresa de tal segmento, atuo a tantos anos, etc "
 Esse tipo de ciente é muito mais conciencia do trabalho que você ofereçe e porque ele esta te procurando, logo, é um cliente mais adequado
 
-# [👆 TÓPICOS](#tópicos)
+[👆 TÓPICOS](#tópicos)
 
 
 # Negociação
@@ -317,7 +317,7 @@ Considerar o parcelamento.
 
 Quando o cliente acha caro pode ser pois dos motivos: porque ele não entendeu no que o seu trabalho pode agregar na empresa dele ou porque ele não tem investimento no momento para arcar. Nesse caso, considere o parcelamento
 
-# [👆 TÓPICOS](#tópicos)
+[👆 TÓPICOS](#tópicos)
 
 
 # Metodologias
@@ -329,7 +329,7 @@ Quando o cliente acha caro pode ser pois dos motivos: porque ele não entendeu n
 - Metodologia 3 mais aprofundada entrando na parte de brading, pacotes, etc
 
 
-# [👆 TÓPICOS](#tópicos)
+[👆 TÓPICOS](#tópicos)
 
 
 # Portfólio
@@ -354,7 +354,7 @@ Como eu estou começando eu vou cobrar um valor baixo, porém, eu gostaria de qu
 O meu projeto custa x reais, porém eu faço um desconto de 50% pra você porque eu estou 
 
 
-# [👆 TÓPICOS](#tópicos)
+[👆 TÓPICOS](#tópicos)
 
 # Modelo de contrato
 
@@ -383,7 +383,7 @@ Por exemplo:
 o cliente deseja uma assinatura de email que não esta no contrato.
 Olha, isso não ta no contrato, a gente vai fazer assim mesmo, como uma cortesia
 
-# [👆 TÓPICOS](#tópicos)
+[👆 TÓPICOS](#tópicos)
 
 
 # Estratégias de prospecção

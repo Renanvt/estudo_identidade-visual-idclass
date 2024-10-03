@@ -21,7 +21,7 @@ Outro benefício do planejamento é **alinhar as expectativas com o cliente**. E
 
 E o último, mas não menos importante, um grande benefício de planejamento é que você consegue **administrar melhor o tempo**. Sabendo quais etapas você tem, você pode colocar ** em cada uma e ter uma previsão muito mais **assertiva da entrega**. Então é isso, na próxima aula a gente vai ver quais etapas compõem esse planejamento.
 
-# [👆 TÓPICOS](#tópicos)
+[👆 TÓPICOS](#tópicos)
 
 
 # Quais etapas teremos
@@ -78,7 +78,7 @@ E a apresentação tem que ser muito bem trabalhada porque ela é responsável p
 
 E na entrega a gente tem ali o pacote de entregáveis, que são as assinaturas, grafismos, ilustrações, ícones, o manual. 
 
-# [👆 TÓPICOS](#tópicos)
+[👆 TÓPICOS](#tópicos)
 
 
 # Backlog
@@ -96,7 +96,7 @@ Sempre coloque um tempinho a mais do que você acha vai levar para que você ten
 
 Você pode enviar esse backlog na proposta do cliente para ele saber oque vai ser trabalhado em cada semana, evitando com que ele fique com ansiedade, fazendo com que o cliente tenha ciência de quando ele vai receber cada item.
 
-# [👆 TÓPICOS](#tópicos)
+[👆 TÓPICOS](#tópicos)
 
 
 # Organizando pastas
@@ -105,4 +105,4 @@ Você pode enviar esse backlog na proposta do cliente para ele saber oque vai se
 
 ![Organizando-pastas](/src/img/planejamento-estrategico/organizando-pastas.PNG)
 
-# [👆 TÓPICOS](#tópicos)
+[👆 TÓPICOS](#tópicos)

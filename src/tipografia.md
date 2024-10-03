@@ -56,7 +56,7 @@ Quem tinha acesso aos livros antes de 1500 era os nobres, igreja e muitas pessoa
 
 ![Tipo1](/src/img/tipo1.PNG)
 
-# [👆 TÓPICOS](#tópicos)
+[👆 TÓPICOS](#tópicos)
 
 # Tipografia na identidade visual
 
@@ -79,7 +79,7 @@ O papel da tipografia em um projeto de identidade visual é trazer personalidade
 
 A tipografia **carrega a mensagem da marca**
 
-# [👆 TÓPICOS](#tópicos)
+[👆 TÓPICOS](#tópicos)
 
 # Diferença entre Tipografia, Caligrafia e Lettering
 
@@ -148,7 +148,7 @@ Sensação de que foi feito a mão, porém, não é fluído como a caligrafia
 
 **Acolhedor**
 
-# [👆 TÓPICOS](#tópicos)
+[👆 TÓPICOS](#tópicos)
 
 # Fonte x Tipografia
 
@@ -195,7 +195,7 @@ A vantagem de uma marca ter uma fonte própria, é que só ela no mundo irá pod
 
 Existem empresas que desenvolvem a fonte própria com domínio público, como por exemplo a **IBM**. Eles fazem isso por conta de várias pessoalidades, como por exemplo projetos de open-source.
 
-# [👆 TÓPICOS](#tópicos)
+[👆 TÓPICOS](#tópicos)
 
 # Por que as marcas estão criando suas próprias fontes
 
@@ -226,7 +226,7 @@ As marcas desenvolvem suas próprias fontes pelos seguintes motivoss:
 
 ![FontexTipografia8](/src/img/fontextipografia8.PNG)
 
-# [👆 TÓPICOS](#tópicos)
+[👆 TÓPICOS](#tópicos)
 
 # Direitos de uso da fonte
 
@@ -275,7 +275,7 @@ Existem sites em que você irá encontrar **fontes piratas** em que eles pegaram
 
 Se eu utilizar uma fonte de uso pessoal no projeto de um cliente eu vou ser pego? Díficil você ser pego, geralmente acontece esses problemas quando são empresas grandes e estão super exposta. Então a limitação é sua conciência.
 
-# [👆 TÓPICOS](#tópicos)
+[👆 TÓPICOS](#tópicos)
 
 # Enviar os arquivos de fonte para o cliente utilizar
 
@@ -302,7 +302,7 @@ O uso da fonte pode variar de acordo com os termos que o autor daquela obra ofer
 
 O uso da fonte pode ser retrito de acordo com a quantidade de computadores. Existe limite de computadores em que a fonte pode ser instalada, para saber isso, você irá precisar ler a **EULA**
 
-# [👆 TÓPICOS](#tópicos)
+[👆 TÓPICOS](#tópicos)
 
 # Cuidados com o Adobe Fonts
 
@@ -328,7 +328,7 @@ Você pode utilizar o adobe fonts tranquilamente em seus logotipo, porque você 
 
 Você pode utilizar o adobe fonts em projetos específicos que você vai utilizar a fonte, vai dar saída e não vai precisar ficar reutilizando ela depois
 
-# [👆 TÓPICOS](#tópicos)
+[👆 TÓPICOS](#tópicos)
 
 # Onde adquirir fontes type funders
 
@@ -376,7 +376,7 @@ Você aluga a fonte, testa instalando no seu computador por um determinado perí
 
 https://fontstand.com/fonts
 
-# [👆 TÓPICOS](#tópicos)
+[👆 TÓPICOS](#tópicos)
 
 # Escolhendo a fonte de apoio
 
@@ -431,7 +431,7 @@ A maioria das fontes de qualidade tem suporte ao idioma latino
 
 È importante verificar o suporte da fonte ao idioma latino (Portugues-Brasil) como caracteres acentuados, pontuações e çedilhas
 
-# [👆 TÓPICOS](#tópicos)
+[👆 TÓPICOS](#tópicos)
 
 # Diferenças entre fontes desenhadas para títulos, para textos e para legendas
 
@@ -475,7 +475,7 @@ Fontes com fator Iktrap faz mais sentido quando utilizada em impressos com papé
 
 Se for utilizada no digital, não precisa ter essas variações. Somente utilize quando for imprimir ou em projetos específicos que tem muita aplicação editorial
 
-# [👆 TÓPICOS](#tópicos)
+[👆 TÓPICOS](#tópicos)
 
 # Open Type
 
@@ -489,7 +489,7 @@ Inclinado é diferente de itálico. O Itálico inclina os caracteres individualm
 
 ![ItalicoxInclinado](/src/img/italicoxinclinado.png)
 
-# [👆 TÓPICOS](#tópicos)
+[👆 TÓPICOS](#tópicos)
 
 # Diferença entre usar letras maiúsculas e minúsculas no logotipo
 
@@ -589,7 +589,7 @@ Além do mais, esse bloco que as maiúsculas formam permite um encaixe melhor na
 
 ![Netflix2](/src/img/netflix3.png)
 
-# [👆 TÓPICOS](#tópicos)
+[👆 TÓPICOS](#tópicos)
 
 # A tipografia perfeita para o seu projeto
 
@@ -599,7 +599,7 @@ A tipografia perfeita é aquela que se encaixa dentro do projeto de acordo com o
 
 A tipografia deve estar alinhado com a mensagem da marca.
 
-# [👆 TÓPICOS](#tópicos)
+[👆 TÓPICOS](#tópicos)
 
 # Classificação tipográfica
 
@@ -1265,7 +1265,7 @@ Sugestões de uso:
 
 ![Typewriter](/src/img/Typewriter7.PNG)
 
-# [👆 TÓPICOS](#tópicos)
+[👆 TÓPICOS](#tópicos)
 
 # Marcas que fogem das convenções e atributos sociais
 
@@ -1321,7 +1321,7 @@ Essas fontes e estratégias podem ajudar a criar um logotipo que não apenas atr
 
 Eles combinam o gótico com a serifa para dar um certo contraste do que é moderno e de algo histórico
 
-# [👆 TÓPICOS](#tópicos)
+[👆 TÓPICOS](#tópicos)
 
 # Conteúdos sobre tipografia
 
@@ -1351,5 +1351,5 @@ Blog da plau
 ![Livro5](/src/img/livro5.PNG)
 > MECOTipo, Buggy
 
-# [👆 TÓPICOS](#tópicos)
+[👆 TÓPICOS](#tópicos)
 
