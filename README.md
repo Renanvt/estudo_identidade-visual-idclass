@@ -8,6 +8,8 @@
 
 [Planejamento Estratégico](/src/planejamento-estrategico.md)
 
+[Dominando o Briefing](/src/Briefing.md)
+
 [Tipografia](/src/tipografia.md)
 
 [Formas](/src/formas.md)
