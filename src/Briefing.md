@@ -171,5 +171,159 @@ De modo geral o briefing ajuda para desvendar os diferenciais do cliente.
   
 - Entregas racionais e emocionais
 
+## Roteiro de briefing
+
+![Roteiro](/src/ferramentas/Briefing/7.2%20Roteiro.pdf)
+
+# Abrindo a reunião
+
+Dicas
+
+## Forma como abrir a reunião
+
+A primeira impressão é que fica, então é muito importante que você começe bem a reunião para proporcionar uma experiência agradável para todos que vão participar, porque essa experiencia é super importante para os dados que serão coleados. Então deixar as pessoas avontade é o seu papel enquanto condutor da conversa.
+
+## Check List da reunião
+
+- Todos estão presentes ?
+
+- Checar áudio e video
+
+- Comprimentos e simpatia
+
+- Reforce a importância dessa etapa e da participação de todos
+
+- Pergunte se todos que têm o poder do sim e do não na etapa final de aprovação estão presentes na reunião. Caso contrário, remarque.
+
+- È interessante tirar pelo menos 10 minutos para entrevistar os participantes de forma individual
+
+- Documente todos que estão participando
+
+- Anote seus nomes, cargos dentro da empresa e tempo de empresa.
+
+
+# Público
+
+## Como você descrevia seu público ideal
+
+- Medos
+
+- Desejos
+
+- Marcas preferidas
+
+- Profissão
+
+- Classe social
+
+- Perfil
+
+- Hobbies
+
+- Estilo de vida
+
+- Lugares que frequentam
+
+Esses itens ajudam a criar uma persona
+
+## Dados demográficos
+
+- Sexo
+
+- Faixa etária
+
+- Orientação Sexual
+
+- Estado Civil
+
+- Nacionalidade ou região
+
+- Residência atual
+
+- Grau de alfabetização
+
+- Ocupação e demais informações econômicas
+
+## Seu público é classe A, B, C ou D?
+
+## Descreva as pessoas que frequentam seu estabelecimento e/ou consomem seu produto ou serviço.
+
+- Necessária só em caso de redesign
+
+- É muito provavél que a resposta dessa pergunta vai bater com as respostas de perguntas já feitas.
+
+Uma marca que está nascendo ainda não tem pessoas que frequentam o estabelecimento
+
+# Concorrentes
+
+Saber quem são os competidores do nosso cliente irá ajudar a enxergar oportunidades e também limitar a nossa criatividade.
+
+Limitar a nossa criatividade é muito benéfico.
+
+## Quais principais concorrentes você considera atualmente?
+
+- Pesquise o concorrente enquanto conversa com o cliente.
+
+- Avalie se o cliente possui concorrentes indiretos
+
+Por exemplo em datas comemorativas O cacau show e boticário acabam sendo concorrentes diretos no setor de presente.
+
+## Quais os maiores players desse mercado?
+
+## Oque te difere dos seus concorrentes?
+
+- Qualidade, compromisso, ótimo atendimento, etc são atributos praticamente obrigatórios.
+
+- Nosso objetivo é ir além disso. Me diga quais são os verdadeiros diferenciais que levam as pessoas preferir seu negócio ao invés do seu concorrente
+
+# Arquétipo
+
+Arquétipo é um conceito da psicologia utilizado para representar padrões de comportamento associado a um personagem ou papel social.
+
+Esse conceito foi desenvolvido por Carlo G. Jung, psiquiatra suiço e fundador da psicologia analítica.
+
+Para Jung, esses comportamentos estão no inconsciente coletivo e, por isso, são percebidos de maneira similar por todos.
+
+Segundo Jung: os arquétipos são "conjuntos de imagens primordiais originadas de uma repetição progressiva de uma mesma experiência durante muitas gerações, armazenadas no inconsciente coletivo".
+
+São uma herança psicológica, ou seja, resultam das experiências de milhares de gerações de seres humanos no enfretamento das situações cotidianas.
+
+As imagens dos arquétipos são encontradas em mitos, lendas, na literutra, nos filmes e até mesmo nos nossos sonhos.
+
+
+Basicamente arquétipo são imagens que carregam varios conceitos que são presentes no nosso consciente coletivo.
+
+Exemplo:
+
+Herói - Corajoso, destemido, forte (conceitos universais)
+
+Os arquétipos começaram a ser percebidos pela marca através de estudos das autoras Margareti Mark e Carol S. Person
+
+![Arquetipo](/src/img/Briefing/arquetipo.PNG)
+
+O arquétipo é um estudo muito aprofundado por isso é indicado a leitura desse livro
+
+Essas autoras pegaram os estudos de Carlo Jung e perceberam que algumas marcas e campanhas publicitárias acabam utilizando arquétipos de forma consciente e perceberam algo em comum. E documentaram nesse livro.
+
+Cada arquétipo possui seus medos, estratégia, desejos, metas, armadilhas, dons, etc.
+
+Algumas marcas utilizam seu arquétipo no design e no posicionamento.
+
+Uma marca pode ter varios arquétipos que irão aparecer em determinados momentos em que ele necessite se fazer presente.
+
+## Como identificar o arquétipos
+
+Links:
+
+https://www.universoaura.com/teste-arquetipos-marca/
+
+---------------------------
+
+https://rockcontent.com/br/blog/arquetipo-de-marca/
+
+https://medium.com/plaudesign/identitype-a-busca-das-marcas-por-uma-voz-tipografica-d7d81c428135
+
+https://www.amper.ag/post/12-arquetipos-de-marca-que-voc%C3%AA-pode-usar-para-posicionar-sua-marca-com-eficacia
+
 
 # [👆 TÓPICOS](#tópicos)
