@@ -8,6 +8,22 @@
 
 [Quais perguntas deve conter no briefing](#quais-perguntas-deve-conter-no-briefing)
 
+[Roteiro de Briefing](#roteiro-de-briefing)
+
+[Abrindo a reunião](#abrindo-a-reunião)
+
+[Público](#público)
+
+[Concorrente](#concorrentes)
+
+[Arquétipos](#arquétipo)
+
+[Redesign](#redesign)
+
+[Empresa B2B](#empresa-b2b)
+
+[Exemplo de Briefing](#exemplo-de-briefing)
+
 # Oque é Briefing
 
 O briefing nada mais é do que um **processo de coleta de informações** e ou dados que podem ser transmitidos via **reunião** ou **formulário**. No nosso caso, o briefing serve para **entender** a fundo o que o cliente está precisando. É o **mapeamento de problemas** e o **início** por buscas e **soluções**.
@@ -171,9 +187,13 @@ De modo geral o briefing ajuda para desvendar os diferenciais do cliente.
   
 - Entregas racionais e emocionais
 
-## Roteiro de briefing
+# [👆 TÓPICOS](#tópicos)
+
+# Roteiro de briefing
 
 ![Roteiro](/src/ferramentas/Briefing/7.2%20Roteiro.pdf)
+
+# [👆 TÓPICOS](#tópicos)
 
 # Abrindo a reunião
 
@@ -200,6 +220,8 @@ A primeira impressão é que fica, então é muito importante que você começe 
 - Documente todos que estão participando
 
 - Anote seus nomes, cargos dentro da empresa e tempo de empresa.
+
+# [👆 TÓPICOS](#tópicos)
 
 
 # Público
@@ -254,6 +276,8 @@ Esses itens ajudam a criar uma persona
 
 Uma marca que está nascendo ainda não tem pessoas que frequentam o estabelecimento
 
+# [👆 TÓPICOS](#tópicos)
+
 # Concorrentes
 
 Saber quem são os competidores do nosso cliente irá ajudar a enxergar oportunidades e também limitar a nossa criatividade.
@@ -276,7 +300,11 @@ Por exemplo em datas comemorativas O cacau show e boticário acabam sendo concor
 
 - Nosso objetivo é ir além disso. Me diga quais são os verdadeiros diferenciais que levam as pessoas preferir seu negócio ao invés do seu concorrente
 
+# [👆 TÓPICOS](#tópicos)
+
 # Arquétipo
+
+![Arquétipo](/src/ferramentas/Briefing/14.2%20Arquétipo.pdf)
 
 Arquétipo é um conceito da psicologia utilizado para representar padrões de comportamento associado a um personagem ou papel social.
 
@@ -327,3 +355,59 @@ https://www.amper.ag/post/12-arquetipos-de-marca-que-voc%C3%AA-pode-usar-para-po
 
 
 # [👆 TÓPICOS](#tópicos)
+
+# Redesign
+
+
+Porque esse redesign ta sendo feito?
+
+Porque você foi contratado pra fazer esse redesign?
+
+Pode ser um **reposicionamento completo** ou pode ser só um ajuste no posicionamento
+
+Talvez esse mudança pode estar acontecendo devido a algum **acontecimento negativo** na história dessa empresa
+
+È importante manter algum **elemento visual da marca** nesse redesign?
+
+É importante verificar oque já se criou uma **preguinancia** e oque não criou. As **cores** podem ser manter no redesign ou não.
+
+Pode ser que uma marca passe por um **super redesign** no logotipo trazendo um **posicionamento** totalmente novo.
+
+Mexer com marcas que já criaram uma **afetividade** com o público fica muito complicado, por isso, é necessário uma análise muito **delicada**.
+
+Verificar se o **nome** irá passar por alguma alteração, o nome vem acompanhado com o rebraind e toda uma repaginação.
+
+## Exemplo Odebrash
+
+Essa empresa teve problemas com a situação do Lava Jato e precisou passar por um rebraind total
+
+A empresa em si era muito boa, composta por engenheiros qualificiados pra executar uma obra e não seria justo para a empresa sofrer as consequencias por decisões erradas do seus diretores então passou por toda uma reestruturação na empresa.
+
+![Odebrash](/src/img/Briefing/odebresh.PNG)
+
+
+## Exemplo Coca-Cola
+
+Muitas marcas passam por um redesign sutil, porém, a essência permaneçe a mesma
+
+A coca-cola fez um fast-list suave no logo, porém, fez toda uma estrutura nova no seu comportamento ao decorrer dos anos
+
+![Coca-Cola](/src/img/Briefing/coca-cola.PNG)
+
+# [👆 TÓPICOS](#tópicos)
+
+# Empresa B2B
+
+Vendem vendem de empresas para empresas, talvez seja necessário fazer alguma modificação no briefing.
+
+Você precisa entender e recolher com o seu cliente que tipo de imagem ele quer transmitir no mercado, as vezes essa empresa B2S quer se comportar mirando no público do cliente dele ou seja, o consumidor final. Ou as vezes eles querem impactar a empresa.
+
+O processo em si não tem muita diferença, você irá precisar extrair as mesmas informações, porém, você terá que dar uma analisada no seu briefing para fazer algumas adaptaçoes.
+
+A essência que é você conseguir captar o posicionamento, propósito, etc perçamenem.
+
+# [👆 TÓPICOS](#tópicos)
+
+# Exemplo de Briefing
+
+https://www.evernote.com/shard/s205/client/snv?noteGuid=82c3fce8-23dd-b87a-4303-b13a0cc05a1c&noteKey=c810e3a03570f0efc8f7822944ed7fce&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs205%2Fsh%2F82c3fce8-23dd-b87a-4303-b13a0cc05a1c%2Fc810e3a03570f0efc8f7822944ed7fce&title=Clave%2BCaf%25C3%25A9s%2BEspeciais%2B%25E2%2580%2593%2BBriefing
