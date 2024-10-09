@@ -1105,4 +1105,40 @@ O logo também é só esporto e não tem nada demais assim, mas eles usaram um s
 
 Eu espero que vocês tenham gostado dessas sugestões e considerem incluir isso, pense nisso nos próximos projetos.
 
+## Links
+
+​Fotografia
+
+https://www.behance.net/gallery/57255417/Balsamico-Brand-Design?tracking_source=search_projects|br bauen
+
+
+
+Ilustração
+
+https://www.behance.net/gallery/59188105/Bene/modules/348144145
+
+https://portorocha.com/quintoandar
+
+
+
+Layout e tipografia 
+
+https://www.behance.net/gallery/56253715/City-Point-Brand-Identity-Wayfinding-and-Campaign
+
+https://www.behance.net/gallery/8043101/The-Public-Theater
+
+
+
+Símbolos e ícones 
+
+https://www.behance.net/gallery/136350041/Bombavista
+
+https://www.behance.net/gallery/139218659/Espaco-Forca-e-Luz
+
+https://www.behance.net/gallery/126103667/Francisca-Joias
+
+https://www.behance.net/gallery/140180409/Mantiqueira-Brasil
+
+https://www.behance.net/gallery/20315389/New-identity-for-the-city-of-Porto
+
 # [👆 TÓPICOS](#tópicos)
