@@ -570,7 +570,7 @@ Depois de signo você precisa compreender o que é objeto. Objeto é aquela cois
 
 Então, vamos lá: *estou amando estar neste evento chato*. 
 
-![Semiótica](/src/img/bomlogo/semiotica2PNG)
+![Semiótica](/src/img/bomlogo/semiotica2.PNG)
 
 
 O amando aqui é o odiando, o meu objeto dessa frase é o odiando, é o que está sendo representado, o **signo** é o **amando**, entenderam? Então, o signo está no lugar de odiando, **odiando** é o meu **objeto**. 
@@ -781,7 +781,7 @@ Ou se eu estivesse em outro país e não reconhecesse aquela placa? Porque o for
 
 Vamos lá. Primeiro, temos um input.
 
-[Sistema-De-Percepção](/src/img/bomlogo/sistema-de-percepcao.PNG)
+![Sistema-De-Percepção](/src/img/bomlogo/sistema-de-percepcao.PNG)
 
 
 
@@ -792,7 +792,7 @@ Esse input tem interferências externas, locais, situacionais, climáticas, de i
 
 Então se você olha uma peça de design, sei lá, num museu, onde tem as luzes, tudo é um ambiente controlado, então você consegue apreciar aquilo, você vai ter uma percepção sobre aquilo. Num lugar barulhento, no centro de uma cidade, numa loja, num shopping, na sua casa a percepção vai ser afetada, vai ter um barulho, então o **ambiente ele modifica a nossa percepção.**
 
-[Sistema-De-Percepção](/src/img/bomlogo/sistema-de-percepcao2.PNG)
+![Sistema-De-Percepção](/src/img/bomlogo/sistema-de-percepcao2.PNG)
 
 
 Bom, indo até a entrada, aquele objeto, aquela peça existe, ela chegou até um ser humano, e o ser humano tem os seus valores, os seus hábitos, conhecimento histórico, vínculos afetivos, culturais, religiosos, profissionais, experiências vividas, então o ser humano vai interpretar aquilo, vai processar aquilo de acordo com o repertório que ele tem, o **repertório da vida**.
@@ -800,20 +800,20 @@ Bom, indo até a entrada, aquele objeto, aquela peça existe, ela chegou até um
 
 Às vezes você olha uma pintura, por exemplo, e você não vai ter o mesmo sentimento que outra pessoa. Claro que estamos falando de design, mas mesmo o design será recebido de maneiras diferentes, dependendo do público e de suas experiências, seu repertório. 
 
-[Sistema-De-Percepção](/src/img/bomlogo/sistema-de-percepcao3.PNG)
+![Sistema-De-Percepção](/src/img/bomlogo/sistema-de-percepcao3.PNG)
 
 Então, essa entrada passará pelo ser humano, passará pelo inconsciente, o inconsciente age antes do consciente, passará pelo consciente,
 e gerará uma decisão e uma resposta emocional. E então vai para a saída e causará uma ação e reação. Então, veja como esse sistema funciona. Você tem uma entrada que passará por um ser humano, que vai para o inconsciente, depois para o consciente, depois para a decisão e para uma resposta emocional.
 
 E onde a semiótica atua nesse sistema? No **consciente**.
 
-[Sistema-De-Percepção](/src/img/bomlogo/sistema-de-percepcao4.PNG)
+![Sistema-De-Percepção](/src/img/bomlogo/sistema-de-percepcao4.PNG)
 
 
 Então, estamos tentando entender conscientemente esses sinais dentro desse sistema. Agora, preciso apresentar a vocês dois personagens, que são o gerador e o intérprete. 
 
 
-[Sistema-De-Percepção](/src/img/bomlogo/sistema-de-percepcao5.PNG)
+![Sistema-De-Percepção](/src/img/bomlogo/sistema-de-percepcao5.PNG)
 
 
 O gerador é quem emite a mensagem, e o intérprete é quem recebe a mensagem. Mas para facilitar o entendimento, eu vou trocar o gerador pelo designer, e o intérprete pelo público, que é quem vai interpretar a mensagem do designer.
@@ -836,7 +836,7 @@ Mas vamos a exemplos práticos.
 
 Bom, isso aqui representa um botão de um bebedouro.
 
-[Sistema-De-Percepção](/src/img/bomlogo/sistema-de-percepcao6.PNG)
+![Sistema-De-Percepção](/src/img/bomlogo/sistema-de-percepcao6.PNG)
 
 Quando você chega em um bebedouro para beber água ninguem olha para essas instruções porque já é muito intuitivo e já entedemos que pra abrir uma torneira a gente gira no sentido anti-horário pra fechar e no sentido horário pra abrir.
 
@@ -844,11 +844,11 @@ Entretanto, esse botão é diferente, pois ele tem além de abrir e fechar, poss
 
 Então a pessoa abre no sentido anti-horário pra pegar a aguá gelada
 
-[Sistema-De-Percepção](/src/img/bomlogo/sistema-de-percepcao7.PNG)
+![Sistema-De-Percepção](/src/img/bomlogo/sistema-de-percepcao7.PNG)
 
 Depois a pessoa gira no sentido horário pra fechar a aguá
 
-[Sistema-De-Percepção](/src/img/bomlogo/sistema-de-percepcao8.PNG)
+![Sistema-De-Percepção](/src/img/bomlogo/sistema-de-percepcao8.PNG)
 
 Entretanto, no sentido horário é a função de temperatura, fazendo com que a água caia no chão e gerando frustações.
 
@@ -856,13 +856,13 @@ Notamos que a fabricante desse bebedouro não utilizou do nosso repertório pra 
 
 Trazendo para o design gráfico:
 
-[Sistema-De-Percepção](/src/img/bomlogo/sistema-de-percepcao9.PNG)
+![Sistema-De-Percepção](/src/img/bomlogo/sistema-de-percepcao9.PNG)
 
 Posso usar esse símbolo em um logotipo e identidade visual? **LÓGICAMENTE QUE NÃO**
 
 Esse símbolo esta associado ao nazismo, e ninguem quer ser associado a esse período histórico tão horrível
 
-[Sistema-De-Percepção](/src/img/bomlogo/sistema-de-percepcao10.PNG)
+![Sistema-De-Percepção](/src/img/bomlogo/sistema-de-percepcao10.PNG)
 
 Entender o repertório do cliente/público é importante para criar símbolos que não só não vão fazer sentido, como também não trazer sentidos negativos.
 
@@ -872,7 +872,7 @@ Por isso é importante você análisar essa percepção e entender o repertório
 
 ## Exemplo de logos que não adotaram o sistema de percepção corretamente
 
-[Logos-Ruins](/src/img/bomlogo/logos-ruins.PNG)
+![Logos-Ruins](/src/img/bomlogo/logos-ruins.PNG)
 
 
 # [👆 TÓPICOS](#tópicos)
@@ -1057,7 +1057,7 @@ Esse aqui também é um caso de que você tem uma espécie de símbolo ali no lo
 
 ![espaco-forca-luz](/src/img/bomlogo/espaco-forca-luz19.PNG)
 
-![espaco-forca-luz](/src/img/bomlogo/espaco-forca-luz20.PNG)
+
 
 
 
