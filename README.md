@@ -13,3 +13,5 @@
 [Tipografia](/src/tipografia.md)
 
 [Formas](/src/formas.md)
+
+[Cores](/src/cores.md)
