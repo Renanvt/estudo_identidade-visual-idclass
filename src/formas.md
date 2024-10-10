@@ -16,6 +16,10 @@
 
 [Elementos Visuaais e Padrões](#elementos-visuais-e-padrões)
 
+[Proporção](#proporção)
+
+[Livros](#livros)
+
 
 
 AS formas enfuenciam a percepção do telespectador
@@ -1140,5 +1144,33 @@ https://www.behance.net/gallery/126103667/Francisca-Joias
 https://www.behance.net/gallery/140180409/Mantiqueira-Brasil
 
 https://www.behance.net/gallery/20315389/New-identity-for-the-city-of-Porto
+
+# [👆 TÓPICOS](#tópicos)
+
+# Proporção
+
+Quanto a isso não tem regra, é muito pelo olho, dependendo do tamanho do nome, do logotipo, símbolo. 
+
+Existe um tratamento especial quando fazemos a versõa horizontal e vertical, não é regra, mais é bom analisar e fazer alguns testes.
+
+## Artigos que podem ajudar
+
+https://medium.com/unfoldco/how-to-create-a-well-balanced-vertical-logo-dcb2064c1bfb
+
+# [👆 TÓPICOS](#tópicos)
+
+# Livros
+
+![Livro01](/src/img/bomlogo/livro01.PNG)
+> Elementos de Semiótica Aplicadas ao Design, Lucy Niemeyer. Livro pequeno e consegue ler em uma tarde. Não é simples de compreender
+
+![Livro02](/src/img/bomlogo/livro02.PNG)
+> Isto Significa Isso. Isso Significa Aquilo, Sean Hall. Fala da semiótica de uma maneira mais ampla, não só em relação ao design mais da comunicação em geral.
+
+![Livro03](/src/img/bomlogo/livro03.PNG)
+> Sinais e Símbolos, Adrian Frutiger. Fala sobre formas e a percepção sobre elas, ajuda muito pra quem ta começando.
+
+![Livro04](/src/img/bomlogo/livro04.PNG)
+> Logo Design - Globan Brands, Julius Wiedemann. Livro de referências para design contento logotipos famosos categorizados e organizados.
 
 # [👆 TÓPICOS](#tópicos)
