@@ -4,10 +4,12 @@
 
 [Esqueça o significado das cores](#esqueça-o-siginificado-das-cores)
 
+[Cores e posicionamento](#cores-e-posicionamento)
+
+[Associação material e afetiva](#associação-material-e-afetiva)
 
 
 # A importância das cores
-
 
 As cores são ativos extremamente importantes na construção de uma marca. Por isso é muito importante escolher as cores do seu projeto com sabedoria. 
 
@@ -201,3 +203,74 @@ A proporção altera nossa percepção sobre as cores
 ![Cor05](/src/img/cores/cor39.PNG)
 
 [👆 TÓPICOS](#tópicos)
+
+# Cores e posicionamento
+
+O posicionamento de uma marca é formado por outros elementos além do design gráfico e não depende apenas de cores.
+
+![Cor05](/src/img/cores/cor40.PNG)
+
+Cores quentes ou frias podem aproximar ou afastar o cliente, porém, a marca tem outros canais que afetam o posicionamentos.
+
+Nubank tem um atendimento muito bom, proximidade com o cliente excelente e a cor é roxo, uma cor fria.
+
+Não se limites a esses padrões de cores.
+
+Burguer king retirou o azul e passou a adotar cores mais quentes pra remeter a comida artezanal, industrializada. Isso não quer dizer que você vai trabalhar para um restaurante é necessário utilizar cores quentes, é importante sair das convenções sociais.
+
+Um restaurante que tem uma comida sóbria, com ticket médio alto, comida mais gurmuer você não irá poder utilizar cores quentes e muito saturadas, talvez seja interessante adotar cores mais sóbrias, fechadas, frias. Não faz sentido pra esse estabelecimento querer parecer próximo ao cliente, popular.
+
+Há uma análise a ser feito muito mais aprofundada do que só considerar que a cor quente por exemplo é uma cor mais acolorada e as cores azuis são mais frias, é preciso analisar o contexto em como essa marca irá se posicionar no mercado.
+
+Embora o design não seja o único reponsável a posicionar determinada marca no mercado ele ajuda muito na percepção da marca.
+
+# Associação material e afetiva
+
+Nós fazemos asociações a cores de forma material e emotiva
+
+
+Associação Material: Azul - céu, mar
+Associação Emotiva: Azul - tranquilidade, seriedade
+
+## VERMELHO
+
+**Associação Material**: Rubi, cereja, guerra, lugar, sinal de parada, perigo, vida, Sol, Fogo, Chama, Sangue, combate, lábios, mulher, feridas, rochas vermelhas, conquista, masculinadade.
+
+**Associação Afetiva**: dinamismo, força, baixeza, energia, revolta, movimento, barbarismo, coragem, furor, esplendor, intensidade, paixão, vulgaridade, poderio, vigor, glória, calor, violência, dureza, exitação, ira, interdição, emoção, ação, agressividade, alegria comumicativa, extroversão, sensualidade
+
+## VERDE
+
+**Associação Material**: umidade, frescor, diafaneidade, primavera, bosque, águas claras, folhagem, tapete de jogos, mar, versão, planície, natureza.
+
+**Associação Afetiva**: adolescência, bem-estar, paz, saúde, ideal, abundância, tranquilidade, segurança, natureza, equilíbio, esperança, serenidade, juventude, suavidade, crença, firmeza, coragem, desejo, descanso, liberalidade, tolerância, ciúme.
+
+## AZUL
+
+**Associação afetiva**: espaço, viagem, verdade, sentido, afeto, intelectualidade, paz, advertência, precaução, serenidade, infinito, meditação, confiança, amizade, amor, fidelidade, sentimento profundo.
+
+## LARANJA
+
+**Associação afetiva**: desejo, excitabilidade, dominação, sexualidade, força, luminosidade, dureza, euforia, energia, alegria, advertência, tentação, prazer, senso de humor.
+
+![Cor05](/src/img/cores/cor42.PNG)
+
+![Cor05](/src/img/cores/cor43.PNG)
+
+![Cor05](/src/img/cores/cor44.PNG)
+> Fase do café em que ele é avermelhado
+
+![Cor05](/src/img/cores/cor45.PNG)
+> Fase do café com tons de verde
+
+![Cor05](/src/img/cores/cor46.PNG)
+
+![Cor05](/src/img/cores/cor47.PNG)
+
+![Cor05](/src/img/cores/cor48.PNG)
+
+![Cor05](/src/img/cores/cor49.PNG)
+
+![Cor05](/src/img/cores/cor50.PNG)
+> Associação afetiva
+
+
